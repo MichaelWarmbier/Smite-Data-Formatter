@@ -1,61 +1,126 @@
-// store current time
-// store iteration of updates
-// check iteration and current time to determine if enough time has passed
-// IF: true, update time, begin process. OPTIONAL: manual process
-// process standard, based on original
-// generate report (timestamp?)
+const fetch = require('@replit/node-fetch');
+const fs = require('fs');
+const md5 = require('md5');
+
+const smiteAPI = "https://api.smitegame.com/smiteapi.svc/";
+const devId = process.env['devID'];
+const authKey = process.env['key'];
+sId = '';
 
 const langData = {
-  Names = ["ENGLISH", "GERMAN", "SPANISH", "PORTUGESE", "LATAM", "CHINESE", "RUSSIAN", "TURKISH", "FRENCH", "POLISH"];
-  IDs = [1, 2, 7, 10, 9, 5, 11, 13, 3, 12];
+  Names: ["ENGLISH", "GERMAN", "SPANISH", "PORTUGESE", "LATAM", "CHINESE", "RUSSIAN", "TURKISH", "FRENCH", "POLISH"],
+  IDs: [1, 2, 7, 10, 9, 5, 11, 13, 3, 12]
 };
 
-case '1': language = 1; break;
-        case '2': language = 2; break;
-        case '3': language = 3; break;
-        case '4': language = 5; break;
-        case '5': language = 7; break;
-        case '6': language = 9; break;
-        case '7': language = 10; break;
-        case '8': language = 11; break;
-        case '9': language = 12; break;
-        case '10': language = 13; break;
+// Borrowed from Smite-API-Application
+
+async function createSession() {
+  let signature = md5(devId + "createsession" + authKey + getTimeStamp());
+  let resp = await fetch(smiteAPI + "createsessionjson/" + devId + '/' + signature + '/' + getTimeStamp());
+  sID = (await resp.json()).session_id;
+}
+
+async function createSignature(methodName) {
+  return md5(devId + methodName + authKey + getTimeStamp());
+}
+
+async function createLink(methodName, language) {
+  args = [devId, await createSignature(methodName), sID, getTimeStamp(), language];
+  let link = smiteAPI + methodName + "json";
+  for (let argIndex = 0; argIndex < args.length; argIndex++) 
+    link += '/' + args[argIndex];
+  return link;
+}
+
+function getTimeStamp() {
+
+  const date = new Date();
+  let year, month, day, hour, minute, second;
+
+  year = date.getUTCFullYear();
+  if (date.getUTCMonth() < 9) month = '0' + (date.getUTCMonth() + 1); 
+  else month = date.getUTCMonth() + 1;
+  if (date.getUTCDate() < 10) day = '0' + date.getUTCDate(); 
+  else day = date.getUTCDate();
+  if (date.getUTCHours() < 10) hour = '0' + date.getUTCHours(); 
+  else hour = date.getUTCHours();
+  if (date.getUTCMinutes() < 10) minute = '0' + date.getUTCMinutes(); 
+  else minute = date.getUTCMinutes();
+  if (date.getUTCSeconds() < 10) second = '0' + date.getUTCSeconds(); 
+  else second = date.getUTCSeconds();
+
+  return '' + year + month + day + hour + minute + second;
+
+}
+
+// Main
+
+lastDayUpdated = (new Date()).getDate();
+updateNum = 0;
+lastReportUpdate = updateNum;
 
 async function main() {
-  await updateJSON();
-  let lastDayUpdated = (new Date()).getDate();
+  //await updateJSON();
+  
   
   setInterval(async function() {
     if (lastDayUpdated != (new Date()).getDate()) {
       await updateJSON();
       lastDayUpdated = (new Date()).getDate();
+      updateNum++;
     }
       
   }, 1000);
+  await logReport("Application ended on " + getTimeStamp());
   console.log("Application has exited.")
-}
+} main();
+
+
+// New Methods
 
 async function updateJSON() {
-  // get JSON and store in respective folders
-  await logReport();
-}
-
-async function logReport() {
- // Log result of each JSON grab 
-}
-
-
-function generateTimestamp() {
-  const date = new Date();
-
-  const day = date.getDate();
-  const month = date.getMonth() + 1; 
-  const year = date.getFullYear();
-  const hour = date.getHours() - 5;
-
-  return month + '-' + day + '-' + year + ' ' + (hour > 12 ? hour - 12 : hour) + (hour >= 12 ? "pm" : "am");
-}
-
-function filterJSON() {
+  let itemResp, godResp, itemData, godData;
+  let writeErr = false;
+  await createSession();
   
+  for (let i = 0; i < langData.Names.length; i++) {
+    itemLink = await createLink("getitems", langData.IDs[i]);
+    godLink = await createLink("getgods", langData.IDs[i]);
+    try {
+      itemResp = await fetch(itemLink);
+      itemData = await itemResp.json();
+    } catch (e)  { 
+      await logReport("ERR: unable to fetch data for ITEMS @" + getTimeStamp() + '\n' + itemLink);
+      continue;
+    }
+    
+    try {
+      godResp = await fetch(godLink);
+      godData = await godResp.json();
+    } catch (e)  { 
+      await logReport("ERR: unable to fetch data for GODS @ " + getTimeStamp()  + '\n' + godLink);
+      continue;
+    }
+    await logReport("SUCCESS: retrieved data in " + langData.Names[i] + ' ' + getTimeStamp());
+    
+    fs.writeFile("./JSON/" + langData.Names[i] + '/' + langData.Names[i] + "_Items.json", JSON.stringify(itemData), function (err) {
+      if (err) writeErr = true;
+    });
+    fs.writeFile("./JSON/" + langData.Names[i] + '/' + langData.Names[i] + "_Gods.json", JSON.stringify(godData), function (err) {
+      if (err) writeErr = true;
+    });
+    if (!writeErr) await logReport("SUCCESS: stored data in " + langData.Names[i] + ' ' + getTimeStamp());
+    else await logReport("ERR: unable to store data for gods and items in " + langData.Names[i] + ' ' + getTimeStamp());
+    writeErr = false;
+  }
+}
+
+async function logReport(text) {
+  let fileName = "./REPORTS/update_report_" + getTimeStamp().slice(0, 8) + '_' + updateNum + ".txt";
+  if (lastReportUpdate == updateNum)
+    fs.appendFile(fileName, text + '\n', function (err) { });
+  else {
+    lastReportUpdate = updateNum;
+    fs.writeFile(fileName, text + '\n', {'flags': 'a'}, function (err) { });
+  }
 }
