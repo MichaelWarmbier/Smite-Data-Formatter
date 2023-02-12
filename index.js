@@ -1,3 +1,6 @@
+///////////////////////////////
+/*//// Data /*////
+
 const fetch = require('@replit/node-fetch');
 const fs = require('fs');
 const md5 = require('md5');
@@ -7,12 +10,63 @@ const devId = process.env['devID'];
 const authKey = process.env['key'];
 sId = '';
 
+const ref = JSON.parse(fs.readFileSync('reference.json', 'utf-8'));
+
 const langData = {
   Names: ["ENGLISH", "GERMAN", "SPANISH", "PORTUGESE", "LATAM", "CHINESE", "RUSSIAN", "TURKISH", "FRENCH", "POLISH"],
   IDs: [1, 2, 7, 10, 9, 5, 11, 13, 3, 12]
 };
 
-// Borrowed from Smite-API-Application
+const itemClass = {
+  Name: null,
+  Id: null,
+  Stats: [],
+  Description: null,
+  Ratatoskr: false,
+  isGlyph: false,
+  Tier: null,
+  DamageType: null,
+  RestrictedRoles: null,
+  Starter: null,
+  URL: null,
+  Gold: 0,
+  SelfGold: 0
+};
+const godClass = {
+  Name: null,
+  Id: null,
+  Title: null,
+  Role: null,
+  Type: null,
+  Pantheon: null,
+  CardArt: null,
+  Icon: null,
+  Power: null,
+  PowerPL: null,
+  Speed: null,
+  AttackSpeed: null,
+  AttackSpeedPL: null,
+  Health: null,
+  HealthPL: null,
+  HP5: null,
+  HP5PL: null,
+  Mana: null,
+  ManaPL: null,
+  MP5: null,
+  MP5PL: null,
+  MagProt: null,
+  MagProtPL: null,
+  PhysProt: null,
+  PhysProtPL: null
+  
+}
+const statClass = {
+  StatName: null,
+  Value: null
+}
+
+///////////////////////////////
+/*//// Smite-API-Application Methods /*////
 
 async function createSession() {
   let signature = md5(devId + "createsession" + authKey + getTimeStamp());
@@ -53,30 +107,42 @@ function getTimeStamp() {
 
 }
 
-// Main
+/*//// Main /*////
 
 lastDayUpdated = (new Date()).getDate();
 updateNum = 0;
 lastReportUpdate = updateNum;
 
 async function main() {
-  //await updateJSON();
-  
+  await updateJSON();
+  setTimeout(await async function() {
+    try { await stripDownJSON(); }
+    catch (e) { 
+      console.log(e);
+      logReport("ERR: Unable to save formatted files " + getTimeStamp());
+    }
+  }, 10000);
   
   setInterval(async function() {
     if (lastDayUpdated != (new Date()).getDate()) {
       await updateJSON();
+      setTimeout(async function() {
+          try { await stripDownJSON(); }
+          catch (e) { 
+            console.log(e);
+            logReport("ERR: Unable to save formatted files " + getTimeStamp());
+          }
+        }, 10000);
       lastDayUpdated = (new Date()).getDate();
       updateNum++;
     }
-      
-  }, 1000);
-  await logReport("Application ended on " + getTimeStamp());
-  console.log("Application has exited.")
+    
+    console.log("Application Ping! " + new Date().toJSON());
+  }, 10000);
 } main();
 
-
-// New Methods
+///////////////////////////////
+/*//// Unique Methods /*////
 
 async function updateJSON() {
   let itemResp, godResp, itemData, godData;
@@ -124,3 +190,181 @@ async function logReport(text) {
     fs.writeFile(fileName, text + '\n', {'flags': 'a'}, function (err) { });
   }
 }
+
+///////////////////////////////
+/*//// Largest Method /*////
+
+async function stripDownJSON() {
+
+  JSONGodList = [];
+  JSONItemList = [];
+  objectList = [];
+
+  for (let i = 0; i < langData.Names.length; i++) {
+    JSONGodList.push(JSON.parse(fs.readFileSync("JSON/" + langData.Names[i] + "/" + langData.Names[i] + "_Gods.json", "utf-8")));
+    JSONItemList.push(JSON.parse(fs.readFileSync("JSON/" + langData.Names[i] + "/" + langData.Names[i] + "_Items.json", "utf-8")))
+    objectList.push(new Object());
+    objectList[i].Items = [];
+    objectList[i].Gods = [];
+  }
+
+  // Order alignment
+  let basis = JSONGodList[0];
+  for (let listIndex = 1; listIndex < JSONGodList.length; listIndex++) {
+    let newList = [];
+    for (let basisIndex = 0; basisIndex < basis.length; basisIndex++) 
+      for (let godIndex = 0; godIndex < JSONGodList[listIndex].length; godIndex++)
+        if (JSONGodList[listIndex][godIndex].id == basis[basisIndex].id) {
+          newList.push(JSONGodList[listIndex][godIndex]);
+          break;
+        }
+    JSONGodList[listIndex] = newList;
+  }
+
+  basis = JSONItemList[0];
+  for (let listIndex = 1; listIndex < JSONItemList.length; listIndex++) {
+    let newList = [];
+    for (let basisIndex = 0; basisIndex < basis.length; basisIndex++) 
+      for (let itemIndex = 0; itemIndex < JSONItemList[listIndex].length; itemIndex++)
+        if (JSONItemList[listIndex][itemIndex].ItemId == basis[basisIndex].ItemId) {
+          newList.push(JSONItemList[listIndex][itemIndex]);
+          break;
+        }
+    JSONItemList[listIndex] = newList;
+  }
+  
+  // God Classification 
+  for (let langIndex = 0; langIndex < langData.Names.length; langIndex++) {
+    for (let godIndex = 0; godIndex < JSONGodList[langIndex].length; godIndex++) {
+      for (let refIndex = 0; refIndex < ref.Gods.length; refIndex++) 
+        if (JSONGodList[0][godIndex].Name == ref.Gods[refIndex]) {
+          let selection = objectList[langIndex].Gods.push(JSON.parse(JSON.stringify(godClass))) - 1;
+          await applyGodInfo(objectList[langIndex].Gods[selection], JSONGodList[langIndex][godIndex], godIndex);
+          break;
+      }
+    }
+  }
+
+
+  // Item Classification
+  let obj_ref = JSONItemList[0];
+  for (let langIndex = 0; langIndex < langData.Names.length; langIndex++) {
+    for (itemIndex = 0; itemIndex < JSONItemList[langIndex].length; itemIndex++) {
+
+    if (itemIndex == 42 || itemIndex == 41) continue;
+      
+    // Physical Items
+    for (refIndex = 0; refIndex < ref.PhysDamage.length; refIndex++) 
+      if (JSONItemList[0][itemIndex].DeviceName == ref.PhysDamage[refIndex]) {
+        let index = objectList[langIndex].Items.push(JSON.parse(JSON.stringify(itemClass))) - 1;
+        objectList[langIndex].Items[index].DamageType = "Physical";
+        await applyItemInfo(objectList[langIndex].Items[index], JSONItemList[langIndex][itemIndex], itemIndex, obj_ref);
+      }
+  
+    // Magical Items
+    for (refIndex = 0; refIndex < ref.MagDamage.length; refIndex++) 
+      if (JSONItemList[0][itemIndex].DeviceName == ref.MagDamage[refIndex]) {
+        let index = objectList[langIndex].Items.push(JSON.parse(JSON.stringify(itemClass))) - 1;
+        objectList[langIndex].Items[index].DamageType = "Magical";
+        await applyItemInfo(objectList[langIndex].Items[index], JSONItemList[langIndex][itemIndex], itemIndex, obj_ref);
+      }
+  
+    // Neutral Items
+    for (refIndex = 0; refIndex < ref.Neutral.length; refIndex++) 
+      if (JSONItemList[0][itemIndex].DeviceName == ref.Neutral[refIndex]) {
+        let index = objectList[langIndex].Items.push(JSON.parse(JSON.stringify(itemClass))) - 1;
+        objectList[langIndex].Items[index].DamageType = "Neutral";
+        await applyItemInfo(objectList[langIndex].Items[index], JSONItemList[langIndex][itemIndex], itemIndex, obj_ref);
+      }
+  
+    // Ratotoskr
+    for (refIndex = 0; refIndex < ref.Ratatoskr.length; refIndex++) 
+      if (JSONItemList[0][itemIndex].DeviceName == ref.Ratatoskr[refIndex]) {
+        let index = objectList[langIndex].Items.push(JSON.parse(JSON.stringify(itemClass))) - 1;
+        objectList[langIndex].Items[index].DamageType = "Physical";
+        objectList[langIndex].Items[index].Ratatoskr = true;
+        await applyItemInfo(objectList[langIndex].Items[index], JSONItemList[langIndex][itemIndex], itemIndex, obj_ref);
+      }
+      
+    }
+  }
+  
+  for (let langIndex = 0; langIndex < langData.Names.length; langIndex++) {
+    let lang = langData.Names[langIndex]
+    let fileName = "OUTPUT/SmiteData_" + langData.Names[langIndex] + ".json";
+    let correctedTitle = lang.charAt(0) + lang.slice(1).toLowerCase() + " = \n";
+    fs.writeFile(fileName, correctedTitle, (err) => { })
+    fs.appendFile(fileName, JSON.stringify(objectList[langIndex], null, 4), (err) => {
+      if (err) {
+        logReport("ERR: Unable to save formatted files " + getTimeStamp());
+        return;
+      }
+    });
+  }
+  logReport("SUCCESS: formatted and saved files " + getTimeStamp());
+  
+}
+
+async function applyGodInfo(obj, god, i) {
+  obj.Name = god.Name;
+  obj.Id = god.id;
+  obj.Title = god.Title;
+  obj.Role = god.Roles;
+  obj.Pantheon = god.Pantheon;
+  obj.CardArt = god.godCard_URL;
+  obj.Icon = god.godIcon_URL;
+  obj.Power = god.MagicalPower + god.PhysicalPower;
+  obj.PowerPL = god.MagicalPowerPerLevel + god.PhysicalPowerPerLevel;
+  if (god.MagicalPower == 0) obj.Type = "Physical";
+  else obj.Type = "Magical";
+  obj.Speed = god.Speed;
+  obj.AttackSpeed = god.AttackSpeed;
+  obj.AttackSpeedPL = god.AttackSpeedPerLevel;
+  obj.Health = god.Health;
+  obj.HealthPL = god.HealthPerLevel;
+  obj.HP5 = god.HealthPerFive;
+  obj.HP5PL = god.HP5PerLevel;
+  obj.Mana = god.Mana;
+  obj.ManaPL = god.ManaPerLevel;
+  obj.MP5 = god.ManaPerFive;
+  obj.MP5PL = god.MP5PerLevel;
+  obj.MagProt = god.MagicProtection;
+  obj.MagProtPL = god.MagicProtectionPerLevel;
+  obj.PhysProt = god.PhysicalProtection;
+  obj.PhysProtPL = god.PhysicalProtectionPerLevel;
+}
+
+async function applyItemInfo(obj, item, i, obj_ref) {
+  obj.Name = item.DeviceName;
+  obj.Id = item.ItemId;
+  for (statIndex = 0; statIndex < item.ItemDescription.Menuitems.length; statIndex++) {
+    obj.Stats.push(JSON.parse(JSON.stringify(statClass)));
+    obj.Stats[statIndex].StatName = item.ItemDescription.Menuitems[statIndex].Description;
+    obj.Stats[statIndex].Value = item.ItemDescription.Menuitems[statIndex].Value;
+  }
+  obj.Description = item.ItemDescription.SecondaryDescription;
+  obj.Tier = item.ItemTier;
+  obj.Starter = item.StartingItem;
+  obj.URL = item.itemIcon_URL;
+  obj.RestrictedRoles = item.RestrictedRoles;
+  for (glyphIndex = 0; glyphIndex < ref.Glyphs.length; glyphIndex++)
+    if (item.DeviceName == ref.Glyphs[glyphIndex]) obj.isGlyph = true;
+  obj.SelfGold = item.Price;
+  if (!item.childItemId) obj.Gold = obj.SelfGold;
+  else {
+    let targetItem = getItemById(item.childItemId);
+    obj.Gold = 0;
+    while (targetItem.childItemId) {
+      obj.Gold += targetItem.Price;
+      targetItem = targetItem.childItemId;
+    }
+  }
+}
+
+async function getItemById(id, obj_ref) {
+  for (let idIndex = 0; idIndex < obj_ref.length; idIndex++)
+    if (ob_ref[idIndex].ItemId == id) 
+      return obj_ref[idIndex];
+}
+
+function sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)); }
