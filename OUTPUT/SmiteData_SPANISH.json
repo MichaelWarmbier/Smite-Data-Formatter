@@ -6985,7 +6985,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Agni",
@@ -7013,7 +7014,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 2.8,
-            "Passive": "Agni obtiene un potenciador cuando logra asestar cuatro ataques básicos al enemigo.     La próxima vez que utilice los poderes Ola de Llamas o Fuego de lluvia, los enemigos afectados empezarán a arder y sufrirán daños adicionales cada 0,5s durante 3s."
+            "Passive": "Agni obtiene un potenciador cuando logra asestar cuatro ataques básicos al enemigo.     La próxima vez que utilice los poderes Ola de Llamas o Fuego de lluvia, los enemigos afectados empezarán a arder y sufrirán daños adicionales cada 0,5s durante 3s.",
+            "PassiveName": "Combustión"
         },
         {
             "Name": "Ah Muzen Cab",
@@ -7041,7 +7043,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Los enemigos afectados por ¡Abejas! reciben daño cada 0,5 s durante 2 s.  Además, las abejas son visibles en el minimapa y acosan a los enemigos que se encuentran cerca.  Los ataques actualizan y extienden la duración de ¡Abejas! durante 1 s.  Los objetivos afectados durante 4 s se ven desarmados durante 1 s (10 s de recarga entre desarmes)."
+            "Passive": "Los enemigos afectados por ¡Abejas! reciben daño cada 0,5 s durante 2 s.  Además, las abejas son visibles en el minimapa y acosan a los enemigos que se encuentran cerca.  Los ataques actualizan y extienden la duración de ¡Abejas! durante 1 s.  Los objetivos afectados durante 4 s se ven desarmados durante 1 s (10 s de recarga entre desarmes).",
+            "PassiveName": "¡Abejas!"
         },
         {
             "Name": "Ah Puch",
@@ -7069,7 +7072,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 2.9,
-            "Passive": "Ah Puch está en sintonía con los muertos y puede exhumar cadáveres a su voluntad.  Al caminar sobre un cadáver en descomposición, Ah Puch reduce el tiempo de recarga de Oleada de muertos vivientes y Explosión cadavérica en 2 s, y restaura el 5 % de su salud y el 3 % de su cantidad máxima de maná."
+            "Passive": "Ah Puch está en sintonía con los muertos y puede exhumar cadáveres a su voluntad.  Al caminar sobre un cadáver en descomposición, Ah Puch reduce el tiempo de recarga de Oleada de muertos vivientes y Explosión cadavérica en 2 s, y restaura el 5 % de su salud y el 3 % de su cantidad máxima de maná.",
+            "PassiveName": "Tierra Demacrada"
         },
         {
             "Name": "Amaterasu",
@@ -7097,7 +7101,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Amaterasu ilumina a los enemigos a los que alcanza con ataques básicos.   Después de 3 golpes al mismo objetivo, el enemigo gana un aura que revela sus debilidades y provoca que reciban más daño de todas las fuentes.   Debilita a todos los enemigos que se encuentren cerca del objetivo afectado."
+            "Passive": "Amaterasu ilumina a los enemigos a los que alcanza con ataques básicos.   Después de 3 golpes al mismo objetivo, el enemigo gana un aura que revela sus debilidades y provoca que reciban más daño de todas las fuentes.   Debilita a todos los enemigos que se encuentren cerca del objetivo afectado.",
+            "PassiveName": "Golpe revelador"
         },
         {
             "Name": "Anhur",
@@ -7125,7 +7130,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3,
-            "Passive": "Los ataques de lanza de Anhur reducen la protección física del objetivo enemigo durante 3 s."
+            "Passive": "Los ataques de lanza de Anhur reducen la protección física del objetivo enemigo durante 3 s.",
+            "PassiveName": "Enflaquecer"
         },
         {
             "Name": "Anubis",
@@ -7153,7 +7159,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 14,
             "PhysProtPL": 2.7,
-            "Passive": "Todos los poderes de Anubis despojan al objetivo de sus protecciones físicas y mágicas y aumentan las capacidades mágicas de robo de vida que le otorguen los objetos.    Además, el poder Lamento reduce en un 30 % la duración de todos los poderes de control de masas que afecten a Anubis."
+            "Passive": "Todos los poderes de Anubis despojan al objetivo de sus protecciones físicas y mágicas y aumentan las capacidades mágicas de robo de vida que le otorguen los objetos.    Además, el poder Lamento reduce en un 30 % la duración de todos los poderes de control de masas que afecten a Anubis.",
+            "PassiveName": "Lamento"
         },
         {
             "Name": "Ao Kuang",
@@ -7181,7 +7188,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "La espada de Ao Kuang puede contener hasta 3 cargas de energía, y regenera cargas mientras está enfundada.  Cada vez que Ao Kuang lanza una habilidad se consume una carga de energía en caso de que esté disponible, aumentando el daño de la habilidad.  Si Ao Kuang está sin maná, usará cargas de energía para lanzar habilidades."
+            "Passive": "La espada de Ao Kuang puede contener hasta 3 cargas de energía, y regenera cargas mientras está enfundada.  Cada vez que Ao Kuang lanza una habilidad se consume una carga de energía en caso de que esté disponible, aumentando el daño de la habilidad.  Si Ao Kuang está sin maná, usará cargas de energía para lanzar habilidades.",
+            "PassiveName": "Espada del rey"
         },
         {
             "Name": "Afrodita",
@@ -7209,7 +7217,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "Afrodita gana 4 protecciones físicas y 4 mágicas por cada dios aliado o enemigo a 70 pies de distancia."
+            "Passive": "Afrodita gana 4 protecciones físicas y 4 mágicas por cada dios aliado o enemigo a 70 pies de distancia.",
+            "PassiveName": "Centro de atención"
         },
         {
             "Name": "Apolo",
@@ -7237,7 +7246,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 2.9,
-            "Passive": "Tras efectuar diez ataques básicos con éxito, Apolo obtiene el poder Audacia, que le permite atacar con ambas manos y aumenta en un 100 % su velocidad de ataque para los próximos cinco ataques básicos que realice, tanto si dan en el blanco como si no."
+            "Passive": "Tras efectuar diez ataques básicos con éxito, Apolo obtiene el poder Audacia, que le permite atacar con ambas manos y aumenta en un 100 % su velocidad de ataque para los próximos cinco ataques básicos que realice, tanto si dan en el blanco como si no.",
+            "PassiveName": "Audacia"
         },
         {
             "Name": "Aracne",
@@ -7265,7 +7275,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Los ataques básicos de Aracne proporcionan un 1.5 % de daño físico por cada 5 % de la salud que le falta al objetivo."
+            "Passive": "Los ataques básicos de Aracne proporcionan un 1.5 % de daño físico por cada 5 % de la salud que le falta al objetivo.",
+            "PassiveName": "Depredador"
         },
         {
             "Name": "Ares",
@@ -7293,7 +7304,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.2,
-            "Passive": "Cada objeto con aura que posea Ares aumenta su poder mágico en 30."
+            "Passive": "Cada objeto con aura que posea Ares aumenta su poder mágico en 30.",
+            "PassiveName": "Presencia bendita"
         },
         {
             "Name": "Artemisa",
@@ -7321,7 +7333,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Artio",
@@ -7349,7 +7362,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Atenea",
@@ -7377,7 +7391,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": "Tras usar una habilidad, el siguiente ataque básico de Atenea es a distancia, impacta en todos los enemigos por los que pasa e inflige un +25 % adicional de su poder mágico como daño."
+            "Passive": "Tras usar una habilidad, el siguiente ataque básico de Atenea es a distancia, impacta en todos los enemigos por los que pasa e inflige un +25 % adicional de su poder mágico como daño.",
+            "PassiveName": "Alcanzar"
         },
         {
             "Name": "Atlas",
@@ -7405,7 +7420,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Awilix",
@@ -7433,7 +7449,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Si Awilix golpea primero fuera de combate, incrementa su poder físico durante un breve periodo."
+            "Passive": "Si Awilix golpea primero fuera de combate, incrementa su poder físico durante un breve periodo.",
+            "PassiveName": "Iniciativa"
         },
         {
             "Name": "Baba_Yaga",
@@ -7461,7 +7478,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 2.9,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Baco",
@@ -7489,7 +7507,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "A Baco le encanta beber y, a medida que bebe de su jarra, se va poniendo más y más borracho.   Cuando alcance los niveles Achispado y Como una cuba, obtendrá potenciadores."
+            "Passive": "A Baco le encanta beber y, a medida que bebe de su jarra, se va poniendo más y más borracho.   Cuando alcance los niveles Achispado y Como una cuba, obtendrá potenciadores.",
+            "PassiveName": "Indicador de borrachera"
         },
         {
             "Name": "Bakasura",
@@ -7517,7 +7536,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3,
-            "Passive": "La velocidad de ataque y movimiento de Bakasura aumenta temporalmente con cada enemigo al que mata."
+            "Passive": "La velocidad de ataque y movimiento de Bakasura aumenta temporalmente con cada enemigo al que mata.",
+            "PassiveName": "Hambre insaciable"
         },
         {
             "Name": "Baron_Samedi",
@@ -7545,7 +7565,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 2.8,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Bastet",
@@ -7573,7 +7594,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Belona",
@@ -7601,7 +7623,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Al recibir o dar golpes por ataques básicos, Belona recibe protecciones y velocidad de movimiento durante 4s (máx.    5 pilas)."
+            "Passive": "Al recibir o dar golpes por ataques básicos, Belona recibe protecciones y velocidad de movimiento durante 4s (máx.    5 pilas).",
+            "PassiveName": "Amo de la Guerra"
         },
         {
             "Name": "Cabrakán",
@@ -7629,7 +7652,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.6,
-            "Passive": "Cabrakán y los aliados cercanos reciben un 5 % menos de daño."
+            "Passive": "Cabrakán y los aliados cercanos reciben un 5 % menos de daño.",
+            "PassiveName": "Zona de sombras"
         },
         {
             "Name": "Camazotz",
@@ -7657,7 +7681,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.2,
-            "Passive": "If any of Camazotz abilities hits a god, they leave a pool of essence behind. Camazotz may stand inside the essence pools to begin absorbing them, healing % of his HP every tick, up to 4 ticks. If he consumes an entire essence pool at one time, he gains a buff for 10s after."
+            "Passive": "If any of Camazotz abilities hits a god, they leave a pool of essence behind. Camazotz may stand inside the essence pools to begin absorbing them, healing % of his HP every tick, up to 4 ticks. If he consumes an entire essence pool at one time, he gains a buff for 10s after.",
+            "PassiveName": "Pasiva de Camazotz: Absorción de esencia"
         },
         {
             "Name": "Cerberus",
@@ -7685,7 +7710,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Cernunnos",
@@ -7713,7 +7739,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.1,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Chaac",
@@ -7741,7 +7768,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Tras 5 ataques básicos ejecutados con éxito, la siguiente habilidad usada por Chaac no consume maná."
+            "Passive": "Tras 5 ataques básicos ejecutados con éxito, la siguiente habilidad usada por Chaac no consume maná.",
+            "PassiveName": "Desborde"
         },
         {
             "Name": "Chang'e",
@@ -7769,7 +7797,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 2.9,
-            "Passive": "Chang'e puede comprar o vender objetos en cualquier lugar y pedirle a su Conejo de Jade que los transporte.   La transacción se completará en cuanto el conejo vaya a la tienda y vuelva.   Solo se puede comprar o vender un objeto cada vez usando este poder.      Además, cuando ejecuta uno de sus bailes, la velocidad de movimiento de Chang'e aumenta en un 25% y puede retroceder a la velocidad normal."
+            "Passive": "Chang'e puede comprar o vender objetos en cualquier lugar y pedirle a su Conejo de Jade que los transporte.   La transacción se completará en cuanto el conejo vaya a la tienda y vuelva.   Solo se puede comprar o vender un objeto cada vez usando este poder.      Además, cuando ejecuta uno de sus bailes, la velocidad de movimiento de Chang'e aumenta en un 25% y puede retroceder a la velocidad normal.",
+            "PassiveName": "Conejo de jade"
         },
         {
             "Name": "Charybdis",
@@ -7797,7 +7826,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Chernobog",
@@ -7825,7 +7855,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Quirón",
@@ -7853,7 +7884,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3,
-            "Passive": "Cada 12 segundos Quirón recoge hierbas para un cataplasma.  Cada vez que use una habilidad, el aliado con menos salud a 30 pies se cura, consumiendo un cataplasma."
+            "Passive": "Cada 12 segundos Quirón recoge hierbas para un cataplasma.  Cada vez que use una habilidad, el aliado con menos salud a 30 pies se cura, consumiendo un cataplasma.",
+            "PassiveName": "Medicina herbaria"
         },
         {
             "Name": "Cronos",
@@ -7881,7 +7913,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": "La rueda del tiempo no se detiene, ni siquiera para Cronos.  Según dónde esté la rueda cuando se activa Acelerar, otorgará a Cronos una bonificación distinta."
+            "Passive": "La rueda del tiempo no se detiene, ni siquiera para Cronos.  Según dónde esté la rueda cuando se activa Acelerar, otorgará a Cronos una bonificación distinta.",
+            "PassiveName": "Rueda del tiempo"
         },
         {
             "Name": "Cliodhna",
@@ -7909,7 +7942,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.3,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Cthulhu",
@@ -7937,7 +7971,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.5,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Cu_Chulainn",
@@ -7965,7 +8000,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Cupido",
@@ -7993,7 +8029,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.2,
-            "Passive": "Los ataques básicos de Cupido que impacten se acumulan y aumentan la capacidad de causar daño y curar heridas.   Al acumular 8, los poderes Bomba Corazón y Los campos del amor también aturdirán durante 1s."
+            "Passive": "Los ataques básicos de Cupido que impacten se acumulan y aumentan la capacidad de causar daño y curar heridas.   Al acumular 8, los poderes Bomba Corazón y Los campos del amor también aturdirán durante 1s.",
+            "PassiveName": "Locamente enamorado"
         },
         {
             "Name": "Da_Ji",
@@ -8021,7 +8058,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Danzaburou",
@@ -8049,7 +8087,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.1,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Discordia",
@@ -8077,7 +8116,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Erlang Shen",
@@ -8105,7 +8145,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": "Cada vez que Erlang Shen golpea a un enemigo con un ataque básico, el perro ataca también con un 15 % de la potencia de ataque básico. Estos ataques pueden infligir un 15 % más de daño y causar daño crítico, y activan objetos."
+            "Passive": "Cada vez que Erlang Shen golpea a un enemigo con un ataque básico, el perro ataca también con un 15 % de la potencia de ataque básico. Estos ataques pueden infligir un 15 % más de daño y causar daño crítico, y activan objetos.",
+            "PassiveName": "Perro celestial aullador"
         },
         {
             "Name": "Isis",
@@ -8133,7 +8174,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "Isis comparte SP5 y MP5 con los aliados cercanos.     Por cada jugador al que vea morir, su aura acumula una pila adicional (máx 10).     Las pilas vuelven a cero al morir."
+            "Passive": "Isis comparte SP5 y MP5 con los aliados cercanos.     Por cada jugador al que vea morir, su aura acumula una pila adicional (máx 10).     Las pilas vuelven a cero al morir.",
+            "PassiveName": "Ritos fúnebres"
         },
         {
             "Name": "Fafnir",
@@ -8161,7 +8203,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.7,
-            "Passive": "Fafnir gana 4 de oro extra de todos los asesinatos de enemigos y asistencias, incluidos súbditos. También gana protecciones adicionales en función del oro que posea. Las bonificaciones conseguidas con esta habilidad tienen un límite de 1000 de oro."
+            "Passive": "Fafnir gana 4 de oro extra de todos los asesinatos de enemigos y asistencias, incluidos súbditos. También gana protecciones adicionales en función del oro que posea. Las bonificaciones conseguidas con esta habilidad tienen un límite de 1000 de oro.",
+            "PassiveName": "Codicia infinita"
         },
         {
             "Name": "Fenrir",
@@ -8189,7 +8232,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.2,
-            "Passive": "Fenrir gana eficiencia a medida que ataca.  Por cada ataque básico que acierte, se activará una runa, hasta un máximo de 5.  Los poderes de Fenrir obtienen efectos adicionales cuando se usan con el nivel máximo de runas, aunque dichas runas se consumirán en el proceso.  Todas las runas de Fenrir se activarán cuando mate a dioses enemigos."
+            "Passive": "Fenrir gana eficiencia a medida que ataca.  Por cada ataque básico que acierte, se activará una runa, hasta un máximo de 5.  Los poderes de Fenrir obtienen efectos adicionales cuando se usan con el nivel máximo de runas, aunque dichas runas se consumirán en el proceso.  Todas las runas de Fenrir se activarán cuando mate a dioses enemigos.",
+            "PassiveName": "Runas sueltas"
         },
         {
             "Name": "Freya",
@@ -8217,7 +8261,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3,
-            "Passive": "El collar de Freya le otorga una habilidad adicional de robo de vida mágico."
+            "Passive": "El collar de Freya le otorga una habilidad adicional de robo de vida mágico.",
+            "PassiveName": "Bendición de Brisingamen"
         },
         {
             "Name": "Ganesha",
@@ -8245,7 +8290,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Geb",
@@ -8273,7 +8319,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Los golpes críticos solo infligen un +25% de daño a Geb, en lugar del +100% habitual."
+            "Passive": "Los golpes críticos solo infligen un +25% de daño a Geb, en lugar del +100% habitual.",
+            "PassiveName": "Duro como una piedra"
         },
         {
             "Name": "Gilgamesh",
@@ -8301,7 +8348,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Guan Yu",
@@ -8329,7 +8377,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
             "PhysProtPL": 3.2,
-            "Passive": "Cada vez que Guan Yu cause o reciba daño de un enemigo, ganará acumulaciones. Al llegar al máximo de acumulaciones, la siguiente habilidad tendrá un efecto incrementado."
+            "Passive": "Cada vez que Guan Yu cause o reciba daño de un enemigo, ganará acumulaciones. Al llegar al máximo de acumulaciones, la siguiente habilidad tendrá un efecto incrementado.",
+            "PassiveName": "Indoloro"
         },
         {
             "Name": "Hachiman",
@@ -8357,7 +8406,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Hades",
@@ -8385,7 +8435,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 2.8,
-            "Passive": "Los ataques normales del bastón de Hades infligen a sus víctimas una debilitación llamada Plaga.  Esta debilitación puede renovarse y permanece sobre el objetivo.  Los demás poderes de Hades tienen efectos adicionales al usarse contra enemigos afectados por Plaga."
+            "Passive": "Los ataques normales del bastón de Hades infligen a sus víctimas una debilitación llamada Plaga.  Esta debilitación puede renovarse y permanece sobre el objetivo.  Los demás poderes de Hades tienen efectos adicionales al usarse contra enemigos afectados por Plaga.",
+            "PassiveName": "Plaga"
         },
         {
             "Name": "He Bo",
@@ -8413,7 +8464,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": "Cada vez que He Bo usa una habilidad obtiene el potenciador Flujo constante, que aumenta su poder mágico.  El contador se reinicia al usar otra habilidad."
+            "Passive": "Cada vez que He Bo usa una habilidad obtiene el potenciador Flujo constante, que aumenta su poder mágico.  El contador se reinicia al usar otra habilidad.",
+            "PassiveName": "Flujo constante"
         },
         {
             "Name": "Heimdallr",
@@ -8441,7 +8493,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Hel",
@@ -8469,7 +8522,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": "Cuando Hel adopta una posición, va adquiriendo la fuerza de esa posición, obteniendo hasta un 20% de daño en la posición oscura y un 20% de curación en la posición luminosa."
+            "Passive": "Cuando Hel adopta una posición, va adquiriendo la fuerza de esa posición, obteniendo hasta un 20% de daño en la posición oscura y un 20% de curación en la posición luminosa.",
+            "PassiveName": "Ajuste de posiciones"
         },
         {
             "Name": "Hera",
@@ -8497,7 +8551,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Hercules",
@@ -8525,7 +8580,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "A medida que Hércules reciba daño, su poder físico aumentará en proporción a la salud que haya perdido."
+            "Passive": "A medida que Hércules reciba daño, su poder físico aumentará en proporción a la salud que haya perdido.",
+            "PassiveName": "Fuerza del dolor"
         },
         {
             "Name": "Horus",
@@ -8553,7 +8609,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Hou Yi",
@@ -8581,7 +8638,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3,
-            "Passive": "Tras recibir un golpe crítico, Hou Yi no puede volver a recibir un golpe crítico durante 3s."
+            "Passive": "Tras recibir un golpe crítico, Hou Yi no puede volver a recibir un golpe crítico durante 3s.",
+            "PassiveName": "Tocado por el sol"
         },
         {
             "Name": "Hun Batz",
@@ -8609,7 +8667,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Ishtar",
@@ -8637,7 +8696,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.132,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Izanami",
@@ -8665,7 +8725,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": "Cuanto más se acerca Izanami a la muerte, más poder adquiere. Izanami gana un 3 % de robo de vida por cada 15 % de salud que le falte, hasta un máximo del 15 %."
+            "Passive": "Cuanto más se acerca Izanami a la muerte, más poder adquiere. Izanami gana un 3 % de robo de vida por cada 15 % de salud que le falte, hasta un máximo del 15 %.",
+            "PassiveName": "PSV de Izanami: Omnipotente"
         },
         {
             "Name": "Jano",
@@ -8693,7 +8754,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 14,
             "PhysProtPL": 3,
-            "Passive": "Cada vez que Jano atraviesa un portal o pasa por un umbral se hace más viejo y marchito y obtiene capacidad mágica con su siguiente habilidad."
+            "Passive": "Cada vez que Jano atraviesa un portal o pasa por un umbral se hace más viejo y marchito y obtiene capacidad mágica con su siguiente habilidad.",
+            "PassiveName": "Pasajes"
         },
         {
             "Name": "Jing Wei",
@@ -8721,7 +8783,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": "Al salir de la fuente, Jingwei se prepara para despegar y se eleva en el aire, lo que le permite volar por encima de los obstáculos a mayor velocidad y con inmunidad a CM.  Puede interrumpir el vuelo cancelando la habilidad mientras sale de la fuente."
+            "Passive": "Al salir de la fuente, Jingwei se prepara para despegar y se eleva en el aire, lo que le permite volar por encima de los obstáculos a mayor velocidad y con inmunidad a CM.  Puede interrumpir el vuelo cancelando la habilidad mientras sale de la fuente.",
+            "PassiveName": "Reencarnación rápida"
         },
         {
             "Name": "Jormungandr",
@@ -8749,7 +8812,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.8,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Kali",
@@ -8777,7 +8841,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 21,
             "PhysProtPL": 3.1,
-            "Passive": "Un dios enemigo al azar es elegido como Marca de la muerte de Kali.  Contra ese dios, Kali obtiene bonificación de penetración física.  Si ejecuta el golpe de gracia, se cura un 80 % de su salud máxima y si asiste en su muerte, se cura en un 15 %.  La recompensa de oro del dios aumenta en un 30 % por cada asesinato o asistencia.  Una nueva Marca de la muerte se elige cuando muere el objetivo actual.  Si Kali muere, se fija en el último dios que la ha golpeado."
+            "Passive": "Un dios enemigo al azar es elegido como Marca de la muerte de Kali.  Contra ese dios, Kali obtiene bonificación de penetración física.  Si ejecuta el golpe de gracia, se cura un 80 % de su salud máxima y si asiste en su muerte, se cura en un 15 %.  La recompensa de oro del dios aumenta en un 30 % por cada asesinato o asistencia.  Una nueva Marca de la muerte se elige cuando muere el objetivo actual.  Si Kali muere, se fija en el último dios que la ha golpeado.",
+            "PassiveName": "Marcado para la muerte"
         },
         {
             "Name": "Jepri",
@@ -8805,7 +8870,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Cada 5 segundos, Jepri aplica un escudo a él mismo y a los dioses aliados cercanos por el 2% de la salud máxima de los objetivos durante 15 segundos.   La tasa se reduce a cada 10 segundos estando en combate (máx 10 %)."
+            "Passive": "Cada 5 segundos, Jepri aplica un escudo a él mismo y a los dioses aliados cercanos por el 2% de la salud máxima de los objetivos durante 15 segundos.   La tasa se reduce a cada 10 segundos estando en combate (máx 10 %).",
+            "PassiveName": "Fortaleza"
         },
         {
             "Name": "King_Arthur",
@@ -8833,7 +8899,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Kukulkán",
@@ -8861,7 +8928,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Aumenta el poder mágico en un 5 % del máximo de maná."
+            "Passive": "Aumenta el poder mágico en un 5 % del máximo de maná.",
+            "PassiveName": "Poder de la joya del viento"
         },
         {
             "Name": "Kumbhákarna",
@@ -8889,7 +8957,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.5,
-            "Passive": "Kumbhákarna no muere cuando su salud llega a 0, sino que se duerme.  Se despertará tras 8 s con un 25 % de salud y maná, a menos que le impacten 6 ataques básicos (+1 cada 5 niveles) mientras duerme.  Esta pasiva tiene 240 s de recarga."
+            "Passive": "Kumbhákarna no muere cuando su salud llega a 0, sino que se duerme.  Se despertará tras 8 s con un 25 % de salud y maná, a menos que le impacten 6 ataques básicos (+1 cada 5 niveles) mientras duerme.  Esta pasiva tiene 240 s de recarga.",
+            "PassiveName": "Adormilado"
         },
         {
             "Name": "Kuzenbo",
@@ -8917,7 +8986,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.5,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Lancelot",
@@ -8945,7 +9015,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Loki",
@@ -8973,7 +9044,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": "Loki inflige más daño con sus ataques básicos cuando ataca a los enemigos por la espalda.  Sus ataques básicos también usan una cadena progresiva de cinco movimientos."
+            "Passive": "Loki inflige más daño con sus ataques básicos cuando ataca a los enemigos por la espalda.  Sus ataques básicos también usan una cadena progresiva de cinco movimientos.",
+            "PassiveName": "¡Detrás de ti!"
         },
         {
             "Name": "Maui",
@@ -9001,7 +9073,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.5,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Medusa",
@@ -9029,7 +9102,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Medusa no sufre penalización de movimiento cuando se desplaza de lado y la mitad de la penalización de movimiento cuando se mueve hacia atrás."
+            "Passive": "Medusa no sufre penalización de movimiento cuando se desplaza de lado y la mitad de la penalización de movimiento cuando se mueve hacia atrás.",
+            "PassiveName": "Puñetazo lateral"
         },
         {
             "Name": "Mercurio",
@@ -9057,7 +9131,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": "Por cada unidad recorrida, Mercurio obtiene una bonificación de poder físico del 0,1 % en su siguiente ataque básico (máx.  50 %).\n\nMercurio también obtiene poder físico adicional igual al 25 % de la velocidad de movimiento de objetos o habilidades."
+            "Passive": "Por cada unidad recorrida, Mercurio obtiene una bonificación de poder físico del 0,1 % en su siguiente ataque básico (máx.  50 %).\n\nMercurio también obtiene poder físico adicional igual al 25 % de la velocidad de movimiento de objetos o habilidades.",
+            "PassiveName": "Dios vivo más rápido"
         },
         {
             "Name": "Merlin",
@@ -9085,7 +9160,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 14,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Morgan_Le_Fay",
@@ -9113,7 +9189,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Mulan",
@@ -9141,7 +9218,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Ne Zha",
@@ -9169,7 +9247,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": "Ne Zha refuerza su espíritu y causa daño a los enemigos con habilidades y ataques básicos.  Con cada golpe consigue una 1 acumulación y con los golpes críticos consigue 2.  Conserva las acumulaciones hasta que queda fuera de combate durante 5 s."
+            "Passive": "Ne Zha refuerza su espíritu y causa daño a los enemigos con habilidades y ataques básicos.  Con cada golpe consigue una 1 acumulación y con los golpes críticos consigue 2.  Conserva las acumulaciones hasta que queda fuera de combate durante 5 s.",
+            "PassiveName": "Espíritu recto"
         },
         {
             "Name": "Neith",
@@ -9197,7 +9276,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Aparece una tela rasgada en el lugar en el que un dios enemigo muere.  Las habilidades tendrán efectos secundarios al utilizarlas sobre ellas.  Las telas desaparecen al cabo de un minuto."
+            "Passive": "Aparece una tela rasgada en el lugar en el que un dios enemigo muere.  Las habilidades tendrán efectos secundarios al utilizarlas sobre ellas.  Las telas desaparecen al cabo de un minuto.",
+            "PassiveName": "Tela rasgada"
         },
         {
             "Name": "Némesis",
@@ -9225,7 +9305,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.2,
-            "Passive": "Némesis sostiene la balanza.  Al impactar en enemigos con ataques básicos, inclina la balanza a su favor, reduce el poder mágico y físico de sus objetivos y aumenta el suyo propio (acumulación)."
+            "Passive": "Némesis sostiene la balanza.  Al impactar en enemigos con ataques básicos, inclina la balanza a su favor, reduce el poder mágico y físico de sus objetivos y aumenta el suyo propio (acumulación).",
+            "PassiveName": "Balanza del destino"
         },
         {
             "Name": "Nike",
@@ -9253,7 +9334,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 21,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Nox",
@@ -9281,7 +9363,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 2.8,
-            "Passive": "Las velas de Nox reúnen energía de todas las habilidades que utiliza.  Por cada habilidad que lanza Nox se enciende una vela.  Nox obtiene un 3 % de poder mágico por cada vela encendida.  Cuando Nox recibe daño se apaga una vela."
+            "Passive": "Las velas de Nox reúnen energía de todas las habilidades que utiliza.  Por cada habilidad que lanza Nox se enciende una vela.  Nox obtiene un 3 % de poder mágico por cada vela encendida.  Cuando Nox recibe daño se apaga una vela.",
+            "PassiveName": "Llama de la noche"
         },
         {
             "Name": "Nu Wa",
@@ -9309,7 +9392,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "Tras 5 ataques básicos exitosos, el siguiente ataque básico de Nu Wa paraliza a los enemigos."
+            "Passive": "Tras 5 ataques básicos exitosos, el siguiente ataque básico de Nu Wa paraliza a los enemigos.",
+            "PassiveName": "Fuerza de la madera"
         },
         {
             "Name": "Odín",
@@ -9337,7 +9421,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
             "PhysProtPL": 3.2,
-            "Passive": "Odín se llena de poder mientras escolta a los guerreros caídos hasta el Valhalla.  Cada vez que muere un dios en el campo de batalla, Odín obtiene una bonificación de velocidad de movimiento y poder.  El efecto se puede acumular hasta 5 veces."
+            "Passive": "Odín se llena de poder mientras escolta a los guerreros caídos hasta el Valhalla.  Cada vez que muere un dios en el campo de batalla, Odín obtiene una bonificación de velocidad de movimiento y poder.  El efecto se puede acumular hasta 5 veces.",
+            "PassiveName": "Camino al Valhalla"
         },
         {
             "Name": "Olorun",
@@ -9365,7 +9450,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Osiris",
@@ -9393,7 +9479,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": "Cada vez que Osiris usa una habilidad quema un fragmento de su cuerpo y obtiene mitigación de daño físico por cada fragmento que falta.  Tras perder 8 fragmentos se transforma en su forma espiritual.  Puede atravesar a los enemigos y sus bloqueos y sus ataques básicos no causan penalización de movimiento.  Este efecto dura durante 6 ataques básicos exitosos."
+            "Passive": "Cada vez que Osiris usa una habilidad quema un fragmento de su cuerpo y obtiene mitigación de daño físico por cada fragmento que falta.  Tras perder 8 fragmentos se transforma en su forma espiritual.  Puede atravesar a los enemigos y sus bloqueos y sus ataques básicos no causan penalización de movimiento.  Este efecto dura durante 6 ataques básicos exitosos.",
+            "PassiveName": "Fragmentado"
         },
         {
             "Name": "Pele",
@@ -9421,7 +9508,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Persephone",
@@ -9449,7 +9537,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Poseidón",
@@ -9477,7 +9566,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 11.2,
             "PhysProtPL": 2.8,
-            "Passive": "La velocidad de movimiento y el daño que causan los poderes de Poseidón aumentan con el nivel de la marea.  Los ataques básicos certeros aumentan la marea, mientras que el uso de habilidades hace que baje."
+            "Passive": "La velocidad de movimiento y el daño que causan los poderes de Poseidón aumentan con el nivel de la marea.  Los ataques básicos certeros aumentan la marea, mientras que el uso de habilidades hace que baje.",
+            "PassiveName": "Mareas cambiantes"
         },
         {
             "Name": "Ra",
@@ -9505,7 +9595,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 14,
             "PhysProtPL": 3.2,
-            "Passive": "Cada vez que Ra utiliza una habilidad, su velocidad de movimiento aumenta."
+            "Passive": "Cada vez que Ra utiliza una habilidad, su velocidad de movimiento aumenta.",
+            "PassiveName": "Velocidad de la luz"
         },
         {
             "Name": "Raijin",
@@ -9533,7 +9624,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 3.3,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Rama",
@@ -9561,7 +9653,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3,
-            "Passive": "El Temblor astral de Rama genera una flecha astral cada 12 s.  Además, cada ataque básico certero de Rama reducirá en 2 s el tiempo de creación de flechas.  Las flechas astrales se usan con sus otras habilidades."
+            "Passive": "El Temblor astral de Rama genera una flecha astral cada 12 s.  Además, cada ataque básico certero de Rama reducirá en 2 s el tiempo de creación de flechas.  Las flechas astrales se usan con sus otras habilidades.",
+            "PassiveName": "Temblor astral"
         },
         {
             "Name": "Ratatoskr",
@@ -9589,7 +9682,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Ratatoskr aparece con una poderosa bellota mágica del Árbol del Mundo en el inventario y la casilla de objeto se transforma en unas botas. Puede mejorar la bellota en la tienda desde cualquier punto del mapa para ganar poder y velocidad de movimiento. La última mejora añade autocuración a sus habilidades."
+            "Passive": "Ratatoskr aparece con una poderosa bellota mágica del Árbol del Mundo en el inventario y la casilla de objeto se transforma en unas botas. Puede mejorar la bellota en la tienda desde cualquier punto del mapa para ganar poder y velocidad de movimiento. La última mejora añade autocuración a sus habilidades.",
+            "PassiveName": "Bellota de Yggdrasil"
         },
         {
             "Name": "Rávana",
@@ -9617,7 +9711,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.1,
-            "Passive": "Los ataques básicos y las habilidades que Rávana use contra enemigos se añadirán al combo en cadena.  Cada vez que su cadena llega a 8, recibe un escudo equivalente al 5 % de su salud máxima.  Se puede apilar hasta 3 veces."
+            "Passive": "Los ataques básicos y las habilidades que Rávana use contra enemigos se añadirán al combo en cadena.  Cada vez que su cadena llega a 8, recibe un escudo equivalente al 5 % de su salud máxima.  Se puede apilar hasta 3 veces.",
+            "PassiveName": "Cadena de golpes"
         },
         {
             "Name": "Escila",
@@ -9645,7 +9740,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": "Cada habilidad de Escila obtiene un efecto adicional en el rango máximo.  Además, Escila obtiene 20 de poder mágico por cada habilidad al rango máximo."
+            "Passive": "Cada habilidad de Escila obtiene un efecto adicional en el rango máximo.  Además, Escila obtiene 20 de poder mágico por cada habilidad al rango máximo.",
+            "PassiveName": "Buen entendedor"
         },
         {
             "Name": "Serket",
@@ -9673,7 +9769,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": "Los ataques básicos de Serket aplican Catalizador, que consume sus venenos prolongados.  Si el objetivo está afectado por dos o tres venenos distintos, reciben daño adicional."
+            "Passive": "Los ataques básicos de Serket aplican Catalizador, que consume sus venenos prolongados.  Si el objetivo está afectado por dos o tres venenos distintos, reciben daño adicional.",
+            "PassiveName": "Catalizador"
         },
         {
             "Name": "Set",
@@ -9701,7 +9798,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.1,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Shiva",
@@ -9729,7 +9827,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Skadi",
@@ -9757,7 +9856,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3,
-            "Passive": "Kaldr combate junto a Skadi y tiene dos estados: bestial y elemental.  En estado bestial puede atacar y ser atacado.  En estado elemental es inmune a los ataques y regenera salud con el tiempo.  Skadi controla los dos estados de Kaldr mediante la runa de la caza, pero si este se queda sin puntos de salud, recuperará su forma elemental a la fuerza."
+            "Passive": "Kaldr combate junto a Skadi y tiene dos estados: bestial y elemental.  En estado bestial puede atacar y ser atacado.  En estado elemental es inmune a los ataques y regenera salud con el tiempo.  Skadi controla los dos estados de Kaldr mediante la runa de la caza, pero si este se queda sin puntos de salud, recuperará su forma elemental a la fuerza.",
+            "PassiveName": "Kaldr, el lobo invernal"
         },
         {
             "Name": "Sobek",
@@ -9785,7 +9885,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Los ataques básicos y habilidades de Sobek le otorgarán protecciones durante un breve periodo de tiempo al golpear a un enemigo."
+            "Passive": "Los ataques básicos y habilidades de Sobek le otorgarán protecciones durante un breve periodo de tiempo al golpear a un enemigo.",
+            "PassiveName": "Bendición del Nilo"
         },
         {
             "Name": "Sol",
@@ -9813,7 +9914,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": "Sol consigue calor al usar habilidades e impactar con ataques básicos.  Obtiene +1 % de poder mágico y +1 % de velocidad de ataque por cada 3 % de calor.  Al alcanzar el 100 % de calor, los ataques básicos de Sol causan +30 % de daño.  El calor disminuye con el tiempo."
+            "Passive": "Sol consigue calor al usar habilidades e impactar con ataques básicos.  Obtiene +1 % de poder mágico y +1 % de velocidad de ataque por cada 3 % de calor.  Al alcanzar el 100 % de calor, los ataques básicos de Sol causan +30 % de daño.  El calor disminuye con el tiempo.",
+            "PassiveName": "Manifestación inestable"
         },
         {
             "Name": "Sun Wukong",
@@ -9841,7 +9943,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Cuando la salud de Sun Wukong esté por debajo del 35 %, obtiene +10 % de probabilidad de crítico y +10 de protecciones, más otro 1 % de probabilidad de crítico y 1 protección a su nivel actual."
+            "Passive": "Cuando la salud de Sun Wukong esté por debajo del 35 %, obtiene +10 % de probabilidad de crítico y +10 de protecciones, más otro 1 % de probabilidad de crítico y 1 protección a su nivel actual.",
+            "PassiveName": "Cuerpo invicto"
         },
         {
             "Name": "Surtr",
@@ -9869,7 +9972,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Susano-o",
@@ -9897,7 +10001,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Silvano",
@@ -9925,7 +10030,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Terra",
@@ -9953,7 +10059,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": "Las habilidades de Terra generan menhires. Mientras haya menhires en el campo de batalla, Terra será inmune a los derribos, y sus ataques básicos ralentizarán a los enemigos. Si hace añicos sus menhires, el potenciador seguirá activo durante 3 segundos más cuando todos estén destruidos."
+            "Passive": "Las habilidades de Terra generan menhires. Mientras haya menhires en el campo de batalla, Terra será inmune a los derribos, y sus ataques básicos ralentizarán a los enemigos. Si hace añicos sus menhires, el potenciador seguirá activo durante 3 segundos más cuando todos estén destruidos.",
+            "PassiveName": "Menhires"
         },
         {
             "Name": "Tánatos",
@@ -9981,7 +10088,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": "Los dioses enemigos en el umbral de salud de ejecución definitivo se muestran ante Tánatos.  Al ejecutar un golpe de gracia al enemigo, Tánatos gana potencia, se cura en base a los PV máximos de su objetivo y disminuyen sus recargas en marcha.  Además, al usar sus habilidades, Tánatos consume salud y maná."
+            "Passive": "Los dioses enemigos en el umbral de salud de ejecución definitivo se muestran ante Tánatos.  Al ejecutar un golpe de gracia al enemigo, Tánatos gana potencia, se cura en base a los PV máximos de su objetivo y disminuyen sus recargas en marcha.  Además, al usar sus habilidades, Tánatos consume salud y maná.",
+            "PassiveName": "Cosechador de almas"
         },
         {
             "Name": "The_Morrigan",
@@ -10009,7 +10117,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Thor",
@@ -10037,7 +10146,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": "El poder físico de Thor aumenta con cada dios enemigo que haya en un radio de 30 unidades."
+            "Passive": "El poder físico de Thor aumenta con cada dios enemigo que haya en un radio de 30 unidades.",
+            "PassiveName": "Locura del guerrero"
         },
         {
             "Name": "Thoth",
@@ -10065,7 +10175,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Tiamat",
@@ -10093,7 +10204,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 2.9,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Tsukuyomi",
@@ -10121,7 +10233,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Tyr",
@@ -10149,7 +10262,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "El aturdimiento, la provocación, el miedo, la intoxicación y la hipnotización no pueden afectar a Tyr durante más de 1s."
+            "Passive": "El aturdimiento, la provocación, el miedo, la intoxicación y la hipnotización no pueden afectar a Tyr durante más de 1s.",
+            "PassiveName": "Inflexible"
         },
         {
             "Name": "Ullr",
@@ -10177,7 +10291,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Cuando Ullr usa una habilidad de cualquiera de las posiciones se reducen las recargas de la posición contraria."
+            "Passive": "Cuando Ullr usa una habilidad de cualquiera de las posiciones se reducen las recargas de la posición contraria.",
+            "PassiveName": "Maestro de armas"
         },
         {
             "Name": "Vámana",
@@ -10205,7 +10320,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.1,
-            "Passive": "Un porcentaje de la protección física de Vámana se convierte en poder físico."
+            "Passive": "Un porcentaje de la protección física de Vámana se convierte en poder físico.",
+            "PassiveName": "Gigante durmiente"
         },
         {
             "Name": "Vulcano",
@@ -10233,7 +10349,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Siempre que Vulcano alcance a un dios enemigo con una habilidad, obtendrá bonificaciones de velocidad de movimiento y MP5 durante 5 s."
+            "Passive": "Siempre que Vulcano alcance a un dios enemigo con una habilidad, obtendrá bonificaciones de velocidad de movimiento y MP5 durante 5 s.",
+            "PassiveName": "Maestro artesano"
         },
         {
             "Name": "Ixbalanqué",
@@ -10261,7 +10378,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": "Cada vez que Ixbalanqué acaba con un dios enemigo, su poder físico aumenta de forma permanente."
+            "Passive": "Cada vez que Ixbalanqué acaba con un dios enemigo, su poder físico aumenta de forma permanente.",
+            "PassiveName": "Muerto de la noche"
         },
         {
             "Name": "Xing Tian",
@@ -10289,7 +10407,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.7,
-            "Passive": "Xing Tián obtiene acumulaciones de Furia ardiente cada vez que impacta a un enemigo con una habilidad.  Por cada acumulación de furia que tenga, obtendrá SP5.\n\nLas acumulaciones duran 18 s."
+            "Passive": "Xing Tián obtiene acumulaciones de Furia ardiente cada vez que impacta a un enemigo con una habilidad.  Por cada acumulación de furia que tenga, obtendrá SP5.\n\nLas acumulaciones duran 18 s.",
+            "PassiveName": "Furia ardiente"
         },
         {
             "Name": "Yemoja",
@@ -10317,7 +10436,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Ymir",
@@ -10345,7 +10465,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 32.2,
             "PhysProtPL": 3.6,
-            "Passive": "Todas las habilidades de Ymir que afectan a los enemigos infligen una debilitación llamada Congelación.  Los ataques básicos de Ymir causan un 100 % más de daño a los enemigos que sufren Congelación y hace que estos causen un 10 menos de daño.  Dura 4 s."
+            "Passive": "Todas las habilidades de Ymir que afectan a los enemigos infligen una debilitación llamada Congelación.  Los ataques básicos de Ymir causan un 100 % más de daño a los enemigos que sufren Congelación y hace que estos causen un 10 menos de daño.  Dura 4 s.",
+            "PassiveName": "Congelación"
         },
         {
             "Name": "Yu_Huang",
@@ -10373,7 +10494,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": ""
         },
         {
             "Name": "Zeus",
@@ -10401,7 +10523,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 11.2,
             "PhysProtPL": 2.9,
-            "Passive": "Los relámpagos de las manos de Zeus aplicarán una carga a los enemigos.  Los ataques básicos de Zeus con carga causarán más daño."
+            "Passive": "Los relámpagos de las manos de Zeus aplicarán una carga a los enemigos.  Los ataques básicos de Zeus con carga causarán más daño.",
+            "PassiveName": "Sobrecarga"
         },
         {
             "Name": "Zhong Kui",
@@ -10429,7 +10552,8 @@ Spanish =
             "MagProtPL": 1.6,
             "PhysProt": 15.2,
             "PhysProtPL": 2.8,
-            "Passive": "Los demonios que captura Zhong Kui con el Exorcismo se almacenan en su bolsa demoníaca y recibe protecciones adicionales por cada demonio que capture.  Al activar Invocar demonios, Zhong Kui duplica las protecciones de Bolsa de Demonios, pero pierde todas las acumulaciones cuando esta se vacía."
+            "Passive": "Los demonios que captura Zhong Kui con el Exorcismo se almacenan en su bolsa demoníaca y recibe protecciones adicionales por cada demonio que capture.  Al activar Invocar demonios, Zhong Kui duplica las protecciones de Bolsa de Demonios, pero pierde todas las acumulaciones cuando esta se vacía.",
+            "PassiveName": "Bolsa de demonios"
         }
     ]
 }

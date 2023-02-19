@@ -7089,7 +7089,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": "Achilles savaşın gidişatına ayak uydurur. Kaynakta iken Achilles zırh giymeyi tercih ederek bonus Can ve Koruma kazanır ya da zırh giymeden hareket hızı ve Fiziksel Güç alır. Pasif hedefleyici etkinken Achilles'in temel saldırısı kullanılarak değiştirme yapılabilir."
+            "Passive": "Achilles savaşın gidişatına ayak uydurur. Kaynakta iken Achilles zırh giymeyi tercih ederek bonus Can ve Koruma kazanır ya da zırh giymeden hareket hızı ve Fiziksel Güç alır. Pasif hedefleyici etkinken Achilles'in temel saldırısı kullanılarak değiştirme yapılabilir.",
+            "PassiveName": "Tanrıların Armağanı"
         },
         {
             "Name": "Agni",
@@ -7117,7 +7118,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 2.8,
-            "Passive": "Bir düşmana Temel Saldırı ile vurmak, 1 Tutuştur yığını kazandırır. Düşman tanrıya vurmak 2 yığın verir. 4 yığına ulaşınca Agni'nin sonraki Alev Dalgası veya Ateş Yağmuru, vurulan tüm düşmanları yakarak 3sn boyunca her 0.5 saniyede hasar verir."
+            "Passive": "Bir düşmana Temel Saldırı ile vurmak, 1 Tutuştur yığını kazandırır. Düşman tanrıya vurmak 2 yığın verir. 4 yığına ulaşınca Agni'nin sonraki Alev Dalgası veya Ateş Yağmuru, vurulan tüm düşmanları yakarak 3sn boyunca her 0.5 saniyede hasar verir.",
+            "PassiveName": "Tutuştur"
         },
         {
             "Name": "Ah Muzen Cab",
@@ -7145,7 +7147,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Arılar! yeteneğinden etkilenen düşmanlar 2 sn boyunca her 0,5 saniyede hasar görür, mini haritada görünür ve yakındaki düşmanlara sıçrar. Temel Saldırılar Arılar! yeteneğinin süresini yenileyip 1 sn artırır. Bu hasar, Eşya etkilerini tetiklemez."
+            "Passive": "Arılar! yeteneğinden etkilenen düşmanlar 2 sn boyunca her 0,5 saniyede hasar görür, mini haritada görünür ve yakındaki düşmanlara sıçrar. Temel Saldırılar Arılar! yeteneğinin süresini yenileyip 1 sn artırır. Bu hasar, Eşya etkilerini tetiklemez.",
+            "PassiveName": "Arılar!"
         },
         {
             "Name": "Ah Puch",
@@ -7173,7 +7176,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 2.9,
-            "Passive": "Ah Puch ölülerle yakınlık kurmuştur ve dilediği zaman cesetleri topraktan çıkarabilir. Ah Puch, çürüyen bir cesedin üzerinden yürürken Zombi Dalgası ve Ceset Patlatma yeteneklerinin bekleme süresini 2sn azaltır, maksimum Canının %7'sini ve maksimum Manasının %3'ünü yeniler."
+            "Passive": "Ah Puch ölülerle yakınlık kurmuştur ve dilediği zaman cesetleri topraktan çıkarabilir. Ah Puch, çürüyen bir cesedin üzerinden yürürken Zombi Dalgası ve Ceset Patlatma yeteneklerinin bekleme süresini 2sn azaltır, maksimum Canının %7'sini ve maksimum Manasının %3'ünü yeniler.",
+            "PassiveName": "Ölü Zemin"
         },
         {
             "Name": "Amaterasu",
@@ -7201,7 +7205,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Amaterasu temel saldırılarla vurduğu düşmanları aydınlatır. Aynı hedefe 3 kere vurduktan sonra düşman bir aura kazanır, düşmanın zayıf noktaları ortaya çıkarak tüm kaynaklardan daha fazla hasar almalarına yol açar. Etkilenen yakınına gelen tüm düşmanlar da zayıflatılır."
+            "Passive": "Amaterasu temel saldırılarla vurduğu düşmanları aydınlatır. Aynı hedefe 3 kere vurduktan sonra düşman bir aura kazanır, düşmanın zayıf noktaları ortaya çıkarak tüm kaynaklardan daha fazla hasar almalarına yol açar. Etkilenen yakınına gelen tüm düşmanlar da zayıflatılır.",
+            "PassiveName": "Aydınlatıcı Vuruş"
         },
         {
             "Name": "Anhur",
@@ -7229,7 +7234,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3,
-            "Passive": "Anhur'un mızrak saldırıları, düşman hedeflerinin Fiziksel Korumasını 3 saniyeliğine azaltır."
+            "Passive": "Anhur'un mızrak saldırıları, düşman hedeflerinin Fiziksel Korumasını 3 saniyeliğine azaltır.",
+            "PassiveName": "Zayıf Düşür"
         },
         {
             "Name": "Anubis",
@@ -7257,7 +7263,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 14,
             "PhysProtPL": 2.7,
-            "Passive": "Anubis'in bütün yetenekleri hedeften Fiziksel ve Sihirli Koruma çalar ve Sihirli Can Çalmadan elde edilen İyileştirmeyi artırır. Bu etkiler Anubis'in yeteneklerinin her tikinde yığınlanır. Ayrıca Keder yeteneği Anubis'e tüm Kalabalık Kontrolü sürelerinde ek %30 azaltma sağlar."
+            "Passive": "Anubis'in bütün yetenekleri hedeften Fiziksel ve Sihirli Koruma çalar ve Sihirli Can Çalmadan elde edilen İyileştirmeyi artırır. Bu etkiler Anubis'in yeteneklerinin her tikinde yığınlanır. Ayrıca Keder yeteneği Anubis'e tüm Kalabalık Kontrolü sürelerinde ek %30 azaltma sağlar.",
+            "PassiveName": "Keder"
         },
         {
             "Name": "Ao Kuang",
@@ -7285,7 +7292,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Ao Kuang her 10 saniyede bir Ejderha Kralı'nın Kılıcı yığını kazanır. Yığın varken bir düşman tanrıya Ulti olmayan bir yetenekle hasar vermek o yeteneğin bekleme süresini azaltır ve Ao Kuang'ı iyileştirir. Doğu Denizlerinin Kralı ile bir düşman tanrı başarıyla katledilirse Ejderha Kralı'nın Kılıcı tamamen dolar."
+            "Passive": "Ao Kuang her 10 saniyede bir Ejderha Kralı'nın Kılıcı yığını kazanır. Yığın varken bir düşman tanrıya Ulti olmayan bir yetenekle hasar vermek o yeteneğin bekleme süresini azaltır ve Ao Kuang'ı iyileştirir. Doğu Denizlerinin Kralı ile bir düşman tanrı başarıyla katledilirse Ejderha Kralı'nın Kılıcı tamamen dolar.",
+            "PassiveName": "Ejderha Kralı'nın Kılıcı"
         },
         {
             "Name": "Afrodit",
@@ -7313,7 +7321,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "Afrodit, 70 birim yakınındaki her dost ya da düşman tanrısı için 4 Fiziksel ve 4 Sihirli Koruma kazanır."
+            "Passive": "Afrodit, 70 birim yakınındaki her dost ya da düşman tanrısı için 4 Fiziksel ve 4 Sihirli Koruma kazanır.",
+            "PassiveName": "İlgi Odağı"
         },
         {
             "Name": "Apollo",
@@ -7341,7 +7350,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 2.9,
-            "Passive": "Apollo 10 başarılı Temel Saldırıdan sonra Cesaret kazanır ve sonraki 5 Temel Saldırıda (isabetli veya ıskalanmış) Saldırı Hızını %100 arttırır. Apollo ayrıca Düşman Tanrılara yapılan hasar veren her başarılı saldırıda 1 Cesaret yığını da kazanır."
+            "Passive": "Apollo 10 başarılı Temel Saldırıdan sonra Cesaret kazanır ve sonraki 5 Temel Saldırıda (isabetli veya ıskalanmış) Saldırı Hızını %100 arttırır. Apollo ayrıca Düşman Tanrılara yapılan hasar veren her başarılı saldırıda 1 Cesaret yığını da kazanır.",
+            "PassiveName": "Cesaret"
         },
         {
             "Name": "Arakne",
@@ -7369,7 +7379,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Arachne'nin Temel Saldırıları, hedefin kayıp her %5 Canına karşılık %1.25 Fiziksel Hasar kazanır."
+            "Passive": "Arachne'nin Temel Saldırıları, hedefin kayıp her %5 Canına karşılık %1.25 Fiziksel Hasar kazanır.",
+            "PassiveName": "Avcı"
         },
         {
             "Name": "Ares",
@@ -7397,7 +7408,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.2,
-            "Passive": "Ares'in sahip olduğu her auralı eşya ona 30 ilave Sihirli Güç sağlar."
+            "Passive": "Ares'in sahip olduğu her auralı eşya ona 30 ilave Sihirli Güç sağlar.",
+            "PassiveName": "Kutsanmış Varlık"
         },
         {
             "Name": "Artemis",
@@ -7425,7 +7437,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Artemis temel saldırısıyla Kalabalık Kontrolünden etkilenen tanrılara %15 ve minyonlara %30 daha çok hasar verir."
+            "Passive": "Artemis temel saldırısıyla Kalabalık Kontrolünden etkilenen tanrılara %15 ve minyonlara %30 daha çok hasar verir.",
+            "PassiveName": "Hareketsiz Hedef"
         },
         {
             "Name": "Artio",
@@ -7453,7 +7466,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": "Düşman tanrılar, Artio'nun Druid ya da Ayı yetenekleri ile vurulduğunda parçalanmaya başlarlar. Bu etki onların Fiziksel ve Sihirli Korumalarını azaltır. Bu etki yığınlanır."
+            "Passive": "Düşman tanrılar, Artio'nun Druid ya da Ayı yetenekleri ile vurulduğunda parçalanmaya başlarlar. Bu etki onların Fiziksel ve Sihirli Korumalarını azaltır. Bu etki yığınlanır.",
+            "PassiveName": "Parçala"
         },
         {
             "Name": "Athena",
@@ -7481,7 +7495,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": "Bir yetenek kullandıktan sonra Athena'nın bir sonraki Temel Saldırısı menzilli saldırı olur, düşmanların içinden geçip onlara vurur ve ilk vurduğu düşmana %50 arttırılmış hasar verir. Temas Kur'un hasarı Temel Saldırı Eşyası Etkilerini tetikler ancak Yeteneklerin etkilerini tetiklemez."
+            "Passive": "Bir yetenek kullandıktan sonra Athena'nın bir sonraki Temel Saldırısı menzilli saldırı olur, düşmanların içinden geçip onlara vurur ve ilk vurduğu düşmana %50 arttırılmış hasar verir. Temas Kur'un hasarı Temel Saldırı Eşyası Etkilerini tetikler ancak Yeteneklerin etkilerini tetiklemez.",
+            "PassiveName": "Temas Kur"
         },
         {
             "Name": "Atlas",
@@ -7509,7 +7524,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": "Atlas, tanrılardan hasar alırken veya temel saldırılarıyla ya da yetenekleriyle hasar verirken Usturlap'ın içinde 1.25 Enerji biriktirir (minyonlar 10'da biri kadar verir). 20 Enerji'de, bir sonraki temel saldırısı 1.5 kat daha fazla hasar verir ve 1.5sn savurma süresine sahip olur. Bu temel saldırıyla önündeki düşmanlara alan etkili ek hasar verir. İsabet alan tanrılar 2sn boyunca titrer, minyonlar sersemler. Maks. 30 Enerji."
+            "Passive": "Atlas, tanrılardan hasar alırken veya temel saldırılarıyla ya da yetenekleriyle hasar verirken Usturlap'ın içinde 1.25 Enerji biriktirir (minyonlar 10'da biri kadar verir). 20 Enerji'de, bir sonraki temel saldırısı 1.5 kat daha fazla hasar verir ve 1.5sn savurma süresine sahip olur. Bu temel saldırıyla önündeki düşmanlara alan etkili ek hasar verir. İsabet alan tanrılar 2sn boyunca titrer, minyonlar sersemler. Maks. 30 Enerji.",
+            "PassiveName": "Usturlap"
         },
         {
             "Name": "Awilix",
@@ -7537,7 +7553,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Awilix son 5 saniyede hasar almadıysa ya da vermediyse ve bir düşmana ilk vurursa, kısa bir süreliğine Fiziksel Gücü artar."
+            "Passive": "Awilix son 5 saniyede hasar almadıysa ya da vermediyse ve bir düşmana ilk vurursa, kısa bir süreliğine Fiziksel Gücü artar.",
+            "PassiveName": "Girişim"
         },
         {
             "Name": "Baba Yaga",
@@ -7565,7 +7582,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 2.9,
-            "Passive": "Baba Yaga'nın Kulübesi, hareket ettikçe ve bir düşman yakınına geldikçe zamanla 100'e kadar öz toplar. Baba Yaga kulübeye yaklaşarak bu özü kullanabilir ve evrilen eşya yığınları kazanır. Daha az yığın sahibi olan eşyalar daha fazla enerji alır. Baba Yaga'nın yığınlanmış eşyası yoksa bu öz Baba Yaga'yı tik başına maksimum Canının %0.8'i kadar iyileştirir."
+            "Passive": "Baba Yaga'nın Kulübesi, hareket ettikçe ve bir düşman yakınına geldikçe zamanla 100'e kadar öz toplar. Baba Yaga kulübeye yaklaşarak bu özü kullanabilir ve evrilen eşya yığınları kazanır. Daha az yığın sahibi olan eşyalar daha fazla enerji alır. Baba Yaga'nın yığınlanmış eşyası yoksa bu öz Baba Yaga'yı tik başına maksimum Canının %0.8'i kadar iyileştirir.",
+            "PassiveName": "Sürünen Kulübe"
         },
         {
             "Name": "Bacchus",
@@ -7593,7 +7611,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Bacchus, içmeyi sever ve Bacchus, sürahisinden içtikçe daha da sarhoş olur, Çakırkeyf ve Sarhoş oldukça Güçlendirme kazanır. Ayrıca Bacchus, bir düşman tanrısı öldürdüğünde kutlama yapar, bu onun ölçeğine %10 katar."
+            "Passive": "Bacchus, içmeyi sever ve Bacchus, sürahisinden içtikçe daha da sarhoş olur, Çakırkeyf ve Sarhoş oldukça Güçlendirme kazanır. Ayrıca Bacchus, bir düşman tanrısı öldürdüğünde kutlama yapar, bu onun ölçeğine %10 katar.",
+            "PassiveName": "Alkol Ölçer"
         },
         {
             "Name": "Bakasura",
@@ -7621,7 +7640,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3,
-            "Passive": "Öldürdüğü her düşman için Bakasura'nın saldırı ve hareket hızı geçici olarak artar."
+            "Passive": "Öldürdüğü her düşman için Bakasura'nın saldırı ve hareket hızı geçici olarak artar.",
+            "PassiveName": "Dinmeyen Açlık"
         },
         {
             "Name": "Baron Samedi",
@@ -7649,7 +7669,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 2.8,
-            "Passive": "Baron, güçlü bir yenileyici olan Baron'un İksiri'ni Eşya Mağazası'ndan müttefikleri ile paylaşır. Baron'un vurduğu düşmanlara Histeri uygulanır. Baron'un yetenekleri, bonus etkiler sağlamak için Histeri ile etkileşime geçer. Maks. Histeri sahibi hedefler Baron Samedi'den %20 ek hasar alırlar."
+            "Passive": "Baron, güçlü bir yenileyici olan Baron'un İksiri'ni Eşya Mağazası'ndan müttefikleri ile paylaşır. Baron'un vurduğu düşmanlara Histeri uygulanır. Baron'un yetenekleri, bonus etkiler sağlamak için Histeri ile etkileşime geçer. Maks. Histeri sahibi hedefler Baron Samedi'den %20 ek hasar alırlar.",
+            "PassiveName": "Histeri"
         },
         {
             "Name": "Bastet",
@@ -7677,7 +7698,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": "Bastet düşmanlara vurunca Fiziksel Can Çalma ve Fiziksel Yetenek Can Çalma kazanır. Ek olarak, vurulan düşman tanrılar 6 saniyeliğine Bastet'e görünür."
+            "Passive": "Bastet düşmanlara vurunca Fiziksel Can Çalma ve Fiziksel Yetenek Can Çalma kazanır. Ek olarak, vurulan düşman tanrılar 6 saniyeliğine Bastet'e görünür.",
+            "PassiveName": "Gece Gezen"
         },
         {
             "Name": "Bellona",
@@ -7705,7 +7727,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Temel Saldırı yapma ya da alma ile Bellona 7sn boyunca Koruma ve Hareket Hızı kazanır (maks. 5 yığın)."
+            "Passive": "Temel Saldırı yapma ya da alma ile Bellona 7sn boyunca Koruma ve Hareket Hızı kazanır (maks. 5 yığın).",
+            "PassiveName": "Savaş Ustası"
         },
         {
             "Name": "Cabrakan",
@@ -7733,7 +7756,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.6,
-            "Passive": "Cabrakan ve yakınındaki müttefikler %5 daha az hasar alır."
+            "Passive": "Cabrakan ve yakınındaki müttefikler %5 daha az hasar alır.",
+            "PassiveName": "Gölge Bölgesi"
         },
         {
             "Name": "Camazotz",
@@ -7761,7 +7785,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.2,
-            "Passive": "Camazotz, Fiziksel Can Çalma ve iyileştirme için pasif bir Öz İçiçi bonusuna sahiptir. Ayrıca her bir tanrı öldüğünde ardında bir öz havuzu bırakır. Camazotz öz havuzlarının içerisinde durarak her 0.5 saniyede bir özü içebilir ve böylece Canını ve Manasını yeniler."
+            "Passive": "Camazotz, Fiziksel Can Çalma ve iyileştirme için pasif bir Öz İçiçi bonusuna sahiptir. Ayrıca her bir tanrı öldüğünde ardında bir öz havuzu bırakır. Camazotz öz havuzlarının içerisinde durarak her 0.5 saniyede bir özü içebilir ve böylece Canını ve Manasını yeniler.",
+            "PassiveName": "Öz İçici"
         },
         {
             "Name": "Cerberus",
@@ -7789,7 +7814,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Cerberus'un 40 birim yakınında bir düşman tanrı iyileştirildiği zaman bu iyileşme %30 azaltılır ve Cerberus iyileşmenin %50'sini alır. Cerberus HP5 hariç tüm iyileştirme türlerini azaltır ve çalar. Çalınan miktar, iyileşmenin temel etkisine dayanır ve herhangi bir artma veya azalma etkisi içermez."
+            "Passive": "Cerberus'un 40 birim yakınında bir düşman tanrı iyileştirildiği zaman bu iyileşme %30 azaltılır ve Cerberus iyileşmenin %50'sini alır. Cerberus HP5 hariç tüm iyileştirme türlerini azaltır ve çalar. Çalınan miktar, iyileşmenin temel etkisine dayanır ve herhangi bir artma veya azalma etkisi içermez.",
+            "PassiveName": "Ölüm Ruhu"
         },
         {
             "Name": "Cernunnos",
@@ -7817,7 +7843,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.1,
-            "Passive": "Cernunnos silah olarak çark kılıcı kullanır. Bu kılıcı fırlatırken temel saldırıları, yakın dövüş menzilinde olan tüm düşmanlara fazladan hasar verir. Ağır Kılıç pasif yeteneğinden kazandığı fazladan hasar, eşyalardan ya da diğer yeteneklerden gelen etkileri tetiklemez. Ayrıca Kritik Vuruş da yapamaz."
+            "Passive": "Cernunnos silah olarak çark kılıcı kullanır. Bu kılıcı fırlatırken temel saldırıları, yakın dövüş menzilinde olan tüm düşmanlara fazladan hasar verir. Ağır Kılıç pasif yeteneğinden kazandığı fazladan hasar, eşyalardan ya da diğer yeteneklerden gelen etkileri tetiklemez. Ayrıca Kritik Vuruş da yapamaz.",
+            "PassiveName": "Ağır Kılıç"
         },
         {
             "Name": "Chaac",
@@ -7845,7 +7872,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "5 başarılı Temel Saldırıdan sonra Chaac'ın kullanacağı bir sonraki yeteneği Mana harcamaz ve bekleme süresi 2 sn azalır."
+            "Passive": "5 başarılı Temel Saldırıdan sonra Chaac'ın kullanacağı bir sonraki yeteneği Mana harcamaz ve bekleme süresi 2 sn azalır.",
+            "PassiveName": "Taşkın"
         },
         {
             "Name": "Chang'e",
@@ -7873,7 +7901,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 2.9,
-            "Passive": "Chang'e, nerede olursa olsun eşya alıp satabilir ve yoldaşı Yeşim Tavşan onları gidip getirir. Tavşan mağazaya gidip döndüğünde işlem tamamlanır. Bu yolla bir kerede sadece bir nesne alınıp satılabilir. Ayrıca Chang'e, danslarını kullanırken geri yürüme cezası olmadan +%25 Hareket Hızı kazanır."
+            "Passive": "Chang'e, nerede olursa olsun eşya alıp satabilir ve yoldaşı Yeşim Tavşan onları gidip getirir. Tavşan mağazaya gidip döndüğünde işlem tamamlanır. Bu yolla bir kerede sadece bir nesne alınıp satılabilir. Ayrıca Chang'e, danslarını kullanırken geri yürüme cezası olmadan +%25 Hareket Hızı kazanır.",
+            "PassiveName": "Yeşim Tavşan"
         },
         {
             "Name": "Charybdis",
@@ -7901,7 +7930,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": "Charybdis Gelgit kazandıkça Saldırı Hızı da kazanır. Başarılı Temel Saldırı vuruşları Gelgit'i arttırır.\nEşya etkileri tetiklenince Charybdis daha az hasar verir."
+            "Passive": "Charybdis Gelgit kazandıkça Saldırı Hızı da kazanır. Başarılı Temel Saldırı vuruşları Gelgit'i arttırır.\nEşya etkileri tetiklenince Charybdis daha az hasar verir.",
+            "PassiveName": "Öfkeli Gelgitler"
         },
         {
             "Name": "Chernobog",
@@ -7929,7 +7959,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.2,
-            "Passive": "Her başarılı Temel Saldırı ile düşmana kırılgan bir kristal saplanır. Soğuk Kalp 3 yığına ulaşınca düşman patlar ve etrafına ekstra hasar verir (bu hasar eşya etkilerini tetiklemez)."
+            "Passive": "Her başarılı Temel Saldırı ile düşmana kırılgan bir kristal saplanır. Soğuk Kalp 3 yığına ulaşınca düşman patlar ve etrafına ekstra hasar verir (bu hasar eşya etkilerini tetiklemez).",
+            "PassiveName": "Soğuk Kalp"
         },
         {
             "Name": "Chiron",
@@ -7957,7 +7988,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3,
-            "Passive": "Chiron her 12 saniyede bir ilaç yapmak için bitki toplar. Yeteneğini her kullanışında, 30 birim dahilindeki en düşük canı olan müttefiki ya da kendini iyileştirirek ilacı tüketir. İyileştirilen müttefikler Fiziksel ve Sihirli Güç kazanır."
+            "Passive": "Chiron her 12 saniyede bir ilaç yapmak için bitki toplar. Yeteneğini her kullanışında, 30 birim dahilindeki en düşük canı olan müttefiki ya da kendini iyileştirirek ilacı tüketir. İyileştirilen müttefikler Fiziksel ve Sihirli Güç kazanır.",
+            "PassiveName": "Bitkisel İlaç"
         },
         {
             "Name": "Kronos",
@@ -7985,7 +8017,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": "Etrafında zaman geçtikçe Kronos daha da güçlenir. Her 1.5 dakikada Sihirli Gücünü arttıran bir yığın kazanır. Yığınlar 25 defaya kadar birikebilir ve kalıcıdır."
+            "Passive": "Etrafında zaman geçtikçe Kronos daha da güçlenir. Her 1.5 dakikada Sihirli Gücünü arttıran bir yığın kazanır. Yığınlar 25 defaya kadar birikebilir ve kalıcıdır.",
+            "PassiveName": "Zaman Lordu"
         },
         {
             "Name": "Cliodhna",
@@ -8013,7 +8046,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.3,
-            "Passive": "Cliodhna 16 saniyede bir duvarlara girebilir ve burada hareket edip bazı yeteneklerini kullanabilir. Bu sırada her 0.4 saniyede %0.15 Can kaybeder (maks. 40 yığın, gitgide artan şiddette). Cliodhna sakatken ya da Canı %25'in altındayken duvarlara giremez. Duvardan çıktıktan sonraki 5sn boyunca %10 Fiziksel Yetenek Can Çalma kazanır."
+            "Passive": "Cliodhna 16 saniyede bir duvarlara girebilir ve burada hareket edip bazı yeteneklerini kullanabilir. Bu sırada her 0.4 saniyede %0.15 Can kaybeder (maks. 40 yığın, gitgide artan şiddette). Cliodhna sakatken ya da Canı %25'in altındayken duvarlara giremez. Duvardan çıktıktan sonraki 5sn boyunca %10 Fiziksel Yetenek Can Çalma kazanır.",
+            "PassiveName": "Heyula"
         },
         {
             "Name": "Cthulhu",
@@ -8041,7 +8075,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.5,
-            "Passive": "Cthulhu, düşmanların akli dengelerini bozarak temel saldırı zincirinin son vuruşu ve yetenekler aracılığı ile İşkence yığınları uygular. 4 İşkence yığınına ulaşan düşmanlar Çılgınlık'tan etkilenirler. Ayrıca Cthulhu, Çılgınlık sahibi olan yakındaki düşman tanrı başına Sihirli Güç kazanır."
+            "Passive": "Cthulhu, düşmanların akli dengelerini bozarak temel saldırı zincirinin son vuruşu ve yetenekler aracılığı ile İşkence yığınları uygular. 4 İşkence yığınına ulaşan düşmanlar Çılgınlık'tan etkilenirler. Ayrıca Cthulhu, Çılgınlık sahibi olan yakındaki düşman tanrı başına Sihirli Güç kazanır.",
+            "PassiveName": "Ürkmüş Av"
         },
         {
             "Name": "Cu Chulainn",
@@ -8069,7 +8104,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": "Cu Chulainn'in Mana, MP5 ve Mana İyileştirmesi Can havuzuna dahil edilir. Yetenekler Hiddet harcar. Hiddet yenilenmesi maks. 25'tir. İsabetli temel saldırılarıyla 1 Hiddet, kendisi veya müttefikleri hasar aldığında 0.5 Hiddet kazanır. Yetenekleri ile vurduğunda da Hiddet kazanır. 85'i geçince 3sn sonra Çılgın etkisine girer. Cu Chulainn Çılgın'ken güç ve Can kalkanı kazanır."
+            "Passive": "Cu Chulainn'in Mana, MP5 ve Mana İyileştirmesi Can havuzuna dahil edilir. Yetenekler Hiddet harcar. Hiddet yenilenmesi maks. 25'tir. İsabetli temel saldırılarıyla 1 Hiddet, kendisi veya müttefikleri hasar aldığında 0.5 Hiddet kazanır. Yetenekleri ile vurduğunda da Hiddet kazanır. 85'i geçince 3sn sonra Çılgın etkisine girer. Cu Chulainn Çılgın'ken güç ve Can kalkanı kazanır.",
+            "PassiveName": "Çılgın"
         },
         {
             "Name": "Cupid",
@@ -8097,7 +8133,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.2,
-            "Passive": "Temel Saldırı ile her vuruş Cupid'e yeteneklerinin hasarını ve iyileşmesini artıran bir Kalp Yığını verir. Kalp Bombası ve Aşk Tarlaları her zaman Kalp Yığınlarını harcar ve 8 Yığında fazladan etkilere sahip olur."
+            "Passive": "Temel Saldırı ile her vuruş Cupid'e yeteneklerinin hasarını ve iyileşmesini artıran bir Kalp Yığını verir. Kalp Bombası ve Aşk Tarlaları her zaman Kalp Yığınlarını harcar ve 8 Yığında fazladan etkilere sahip olur.",
+            "PassiveName": "Aşk Çarpması"
         },
         {
             "Name": "Da Ji",
@@ -8125,7 +8162,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.2,
-            "Passive": "Da Ji'nin keskin pençeleri, temel saldırıyla saldırdığı düşmanlarını Kanatır. Kanama hasarı, düşmanın her 1 saniye için 2 saniyelik hasar almasına yol açar ve aynı hedefte istenen sayıda yığınlanabilir. (Bu yetenek Eşya etkilerini tetiklemez)"
+            "Passive": "Da Ji'nin keskin pençeleri, temel saldırıyla saldırdığı düşmanlarını Kanatır. Kanama hasarı, düşmanın her 1 saniye için 2 saniyelik hasar almasına yol açar ve aynı hedefte istenen sayıda yığınlanabilir. (Bu yetenek Eşya etkilerini tetiklemez)",
+            "PassiveName": "İşkence Bıçakları"
         },
         {
             "Name": "Danzaburou",
@@ -8153,7 +8191,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.1,
-            "Passive": "Danzaburou aktif olarak altın kazandığı her seferde altının %10'unu para keselerinden birine doldurur. Keselerden biri tamamen dolduğu zaman Danzaburou, daha büyük bir keseye geçmeden önce bonus altın ve kalıcı bir Fiziksel Güç artışı kazanır."
+            "Passive": "Danzaburou aktif olarak altın kazandığı her seferde altının %10'unu para keselerinden birine doldurur. Keselerden biri tamamen dolduğu zaman Danzaburou, daha büyük bir keseye geçmeden önce bonus altın ve kalıcı bir Fiziksel Güç artışı kazanır.",
+            "PassiveName": "Şaibeli Birikim"
         },
         {
             "Name": "Discordia",
@@ -8181,7 +8220,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "Discordia devamlı olarak kendisiyle takım arkadaşlarını en iyinin kim olduğunu göstermek için karşılaştırır. Takımındaki düşman oyunculara en çok hasar veren tanrı Discordia'nın seviyesini pul pul döken bir Güç güçlendirmesi alır."
+            "Passive": "Discordia devamlı olarak kendisiyle takım arkadaşlarını en iyinin kim olduğunu göstermek için karşılaştırır. Takımındaki düşman oyunculara en çok hasar veren tanrı Discordia'nın seviyesini pul pul döken bir Güç güçlendirmesi alır.",
+            "PassiveName": "Tanrı Yarışması"
         },
         {
             "Name": "Erlang Shen",
@@ -8209,7 +8249,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": "Erlang Shen, bir düşmana temel saldırı ile her vurduğunda köpeği de temel saldırı gücünün %5'i ve hedefin maksimum Canının %1.75'i oranında hasar verir. Hasar yüzdesi sadece tanrılara ve minyonlara işler."
+            "Passive": "Erlang Shen, bir düşmana temel saldırı ile her vurduğunda köpeği de temel saldırı gücünün %5'i ve hedefin maksimum Canının %1.75'i oranında hasar verir. Hasar yüzdesi sadece tanrılara ve minyonlara işler.",
+            "PassiveName": "Uluyan Göksel Köpek"
         },
         {
             "Name": "Isis",
@@ -8237,7 +8278,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "Isis, yakındaki müttefikleri ile ek HP5 ve MP5 paylaşır. 80 birim yakınındaki her oyuncu ölümü için aurası ek yığın kazanır (maks. 10). 10 yığına ulaşınca Isis ek olarak %10 Bekleme Azaltma kazanır. Ayrıca Isis'in dizi olarak son Temel Saldırısı daha geniş bir çapta gerçekleşir (+2)."
+            "Passive": "Isis, yakındaki müttefikleri ile ek HP5 ve MP5 paylaşır. 80 birim yakınındaki her oyuncu ölümü için aurası ek yığın kazanır (maks. 10). 10 yığına ulaşınca Isis ek olarak %10 Bekleme Azaltma kazanır. Ayrıca Isis'in dizi olarak son Temel Saldırısı daha geniş bir çapta gerçekleşir (+2).",
+            "PassiveName": "Cenaze Töreni"
         },
         {
             "Name": "Fafnir",
@@ -8265,7 +8307,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.7,
-            "Passive": "Fafnir, minyonlar dahil tüm düşman katletme ve asistlerinden 2 bonus altın kazanır. Fafnir ayrıca elindeki altın miktarına göre bonus Koruması kazanır. Bu yetenekten kazanılan bonuslar, elinde 1.000 altın olduğunda tamamlanır."
+            "Passive": "Fafnir, minyonlar dahil tüm düşman katletme ve asistlerinden 2 bonus altın kazanır. Fafnir ayrıca elindeki altın miktarına göre bonus Koruması kazanır. Bu yetenekten kazanılan bonuslar, elinde 1.000 altın olduğunda tamamlanır.",
+            "PassiveName": "Sonsuz Açgözlülük"
         },
         {
             "Name": "Fenrir",
@@ -8293,7 +8336,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.2,
-            "Passive": "Fenrir, saldırdıkça verimlilik kazanır. Temel Saldırıdan gelen her vuruş en fazla 5 adete kadar 1 Rün etkinleştirir. Zincirsiz, Gaddarlaş ve Ragnarok, maksimum Rün ile kullanıldığında ek özellik kazanır ve Rünler tüketilir. Fenrir'in öldürdüğü düşman tanrı, onun Rünlerini tamamen etkinleştirir. Katlemeye asist yapmak Fenrir'e 3 Rün kazandırır."
+            "Passive": "Fenrir, saldırdıkça verimlilik kazanır. Temel Saldırıdan gelen her vuruş en fazla 5 adete kadar 1 Rün etkinleştirir. Zincirsiz, Gaddarlaş ve Ragnarok, maksimum Rün ile kullanıldığında ek özellik kazanır ve Rünler tüketilir. Fenrir'in öldürdüğü düşman tanrı, onun Rünlerini tamamen etkinleştirir. Katlemeye asist yapmak Fenrir'e 3 Rün kazandırır.",
+            "PassiveName": "Rünleri Serbest Bırak"
         },
         {
             "Name": "Freya",
@@ -8321,7 +8365,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3,
-            "Passive": "Freya'nın kolyesi ona ek Sihirli Can Çalma verir."
+            "Passive": "Freya'nın kolyesi ona ek Sihirli Can Çalma verir.",
+            "PassiveName": "Brisingamen'in Kutsaması"
         },
         {
             "Name": "Ganesha",
@@ -8349,7 +8394,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": "Ganesha ölümcül darbeyi indirdikten sonra, en yakındaki Dostane Tanrı, bu leş için kredi alır ve Ganesha asist için verilen ödülleri alır. İlaveten, asist menzili 20 kadar arttırılır ve asist kredisini kaybeden önceki süre 5 sn arttırılır."
+            "Passive": "Ganesha ölümcül darbeyi indirdikten sonra, en yakındaki Dostane Tanrı, bu leş için kredi alır ve Ganesha asist için verilen ödülleri alır. İlaveten, asist menzili 20 kadar arttırılır ve asist kredisini kaybeden önceki süre 5 sn arttırılır.",
+            "PassiveName": "İyi Şans"
         },
         {
             "Name": "Geb",
@@ -8377,7 +8423,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Alınan Kritik Vuruş bonus hasarı %65 azaltılır."
+            "Passive": "Alınan Kritik Vuruş bonus hasarı %65 azaltılır.",
+            "PassiveName": "Kaya Gibi Sert"
         },
         {
             "Name": "Gılgamış",
@@ -8405,7 +8452,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Gılgamış tüm heybetiyle atılır! Seviye 5 ve 10'da Gılgamış bir görev alır. İlk görevi haritadaki belli bir konumu ziyaret etmektir. İkinci göreviyse tek bir dövüşte düşman takımın yarısını (düşman sayısını yuvarlayarak) yenmektir. Gılgamış ne zaman bir görev tamamlasa 1. Kademe bir eşya ya da envanteri doluysa 500 altın kazanır."
+            "Passive": "Gılgamış tüm heybetiyle atılır! Seviye 5 ve 10'da Gılgamış bir görev alır. İlk görevi haritadaki belli bir konumu ziyaret etmektir. İkinci göreviyse tek bir dövüşte düşman takımın yarısını (düşman sayısını yuvarlayarak) yenmektir. Gılgamış ne zaman bir görev tamamlasa 1. Kademe bir eşya ya da envanteri doluysa 500 altın kazanır.",
+            "PassiveName": "Gılgamış Destanı"
         },
         {
             "Name": "Guan Yu",
@@ -8433,7 +8481,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
             "PhysProtPL": 3.2,
-            "Passive": "Guan Yu, hasar aldıkça ya da verdikçe yığın kazanır. Maksimum yığına ulaşınca Acısız etkinleşir ve Guan Yu'nun tüm yetenekleri takviyeli etkiler alır. Etkinken, Guan Yu son 5 saniyede hasar almazsa ya da vermezse yığınlar sıfırlanır."
+            "Passive": "Guan Yu, hasar aldıkça ya da verdikçe yığın kazanır. Maksimum yığına ulaşınca Acısız etkinleşir ve Guan Yu'nun tüm yetenekleri takviyeli etkiler alır. Etkinken, Guan Yu son 5 saniyede hasar almazsa ya da vermezse yığınlar sıfırlanır.",
+            "PassiveName": "Acısız"
         },
         {
             "Name": "Hachiman",
@@ -8461,7 +8510,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3,
-            "Passive": "Hachiman darbelerini yaptıkça güçlenir. Temel Saldırılar ile düşmanlara vurmak Hachiman'a enerji ve bir yığın MP5 verir. 5 defaya kadar birikir, 8sn sürer."
+            "Passive": "Hachiman darbelerini yaptıkça güçlenir. Temel Saldırılar ile düşmanlara vurmak Hachiman'a enerji ve bir yığın MP5 verir. 5 defaya kadar birikir, 8sn sürer.",
+            "PassiveName": "Silah Ustası"
         },
         {
             "Name": "Hades",
@@ -8489,7 +8539,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 2.8,
-            "Passive": "Hades'in normal asa saldırıları, düşmana Yıkım isimli bir Güçsüzleştirme uygular. Bu Güçsüzleştirme, hedefte kalır ve yenilenebilir. Bir düşman Yıkım tarafından etkilenmiş ise, Sihirli ve Fiziksel Güçleri azalır. Ayrıca Hades'in diğer tüm güçlerine de ek etkiler gelir."
+            "Passive": "Hades'in normal asa saldırıları, düşmana Yıkım isimli bir Güçsüzleştirme uygular. Bu Güçsüzleştirme, hedefte kalır ve yenilenebilir. Bir düşman Yıkım tarafından etkilenmiş ise, Sihirli ve Fiziksel Güçleri azalır. Ayrıca Hades'in diğer tüm güçlerine de ek etkiler gelir.",
+            "PassiveName": "Küf"
         },
         {
             "Name": "He Bo",
@@ -8517,7 +8568,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": "He Bo her yetenek kullandığında Sihirli Gücünü arttıran İstikrarlı Akım güçlendirmesi kazanır. Farklı bir yetenek kullanıldığında süresi yenilenir."
+            "Passive": "He Bo her yetenek kullandığında Sihirli Gücünü arttıran İstikrarlı Akım güçlendirmesi kazanır. Farklı bir yetenek kullanıldığında süresi yenilenir.",
+            "PassiveName": "İstikrarlı Akım"
         },
         {
             "Name": "Heimdallr",
@@ -8545,7 +8597,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
             "PhysProtPL": 3.2,
-            "Passive": "Heimdallr, bir düşman tanrısına görüş sağladığında Fiziksel Güç kazanır, bu en fazla 5 tanrıya kadar olabilir. Bir düşman tanrı görüşten çıktığında (Gizlenme dahil) Heimdallr onu 4sn boyunca daha görmeye devam eder. Heimdallr'ın Kritik Vuruşları sadece %40 bonus hasar verir."
+            "Passive": "Heimdallr, bir düşman tanrısına görüş sağladığında Fiziksel Güç kazanır, bu en fazla 5 tanrıya kadar olabilir. Bir düşman tanrı görüşten çıktığında (Gizlenme dahil) Heimdallr onu 4sn boyunca daha görmeye devam eder. Heimdallr'ın Kritik Vuruşları sadece %40 bonus hasar verir.",
+            "PassiveName": "Açıkgöz"
         },
         {
             "Name": "Hel",
@@ -8573,7 +8626,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": "Hel bir duruştayken o duruşun güçlerine yavaş yavaş uyum sağlayarak Karanlık Duruş'ta %20'ye kadar arttırılmış hasar ve Aydınlık Duruş'ta yeteneklerden %10 arttırılmış iyileştirme kazanır."
+            "Passive": "Hel bir duruştayken o duruşun güçlerine yavaş yavaş uyum sağlayarak Karanlık Duruş'ta %20'ye kadar arttırılmış hasar ve Aydınlık Duruş'ta yeteneklerden %10 arttırılmış iyileştirme kazanır.",
+            "PassiveName": "Duruş Uyumu"
         },
         {
             "Name": "Hera",
@@ -8601,7 +8655,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "Hera tanrılara yetenekleri ya da temel saldırıları ile her hasar verişinde Muhafız Argus'un bekleme süresi 1.5sn ve İlahi Örtü'nün bekleme süresi 0.5sn azalır. Argus etkinse bunların yerine Argus'a iyileştirme yapılır."
+            "Passive": "Hera tanrılara yetenekleri ya da temel saldırıları ile her hasar verişinde Muhafız Argus'un bekleme süresi 1.5sn ve İlahi Örtü'nün bekleme süresi 0.5sn azalır. Argus etkinse bunların yerine Argus'a iyileştirme yapılır.",
+            "PassiveName": "Emreden Mevcudiyet"
         },
         {
             "Name": "Herkül",
@@ -8629,7 +8684,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Herkül bir düşman tanrıdan her hasar aldığında Fiziksel Güç sağlayan bir güçlendirme yığını kazanır."
+            "Passive": "Herkül bir düşman tanrıdan her hasar aldığında Fiziksel Güç sağlayan bir güçlendirme yığını kazanır.",
+            "PassiveName": "Acı Kuvveti"
         },
         {
             "Name": "Horus",
@@ -8657,7 +8713,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": "Horus düşman tanrılardan her hasar alışında bir Yavuz yığını kazanır. Horus'a hasar veren tanrı Set ise 2 yığın kazanır. Her yığın Horus'un Korumalarını ve KK Azaltmasını artırır. Yavuz, 3 sn boyunca en fazla 10 yığına ulaşabilir. Yavuz etkisini yitirdiğinde Horus, sahip olduğu yığınlara bağlı olarak iyileşir."
+            "Passive": "Horus düşman tanrılardan her hasar alışında bir Yavuz yığını kazanır. Horus'a hasar veren tanrı Set ise 2 yığın kazanır. Her yığın Horus'un Korumalarını ve KK Azaltmasını artırır. Yavuz, 3 sn boyunca en fazla 10 yığına ulaşabilir. Yavuz etkisini yitirdiğinde Horus, sahip olduğu yığınlara bağlı olarak iyileşir.",
+            "PassiveName": "Yavuz"
         },
         {
             "Name": "Hou Yi",
@@ -8685,7 +8742,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3,
-            "Passive": "Bir kez kritik hasar aldıktan sonra Hou Yi 3sn boyunca başka bir kritik hasar almaz."
+            "Passive": "Bir kez kritik hasar aldıktan sonra Hou Yi 3sn boyunca başka bir kritik hasar almaz.",
+            "PassiveName": "Güneşin Dokunuşu"
         },
         {
             "Name": "Hun Batz",
@@ -8713,7 +8771,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Bir yetenek kullandıktan sonra Hun Batz'ın bir sonraki temel saldırısı %15 daha fazla hasar verir."
+            "Passive": "Bir yetenek kullandıktan sonra Hun Batz'ın bir sonraki temel saldırısı %15 daha fazla hasar verir.",
+            "PassiveName": "Güçlendirilmiş Saldırı"
         },
         {
             "Name": "İştar",
@@ -8741,7 +8800,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.132,
-            "Passive": "İştar'ın Canı %75'in altına düştüğünde kendisine en son hasar veren düşman tanrıyı 10 saniyeliğine işaretler. İştar, işaretlenen tanrıya temel saldırısıyla her hasar verdiğinde bir Saldırı Hızı yığını kazanır. Eğer İştar işaretlenen tanrıyı katleder veya katledilmesinden asist alırsa Hareket Hızı artışı kazanır. Bu pasif yeteneğin bekleme süresi 20 saniyedir."
+            "Passive": "İştar'ın Canı %75'in altına düştüğünde kendisine en son hasar veren düşman tanrıyı 10 saniyeliğine işaretler. İştar, işaretlenen tanrıya temel saldırısıyla her hasar verdiğinde bir Saldırı Hızı yığını kazanır. Eğer İştar işaretlenen tanrıyı katleder veya katledilmesinden asist alırsa Hareket Hızı artışı kazanır. Bu pasif yeteneğin bekleme süresi 20 saniyedir.",
+            "PassiveName": "İntikam Mührü"
         },
         {
             "Name": "Izanami",
@@ -8769,7 +8829,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": "Izanami ölüme yaklaştıkça o kadar kuvvetlenir. Izanami Canının eksik kısmının her %10'u için %4 Fiziksel Tesir kazanır ve bu oran en fazla %20 olabilir. \nIzanami'nin Temel Saldırıları atış hızını daha yüksek Saldırı Hızı ile artırır ve vurulan ilk hedefte saldırı başına sadece Eşya etkilerini tetikler."
+            "Passive": "Izanami ölüme yaklaştıkça o kadar kuvvetlenir. Izanami Canının eksik kısmının her %10'u için %4 Fiziksel Tesir kazanır ve bu oran en fazla %20 olabilir. \nIzanami'nin Temel Saldırıları atış hızını daha yüksek Saldırı Hızı ile artırır ve vurulan ilk hedefte saldırı başına sadece Eşya etkilerini tetikler.",
+            "PassiveName": "Ölüm Yakında"
         },
         {
             "Name": "Janus",
@@ -8797,7 +8858,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 14,
             "PhysProtPL": 3,
-            "Passive": "Janus, Portaldan veya Eşikten her geçtiğinde daha yaşlı ve buruşmuş hale gelir, bir sonraki yetenek kullanımında ek Sihirli Güç ölçeklemesi kazanır."
+            "Passive": "Janus, Portaldan veya Eşikten her geçtiğinde daha yaşlı ve buruşmuş hale gelir, bir sonraki yetenek kullanımında ek Sihirli Güç ölçeklemesi kazanır.",
+            "PassiveName": "Geçitler"
         },
         {
             "Name": "Jing Wei",
@@ -8825,7 +8887,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": "Kaynaktan çıkarken Jing Wei havalanmaya hazırlanır, gökyüzüne yükselir ve Kalabalık Kontrolü dokunulmazlığı ile artan hız kazanarak engellerin üzerinden uçar. Jing Wei, kaynağa giderken yeteneği iptal ederek uçmayı reddedebilir."
+            "Passive": "Kaynaktan çıkarken Jing Wei havalanmaya hazırlanır, gökyüzüne yükselir ve Kalabalık Kontrolü dokunulmazlığı ile artan hız kazanarak engellerin üzerinden uçar. Jing Wei, kaynağa giderken yeteneği iptal ederek uçmayı reddedebilir.",
+            "PassiveName": "Hızlı Reenkarnasyon"
         },
         {
             "Name": "Jormungandr",
@@ -8853,7 +8916,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.8,
-            "Passive": "Jormungandr o kadar büyüktür ki Sert Yer Değiştirme'den etkilenmez, bunun yerine bir Sersem yığını alır. Sersem; yavaşça kaybolan, temizlenemez bir yavaşlatmadır ve bu süre boyunca aldığı hasarı artırır. Taban hızını aşan her değer, Jormungandr'ın Temel Saldırı dolum hızını artırır. Jormungandr'ın Temel Saldırıları eşya vuruş etkilerini tetiklemez."
+            "Passive": "Jormungandr o kadar büyüktür ki Sert Yer Değiştirme'den etkilenmez, bunun yerine bir Sersem yığını alır. Sersem; yavaşça kaybolan, temizlenemez bir yavaşlatmadır ve bu süre boyunca aldığı hasarı artırır. Taban hızını aşan her değer, Jormungandr'ın Temel Saldırı dolum hızını artırır. Jormungandr'ın Temel Saldırıları eşya vuruş etkilerini tetiklemez.",
+            "PassiveName": "Sarsılmaz"
         },
         {
             "Name": "Kali",
@@ -8881,7 +8945,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 21,
             "PhysProtPL": 3.1,
-            "Passive": "Kali, İşaretlemek için bir tanrı seçer. Kali, o tanrıya karşı Fiziksel Tesir kazanır ve ölümcül vuruşu yaparsa Canının Maksimum %60'i oranında iyileşir ve asist için ise %20 alır. O tanrıdan gelen Altın Ganimeti, Leş ya da Asistle %30 artar. Eğer işaretlediği hedef ölürse Kali'ye en yakın düşman tanrı işaretlenir. Kali bir düşman tanrı tarafından öldürülürse yeni bir hedef seçebilir."
+            "Passive": "Kali, İşaretlemek için bir tanrı seçer. Kali, o tanrıya karşı Fiziksel Tesir kazanır ve ölümcül vuruşu yaparsa Canının Maksimum %60'i oranında iyileşir ve asist için ise %20 alır. O tanrıdan gelen Altın Ganimeti, Leş ya da Asistle %30 artar. Eğer işaretlediği hedef ölürse Kali'ye en yakın düşman tanrı işaretlenir. Kali bir düşman tanrı tarafından öldürülürse yeni bir hedef seçebilir.",
+            "PassiveName": "Ölüm İçin İşaretli"
         },
         {
             "Name": "Khepri",
@@ -8909,7 +8974,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Her 5 saniyede bir Khepri kendine ve çevresindeki müttefik tanrılara, 15 sn boyunca hedefin Maksimum Canının %2'sine denk gelen bir kalkan uygular. Khepri son 5 saniyede hasar almadıysa ya da vermediyse bu hız her 10 saniyede bir yavaşlar."
+            "Passive": "Her 5 saniyede bir Khepri kendine ve çevresindeki müttefik tanrılara, 15 sn boyunca hedefin Maksimum Canının %2'sine denk gelen bir kalkan uygular. Khepri son 5 saniyede hasar almadıysa ya da vermediyse bu hız her 10 saniyede bir yavaşlar.",
+            "PassiveName": "Metanet"
         },
         {
             "Name": "Kral Arthur",
@@ -8937,7 +9003,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": "Kral Arthur yetenekleri ile bir tanrıya her hasar verişinde bir Sarsılmaz yığını kazanır. Aldığı hasar azalır ve enerji biriktirme hızı artar. Kral Arthur her yetenek kullanışında Standart ve Kombo Yeteneklerini birbiri ile değiştirir. Her yetenek Anında Yönlendirilir. Ayrıca Saldırı Hızı ve Eşya Pasifleri, Temel Saldırılardan faydalanmaz. Saldırı Hızı enerji kazanımını arttırır."
+            "Passive": "Kral Arthur yetenekleri ile bir tanrıya her hasar verişinde bir Sarsılmaz yığını kazanır. Aldığı hasar azalır ve enerji biriktirme hızı artar. Kral Arthur her yetenek kullanışında Standart ve Kombo Yeteneklerini birbiri ile değiştirir. Her yetenek Anında Yönlendirilir. Ayrıca Saldırı Hızı ve Eşya Pasifleri, Temel Saldırılardan faydalanmaz. Saldırı Hızı enerji kazanımını arttırır.",
+            "PassiveName": "Sarsılmaz"
         },
         {
             "Name": "Kukulkan",
@@ -8965,7 +9032,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Sihirli Gücü, maks. Mananın %4'ü kadar arttırır."
+            "Passive": "Sihirli Gücü, maks. Mananın %4'ü kadar arttırır.",
+            "PassiveName": "Rüzgâr Mücevherinin Gücü"
         },
         {
             "Name": "Kumbhakarna",
@@ -8993,7 +9061,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.5,
-            "Passive": "Kumbhakarna, Canı 0 olduğunda ölmek yerine uykuya dalar. Uyurken 6 temel saldırı (her 5 seviye için +1) ile vurulmadıysa 8sn sonra %35 Can ve Mana ile uyanır. Bu pasif yeteneğin bekleme süresi 120 saniyedir."
+            "Passive": "Kumbhakarna, Canı 0 olduğunda ölmek yerine uykuya dalar. Uyurken 6 temel saldırı (her 5 seviye için +1) ile vurulmadıysa 8sn sonra %35 Can ve Mana ile uyanır. Bu pasif yeteneğin bekleme süresi 120 saniyedir.",
+            "PassiveName": "Uykulu"
         },
         {
             "Name": "Kuzenbo",
@@ -9021,7 +9090,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.5,
-            "Passive": "Kuzenbo Hasar Azaltma öncesinde maksimum Canının %2'sine eşit hasar aldığında kafası suyla dolar ve yığınlar kazanır (En fazla 10 yığın). Yığınlar 30sn sürer ve her yenisini kazandığında süre yenilenir. Gerçek Sert KK'den etkilenirse tastaki yığınların yarısı kaybedilir. Kuzenbo bu şekilde sadece her 1.5 saniyede yığın kaybedebilir."
+            "Passive": "Kuzenbo Hasar Azaltma öncesinde maksimum Canının %2'sine eşit hasar aldığında kafası suyla dolar ve yığınlar kazanır (En fazla 10 yığın). Yığınlar 30sn sürer ve her yenisini kazandığında süre yenilenir. Gerçek Sert KK'den etkilenirse tastaki yığınların yarısı kaybedilir. Kuzenbo bu şekilde sadece her 1.5 saniyede yığın kaybedebilir.",
+            "PassiveName": "Su Tası"
         },
         {
             "Name": "Lancelot",
@@ -9049,7 +9119,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": "Lancelot, tanrı öldürme/asisti için 1 yığın, her 5 minyon öldürme için 1 yığın (maks. 60 yığın) kazanır.\nAta binerken her bir yığın Hareket Hızını arttırır.\nYayayken her bir yığın tam karşıdan maruz kalınan temel saldırılardan alınan hasarı azaltır."
+            "Passive": "Lancelot, tanrı öldürme/asisti için 1 yığın, her 5 minyon öldürme için 1 yığın (maks. 60 yığın) kazanır.\nAta binerken her bir yığın Hareket Hızını arttırır.\nYayayken her bir yığın tam karşıdan maruz kalınan temel saldırılardan alınan hasarı azaltır.",
+            "PassiveName": "Camelot Görevi"
         },
         {
             "Name": "Loki",
@@ -9077,7 +9148,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": "Loki, arkadan yaptığı Temel Saldırılarda daha fazla hasar verir. Loki'nin Temel Saldırıları 5 aşamalı savurmalardan oluşan saldırı zincirleridir."
+            "Passive": "Loki, arkadan yaptığı Temel Saldırılarda daha fazla hasar verir. Loki'nin Temel Saldırıları 5 aşamalı savurmalardan oluşan saldırı zincirleridir.",
+            "PassiveName": "Arkanda!"
         },
         {
             "Name": "Maui",
@@ -9105,7 +9177,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.5,
-            "Passive": "Maui'nin yakınında bir düşman tanrıya Sert Kalabalık Kontrolü uygulanırsa bu tanrı KK süresince ve ekstra 2sn boyunca işaretlenir. Maui, bu işarete sahip bir düşmana temel saldırısıyla vurursa sonraki temel saldırısı gelişir ve gelişmiş saldırıyla vurulan tanrılar ona doğru çekilirler. Bu pasif yeteneğin bekleme süresi 10 saniyedir."
+            "Passive": "Maui'nin yakınında bir düşman tanrıya Sert Kalabalık Kontrolü uygulanırsa bu tanrı KK süresince ve ekstra 2sn boyunca işaretlenir. Maui, bu işarete sahip bir düşmana temel saldırısıyla vurursa sonraki temel saldırısı gelişir ve gelişmiş saldırıyla vurulan tanrılar ona doğru çekilirler. Bu pasif yeteneğin bekleme süresi 10 saniyedir.",
+            "PassiveName": "Manaiakalani"
         },
         {
             "Name": "Medusa",
@@ -9133,7 +9206,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Medusa, yanlara hareket ederken hareket cezasından etkilenmez ve geri geri giderken de sadece yarı ceza alır."
+            "Passive": "Medusa, yanlara hareket ederken hareket cezasından etkilenmez ve geri geri giderken de sadece yarı ceza alır.",
+            "PassiveName": "Çıngıraklı Yılan"
         },
         {
             "Name": "Merkür",
@@ -9161,7 +9235,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": "Mercury gezdiği her 1 birim için bir sonraki temel saldırısında %0.06'lık Fiziksel Güç bonusu kazanır (maks. %30).\n\nMercury ayrıca eşyalardan veya yeteneklerden Hareket Hızının %25'ine eşit ek Fiziksel Güç kazanır."
+            "Passive": "Mercury gezdiği her 1 birim için bir sonraki temel saldırısında %0.06'lık Fiziksel Güç bonusu kazanır (maks. %30).\n\nMercury ayrıca eşyalardan veya yeteneklerden Hareket Hızının %25'ine eşit ek Fiziksel Güç kazanır.",
+            "PassiveName": "Yaşayan En Hızlı Tanrı"
         },
         {
             "Name": "Merlin",
@@ -9189,7 +9264,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 14,
             "PhysProtPL": 3.2,
-            "Passive": "Merlin her büyü yapışında bir Aşırı Yük yığını kazanır. Merlin bir sonraki temel saldırısını gerçekleştirdiğinde şimşek ile çoğalır ve ilk vurulan düşmana ek hasar verir."
+            "Passive": "Merlin her büyü yapışında bir Aşırı Yük yığını kazanır. Merlin bir sonraki temel saldırısını gerçekleştirdiğinde şimşek ile çoğalır ve ilk vurulan düşmana ek hasar verir.",
+            "PassiveName": "Aşırı Yük"
         },
         {
             "Name": "Morgan Le Fay",
@@ -9217,7 +9293,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.2,
-            "Passive": "Morgan Le Fay'in yetenekleri düşman tanrıları İşaretler ve kılıcındaki Sihirli Güç sağlayan ortak Sembolü etkinleştirir. Kılıcı 5 Sembolün tamamına sahip olduğunda Morgan Le Fay güçlendirilmiş hale gelir, tüm Semboller tükenene kadar iki kat Sihirli Güç güçlendirmesi kazanır ve Tüketme Gücü'nün bekleme süresini 10 saniye azaltır."
+            "Passive": "Morgan Le Fay'in yetenekleri düşman tanrıları İşaretler ve kılıcındaki Sihirli Güç sağlayan ortak Sembolü etkinleştirir. Kılıcı 5 Sembolün tamamına sahip olduğunda Morgan Le Fay güçlendirilmiş hale gelir, tüm Semboller tükenene kadar iki kat Sihirli Güç güçlendirmesi kazanır ve Tüketme Gücü'nün bekleme süresini 10 saniye azaltır.",
+            "PassiveName": "Güçlendirilmiş Kılıç"
         },
         {
             "Name": "Mulan",
@@ -9245,7 +9322,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Mulan yeteneklerinde Kılıç, Mızrak ve Yay kullanır ve düşman tanrılara hasar verdikçe bunlarda uzmanlık kazanır. Her silahtaki uzmanlığı farklı bonuslar verir. Mulan ayrıca her 10 saniyede bir, Ulti olmayan bir sonraki yeteneğinin bekleme süresini 2 saniye azaltan bir güçlendirme de kazanır."
+            "Passive": "Mulan yeteneklerinde Kılıç, Mızrak ve Yay kullanır ve düşman tanrılara hasar verdikçe bunlarda uzmanlık kazanır. Her silahtaki uzmanlığı farklı bonuslar verir. Mulan ayrıca her 10 saniyede bir, Ulti olmayan bir sonraki yeteneğinin bekleme süresini 2 saniye azaltan bir güçlendirme de kazanır.",
+            "PassiveName": "Eğitim Süreci"
         },
         {
             "Name": "Ne Zha",
@@ -9273,7 +9351,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": "Ne Zha'nın yetenekleri ve temel sadırıları düşmanlarına isabet ettikçe ruhu güçlenir. Her vuruş 1 yığın verir ve her Kritik Vuruş 2 yığın verir. Ne Zha son 12 saniyede hasar almazsa ya da vermezse yığınlar sıfırlanır."
+            "Passive": "Ne Zha'nın yetenekleri ve temel sadırıları düşmanlarına isabet ettikçe ruhu güçlenir. Her vuruş 1 yığın verir ve her Kritik Vuruş 2 yığın verir. Ne Zha son 12 saniyede hasar almazsa ya da vermezse yığınlar sıfırlanır.",
+            "PassiveName": "Doğrucu Ruh"
         },
         {
             "Name": "Neith",
@@ -9301,7 +9380,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Her düşman tanrının öldüğü son konumda bir Çatlak Dokuma ortaya çıkar. Çatlak Dokumalar, üzerinde kullanıldığında yeteneklerine ikincil etkiler verir. Bu dokumalar 2 dakika sürer."
+            "Passive": "Her düşman tanrının öldüğü son konumda bir Çatlak Dokuma ortaya çıkar. Çatlak Dokumalar, üzerinde kullanıldığında yeteneklerine ikincil etkiler verir. Bu dokumalar 2 dakika sürer.",
+            "PassiveName": "Çatlak Dokuma"
         },
         {
             "Name": "Nemesis",
@@ -9329,7 +9409,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.2,
-            "Passive": "Nemesis, denge terazisini elinde tutar. Temel Saldırılarla düşmanı vurması, teraziyi kendi lehine çevirir, hedefin Sihirli ve Fiziksel Güçlerini azaltır ve kendininkileri artırır (Yığınlama)."
+            "Passive": "Nemesis, denge terazisini elinde tutar. Temel Saldırılarla düşmanı vurması, teraziyi kendi lehine çevirir, hedefin Sihirli ve Fiziksel Güçlerini azaltır ve kendininkileri artırır (Yığınlama).",
+            "PassiveName": "Kader Terazisi"
         },
         {
             "Name": "Nike",
@@ -9357,7 +9438,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 21,
             "PhysProtPL": 3.2,
-            "Passive": "Nike, takımın yüksek kuvvet kazanabilmesi için ulaşabileceği üç tane hedef belirler. Bir hedefi tamamladıktan sonra Nike'nin takımı, Gücü ve Hareket Hızını artıran bir Defne kazanır. Bu Defne 3 kereye kadar artabilir."
+            "Passive": "Nike, takımın yüksek kuvvet kazanabilmesi için ulaşabileceği üç tane hedef belirler. Bir hedefi tamamladıktan sonra Nike'nin takımı, Gücü ve Hareket Hızını artıran bir Defne kazanır. Bu Defne 3 kereye kadar artabilir.",
+            "PassiveName": "Zafere!"
         },
         {
             "Name": "Nox",
@@ -9385,7 +9467,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 2.8,
-            "Passive": "Nox'un mumları, kullandığı tüm yeteneklerden enerji toplar. Nox'un kullandığı her yetenek için bir mum yakılır. Yakılan her mum başına Nox +%3 sihirli güç kazanır. Nox, düşman bir tanrıdan hasar aldığında mumlarından bir tanesi söner."
+            "Passive": "Nox'un mumları, kullandığı tüm yeteneklerden enerji toplar. Nox'un kullandığı her yetenek için bir mum yakılır. Yakılan her mum başına Nox +%3 sihirli güç kazanır. Nox, düşman bir tanrıdan hasar aldığında mumlarından bir tanesi söner.",
+            "PassiveName": "Gecenin Alevi"
         },
         {
             "Name": "Nu Wa",
@@ -9413,7 +9496,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "5 isabetli temel saldırıdan sonra Nu Wa'nın bir sonraki temel saldırısı düşmanları yere çakar."
+            "Passive": "5 isabetli temel saldırıdan sonra Nu Wa'nın bir sonraki temel saldırısı düşmanları yere çakar.",
+            "PassiveName": "Ormanın Gücü"
         },
         {
             "Name": "Odin",
@@ -9441,7 +9525,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
             "PhysProtPL": 3.2,
-            "Passive": "Odin, Valhalla'da yenilen savaşçılara eşlik ederken güçlenir. Savaş meydanında bir Tanrı öldüğünde Odin Hareket Hızı ve Gücüne bonus kazanır. Bu etki 5 defaya kadar yığınlanabilir."
+            "Passive": "Odin, Valhalla'da yenilen savaşçılara eşlik ederken güçlenir. Savaş meydanında bir Tanrı öldüğünde Odin Hareket Hızı ve Gücüne bonus kazanır. Bu etki 5 defaya kadar yığınlanabilir.",
+            "PassiveName": "Valhalla Yolu"
         },
         {
             "Name": "Olorun",
@@ -9469,7 +9554,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Olorun'un eşyalardan aldığı Sihirli Güç 150'ye ulaşınca %15 Kritik Vuruş Şansı (+ eşyalardan gelen her 10 Sihirli Güç için ilave %1) kazanır.\nOlorun'un Kritik Vuruşları sadece %50 ilave hasar verir.\nAyrıca Olorun'un temel saldırıları da %5 ek ölçekleme kazanır."
+            "Passive": "Olorun'un eşyalardan aldığı Sihirli Güç 150'ye ulaşınca %15 Kritik Vuruş Şansı (+ eşyalardan gelen her 10 Sihirli Güç için ilave %1) kazanır.\nOlorun'un Kritik Vuruşları sadece %50 ilave hasar verir.\nAyrıca Olorun'un temel saldırıları da %5 ek ölçekleme kazanır.",
+            "PassiveName": "Kaderin Dokunuşu"
         },
         {
             "Name": "Osiris",
@@ -9497,7 +9583,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": "Osiris her bir yetenek kullandığında vücudunun bir parçasını yakar, her kayıp parçası için Hasar Azaltımı kazanır. 8 parçasını kaybettikten sonra, ruh biçimine dönüşür. Düşmanların ve düşman bloklarının üzerinden yürüyebilir ve Temel Saldırıları bir hareket cezasına sebep olmaz. Bu efekt, 6 başarılı Temel Saldırı için geçerlidir."
+            "Passive": "Osiris her bir yetenek kullandığında vücudunun bir parçasını yakar, her kayıp parçası için Hasar Azaltımı kazanır. 8 parçasını kaybettikten sonra, ruh biçimine dönüşür. Düşmanların ve düşman bloklarının üzerinden yürüyebilir ve Temel Saldırıları bir hareket cezasına sebep olmaz. Bu efekt, 6 başarılı Temel Saldırı için geçerlidir.",
+            "PassiveName": "Parçalanmış"
         },
         {
             "Name": "Pele",
@@ -9525,7 +9612,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": "Pele %50 canın altına düştüğünde alevi harlanır ve artırılmış Fiziksel Güç, Can Çalma ve Yetenek Can Çalma kazanır. Pasifin bekleme süresi 30 saniyedir."
+            "Passive": "Pele %50 canın altına düştüğünde alevi harlanır ve artırılmış Fiziksel Güç, Can Çalma ve Yetenek Can Çalma kazanır. Pasifin bekleme süresi 30 saniyedir.",
+            "PassiveName": "Ebedi Ateş"
         },
         {
             "Name": "Persephone",
@@ -9553,7 +9641,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "Persephone öldükten sonra ölüm diyarına gider ve yeniden doğduğunda filizlenecek 6 Hasat Tohumu ekebilir. Ek olarak, solan her Hasat Bitkisi için bir Nar Tanesi kazanır ve bunları tane başına 3 altından satabilir. Persephone 100 Nar Tanesi saklayabilir."
+            "Passive": "Persephone öldükten sonra ölüm diyarına gider ve yeniden doğduğunda filizlenecek 6 Hasat Tohumu ekebilir. Ek olarak, solan her Hasat Bitkisi için bir Nar Tanesi kazanır ve bunları tane başına 3 altından satabilir. Persephone 100 Nar Tanesi saklayabilir.",
+            "PassiveName": "Nar Taneleri"
         },
         {
             "Name": "Poseidon",
@@ -9581,7 +9670,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 11.2,
             "PhysProtPL": 2.8,
-            "Passive": "Poseidon'un Hareket Hızı artar ve Gelgit seviyesi arttıkça yetenekleri ilave hasar verir. Başarılı Temel Saldırı vuruşları Gelgit'ini artırır, yeteneklerini kullanması ise bunu azaltır."
+            "Passive": "Poseidon'un Hareket Hızı artar ve Gelgit seviyesi arttıkça yetenekleri ilave hasar verir. Başarılı Temel Saldırı vuruşları Gelgit'ini artırır, yeteneklerini kullanması ise bunu azaltır.",
+            "PassiveName": "Gelgitler"
         },
         {
             "Name": "Ra",
@@ -9609,7 +9699,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 14,
             "PhysProtPL": 3.2,
-            "Passive": "Ra'nın her yetenek kullanışında hareket hızı artar."
+            "Passive": "Ra'nın her yetenek kullanışında hareket hızı artar.",
+            "PassiveName": "Işık Hızı"
         },
         {
             "Name": "Raijin",
@@ -9637,7 +9728,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 3.3,
-            "Passive": "Raijin, kullanılan her 5 yetenek için beklemede olan tüm yeteneklerinin (son yaptığı da dahil) bekleme sürelerini 1 saniye azaltır. Ayrıca Raijin'in Temel Saldırıları daha geniş bir çapta gerçekleşir (+2)."
+            "Passive": "Raijin, kullanılan her 5 yetenek için beklemede olan tüm yeteneklerinin (son yaptığı da dahil) bekleme sürelerini 1 saniye azaltır. Ayrıca Raijin'in Temel Saldırıları daha geniş bir çapta gerçekleşir (+2).",
+            "PassiveName": "Yüklü Tempo"
         },
         {
             "Name": "Rama",
@@ -9665,7 +9757,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3,
-            "Passive": "Rama'nın Astral Ok Kılıfı her 12 saniyede bir Astral Ok üretir. Her Temel Saldırı vuruşu, bir Astral Ok'un üretimini 2sn azaltır. Atılan bir Astral Ok'un ilk kez düşmana vurması ile okun yer düşme şansı olur. Yerden bir Astral Oku almak 10 Mana yeniler."
+            "Passive": "Rama'nın Astral Ok Kılıfı her 12 saniyede bir Astral Ok üretir. Her Temel Saldırı vuruşu, bir Astral Ok'un üretimini 2sn azaltır. Atılan bir Astral Ok'un ilk kez düşmana vurması ile okun yer düşme şansı olur. Yerden bir Astral Oku almak 10 Mana yeniler.",
+            "PassiveName": "Astral Ok Kılıfı"
         },
         {
             "Name": "Ratatoskr",
@@ -9693,7 +9786,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Ratatoskr, envanterindeki Dünya Ağacı'ndan güçlü bir Sihirli Meşe Palamudu ile doğar. Bu meşe palamudunu, haritadaki herhangi bir yerde eşya mağazasından yükseltebilir. Her Meşe Palamudu Ratatoskr'a farklı bonuslar verir."
+            "Passive": "Ratatoskr, envanterindeki Dünya Ağacı'ndan güçlü bir Sihirli Meşe Palamudu ile doğar. Bu meşe palamudunu, haritadaki herhangi bir yerde eşya mağazasından yükseltebilir. Her Meşe Palamudu Ratatoskr'a farklı bonuslar verir.",
+            "PassiveName": "Yggdrasil Meşe Palamudu"
         },
         {
             "Name": "Ravana",
@@ -9721,7 +9815,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.1,
-            "Passive": "Bir düşmana karşı yapılan isabetli temel saldırılar ve yetenekler Ravana'nın kombo zincirine ekleme yapar. Zinciri her defada 8'e ulaştığında maksimum Canının %7'sine eşit bir Kalkan ve %3 Hareket Hızı kazanır. Bu 3 defaya kadar yığınlanabilir."
+            "Passive": "Bir düşmana karşı yapılan isabetli temel saldırılar ve yetenekler Ravana'nın kombo zincirine ekleme yapar. Zinciri her defada 8'e ulaştığında maksimum Canının %7'sine eşit bir Kalkan ve %3 Hareket Hızı kazanır. Bu 3 defaya kadar yığınlanabilir.",
+            "PassiveName": "Saldırı Zinciri"
         },
         {
             "Name": "Scylla",
@@ -9749,7 +9844,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": "Scylla'nın her bir yeteneği, maksimum rütbede ilave etki kazanır. Buna ek olarak Scylla, her maksimum rütbedeki yetenek için 25 Sihirli Güç kazanır."
+            "Passive": "Scylla'nın her bir yeteneği, maksimum rütbede ilave etki kazanır. Buna ek olarak Scylla, her maksimum rütbedeki yetenek için 25 Sihirli Güç kazanır.",
+            "PassiveName": "Hızlı Öğrenen"
         },
         {
             "Name": "Serqet",
@@ -9777,7 +9873,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": "Serqet'in hasar veren temel saldırıları, Ölüboğan ve Kobranın Öpücüğü ile bırakılan zehirleri tüketerek Katalizör yeteneğini uygular. Hedef iki veya üç farklı zehirden etkilenmiş ise ilave hasar alır."
+            "Passive": "Serqet'in hasar veren temel saldırıları, Ölüboğan ve Kobranın Öpücüğü ile bırakılan zehirleri tüketerek Katalizör yeteneğini uygular. Hedef iki veya üç farklı zehirden etkilenmiş ise ilave hasar alır.",
+            "PassiveName": "Katalizör"
         },
         {
             "Name": "Set",
@@ -9805,7 +9902,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.1,
-            "Passive": "Set bir düşmana her hasar verişinde bir Amansız yığını kazanır. Hasar alan düşman Horus ise Set 2 yığın kazanır. Her yığın Set'in Saldırı Hızını artırır. Amansız, 6sn boyunca en fazla 10 yığına ulaşabilir. Kral Avcısı etkinse Amansız'ın üst yığın sınırı yoktur."
+            "Passive": "Set bir düşmana her hasar verişinde bir Amansız yığını kazanır. Hasar alan düşman Horus ise Set 2 yığın kazanır. Her yığın Set'in Saldırı Hızını artırır. Amansız, 6sn boyunca en fazla 10 yığına ulaşabilir. Kral Avcısı etkinse Amansız'ın üst yığın sınırı yoktur.",
+            "PassiveName": "Amansız"
         },
         {
             "Name": "Shiva",
@@ -9833,7 +9931,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
             "PhysProtPL": 3.2,
-            "Passive": "Shiva, saldırıları ve yetenekleriyle düşman tanrılara hasar vererek Saadet ve Tahribat halleri arasında geçiş yapar. Bu haller, ona ve müttefiklerine fayda sağlarken düşmanlarının karşısına zorluklar çıkarır. Haller arasında geçiş yapınca Shiva'nın Ulti dışındaki yeteneklerinin bekleme süreleri 2sn kısalır."
+            "Passive": "Shiva, saldırıları ve yetenekleriyle düşman tanrılara hasar vererek Saadet ve Tahribat halleri arasında geçiş yapar. Bu haller, ona ve müttefiklerine fayda sağlarken düşmanlarının karşısına zorluklar çıkarır. Haller arasında geçiş yapınca Shiva'nın Ulti dışındaki yeteneklerinin bekleme süreleri 2sn kısalır.",
+            "PassiveName": "Samsara"
         },
         {
             "Name": "Skadi",
@@ -9861,7 +9960,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3,
-            "Passive": "Kaldr'ın 2 biçimi vardır: Hayvan ve Element. Hayvan biçimindeyken düşmanlara saldırabilir ve düşmanlar da ona saldırılabilir. Element biçimindeyken saldırılardan etkilenmez ve her 4 saniyede 1 Can yeniler. Av Rünü'yle kontrol edilebilir ama tüm Canını kaybederse Element biçimine geri döner. Ayrıca Skadi, Kaldr'ın hiç Canı kalmadığında %10 Fiziksel Güç kazanır."
+            "Passive": "Kaldr'ın 2 biçimi vardır: Hayvan ve Element. Hayvan biçimindeyken düşmanlara saldırabilir ve düşmanlar da ona saldırılabilir. Element biçimindeyken saldırılardan etkilenmez ve her 4 saniyede 1 Can yeniler. Av Rünü'yle kontrol edilebilir ama tüm Canını kaybederse Element biçimine geri döner. Ayrıca Skadi, Kaldr'ın hiç Canı kalmadığında %10 Fiziksel Güç kazanır.",
+            "PassiveName": "Kış Kurdu Kaldr"
         },
         {
             "Name": "Sobek",
@@ -9889,7 +9989,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Sobek'in düşmana isabet eden Temel Saldırıları ve yetenekleri ona kısa süreliğine Korumalar sağlar."
+            "Passive": "Sobek'in düşmana isabet eden Temel Saldırıları ve yetenekleri ona kısa süreliğine Korumalar sağlar.",
+            "PassiveName": "Nil'in Kutsaması"
         },
         {
             "Name": "Sol",
@@ -9917,7 +10018,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": "Sol yetenek kullandığında ya da temel saldırıyla vuruş yaptığında Sıcaklık toplar. Her %4'lük Sıcaklık için +%1 Sihirli Güç ve +%1,2 Saldırı Hızı kazanır. Sol'un temel saldırıları %100 Sıcaklık'ta  +%15 Hasar kazanır. Sıcaklık zaman içinde azalır."
+            "Passive": "Sol yetenek kullandığında ya da temel saldırıyla vuruş yaptığında Sıcaklık toplar. Her %4'lük Sıcaklık için +%1 Sihirli Güç ve +%1,2 Saldırı Hızı kazanır. Sol'un temel saldırıları %100 Sıcaklık'ta  +%15 Hasar kazanır. Sıcaklık zaman içinde azalır.",
+            "PassiveName": "Dengesiz Tezahür"
         },
         {
             "Name": "Sun Wukong",
@@ -9945,7 +10047,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Sun Wukong'un Canı %50'nin altına indiğinde +10 Fiziksel Güç ve +10 Fiziksel ve Sihirli Koruma kazanır, ayrıca o anki seviyesi için 2 Fiziksel Güç ve 2 Koruma daha alır. Namağlup Beden aktifken Sun Wukong'un Canı %50'nin üzerine çıkarsa güçlendirmeyi 12sn boyunca tutar."
+            "Passive": "Sun Wukong'un Canı %50'nin altına indiğinde +10 Fiziksel Güç ve +10 Fiziksel ve Sihirli Koruma kazanır, ayrıca o anki seviyesi için 2 Fiziksel Güç ve 2 Koruma daha alır. Namağlup Beden aktifken Sun Wukong'un Canı %50'nin üzerine çıkarsa güçlendirmeyi 12sn boyunca tutar.",
+            "PassiveName": "Namağlup Beden"
         },
         {
             "Name": "Surtr",
@@ -9973,7 +10076,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Surtr'un bedeni yeterince Can kaybederse çatlayarak ufak parçalara bölünür. Surtr bu parçaları topladığında maks. Canının bir yüzdesini zaman içinde kazanır ve 3sn boyunca Korumalar edinir (maks. 3 yığın). Düşmanlar parçaların üzerinden geçerek onları yok edebilir."
+            "Passive": "Surtr'un bedeni yeterince Can kaybederse çatlayarak ufak parçalara bölünür. Surtr bu parçaları topladığında maks. Canının bir yüzdesini zaman içinde kazanır ve 3sn boyunca Korumalar edinir (maks. 3 yığın). Düşmanlar parçaların üzerinden geçerek onları yok edebilir.",
+            "PassiveName": "Obsidiyen Beden"
         },
         {
             "Name": "Susano",
@@ -10001,7 +10105,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": "Susano bir yetenek ile en azından bir düşman tanrıya başarıyla hasar verirse bir yığın alır. 4 yığına ulaşınca 5 saniye içindeki bir sonraki yeteneği bir düşman tanrıya vurduğunda bonus hasar verir."
+            "Passive": "Susano bir yetenek ile en azından bir düşman tanrıya başarıyla hasar verirse bir yığın alır. 4 yığına ulaşınca 5 saniye içindeki bir sonraki yeteneği bir düşman tanrıya vurduğunda bonus hasar verir.",
+            "PassiveName": "Fırtına Toplama"
         },
         {
             "Name": "Sylvanus",
@@ -10029,7 +10134,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Sylvanus yeteneklerini kullandığında veya onlarla düşmanlara vurduğunda bir tohum kapsülü ortaya çıkar. Sylvanus bu kapsülü aldığında Manasının %2.5'ini yeniler ve bekleme sürelerini 0.5sn düşürür. 15. seviyede Bekleme Azaltma 1 saniyeye çıkar."
+            "Passive": "Sylvanus yeteneklerini kullandığında veya onlarla düşmanlara vurduğunda bir tohum kapsülü ortaya çıkar. Sylvanus bu kapsülü aldığında Manasının %2.5'ini yeniler ve bekleme sürelerini 0.5sn düşürür. 15. seviyede Bekleme Azaltma 1 saniyeye çıkar.",
+            "PassiveName": "Doğanın Bereketi"
         },
         {
             "Name": "Terra",
@@ -10057,7 +10163,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": "Terra'nın yetenekleri, Sabit Taşlar yaratır. Sabit Taşlar aktifken Terra, Devirmelerden etkilenmez. Ayrıca Temel Saldırıları küçük bir alana vurur, düşmanları yavaşlatır ve bonus hasar verir. Bu Bonus Hasar, eşya etkilerini tetiklemez. Terra, taşlarını Kırarsa tüm taşlar gittikten sonra bu güçlendirmeyi 3 saniye daha korur."
+            "Passive": "Terra'nın yetenekleri, Sabit Taşlar yaratır. Sabit Taşlar aktifken Terra, Devirmelerden etkilenmez. Ayrıca Temel Saldırıları küçük bir alana vurur, düşmanları yavaşlatır ve bonus hasar verir. Bu Bonus Hasar, eşya etkilerini tetiklemez. Terra, taşlarını Kırarsa tüm taşlar gittikten sonra bu güçlendirmeyi 3 saniye daha korur.",
+            "PassiveName": "Sabit Taşlar"
         },
         {
             "Name": "Thanatos",
@@ -10085,7 +10192,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": "Ulti yeteneğine ait olan Can infaz eşiği dahilindeki düşman tanrılar Thanatos'a görünür. Düşmanları katletmek de Thanatos'u güçlendirir, hedefinin maks. Canına bağlı olarak onu iyileştirir ve aktif bekleme sürelerini kısaltır. Buna ek olarak Thanatos'un tüm yetenekleri bedel olarak Can ve Mana kullanırlar."
+            "Passive": "Ulti yeteneğine ait olan Can infaz eşiği dahilindeki düşman tanrılar Thanatos'a görünür. Düşmanları katletmek de Thanatos'u güçlendirir, hedefinin maks. Canına bağlı olarak onu iyileştirir ve aktif bekleme sürelerini kısaltır. Buna ek olarak Thanatos'un tüm yetenekleri bedel olarak Can ve Mana kullanırlar.",
+            "PassiveName": "Ruhların Hasatçısı"
         },
         {
             "Name": "Morrigan",
@@ -10113,7 +10221,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Morrigan'ın vuruş zincirinin 3. vuruşu patlar ve menzildeki tüm düşmanlara hasar verir ve vurulan tüm düşmanları Lanetler. Lanetlenen Düşmanlar süre içerisinde fazladan Temel Saldırı hasarı alır."
+            "Passive": "Morrigan'ın vuruş zincirinin 3. vuruşu patlar ve menzildeki tüm düşmanlara hasar verir ve vurulan tüm düşmanları Lanetler. Lanetlenen Düşmanlar süre içerisinde fazladan Temel Saldırı hasarı alır.",
+            "PassiveName": "Felaket Tellalı"
         },
         {
             "Name": "Thor",
@@ -10141,7 +10250,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": "Thor, 55 birim yakınındaki her düşman tanrı için Fiziksel Güç kazanır."
+            "Passive": "Thor, 55 birim yakınındaki her düşman tanrı için Fiziksel Güç kazanır.",
+            "PassiveName": "Savasçı'nın Cinneti"
         },
         {
             "Name": "Thoth",
@@ -10169,7 +10279,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": "Thoth, ölen rakiplerini kitabına yazar ve onların zayıflıklarını not alır. 20 düşman öldürdükten sonra Thoth 3 yığınlık bir Sihirli Tesir kazanır ve bir düşman tanrıyı öldürmek mevcut yığını tamamlar. Her 4 seviyede bir yeni yığının kilidini açar, 17. seviyede maksimum 5 yığına ulaşabilir."
+            "Passive": "Thoth, ölen rakiplerini kitabına yazar ve onların zayıflıklarını not alır. 20 düşman öldürdükten sonra Thoth 3 yığınlık bir Sihirli Tesir kazanır ve bir düşman tanrıyı öldürmek mevcut yığını tamamlar. Her 4 seviyede bir yeni yığının kilidini açar, 17. seviyede maksimum 5 yığına ulaşabilir.",
+            "PassiveName": "Ölü Sayımı"
         },
         {
             "Name": "Tiamat",
@@ -10197,7 +10308,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 2.9,
-            "Passive": "Tiamat Uçuş halindeyken yakındaki müttefik ve düşman ölümlerinden can kazanır (minyon ölümlerinden daha az kazanır). Yer halindeyken ise bir miktar hasar alındıktan sonra tükenen Sertleşmiş Pul hasar azaltma kazanır (maks. 5 yığın). Normal minyonlar Sertleşmiş Pul kazandırmaz."
+            "Passive": "Tiamat Uçuş halindeyken yakındaki müttefik ve düşman ölümlerinden can kazanır (minyon ölümlerinden daha az kazanır). Yer halindeyken ise bir miktar hasar alındıktan sonra tükenen Sertleşmiş Pul hasar azaltma kazanır (maks. 5 yığın). Normal minyonlar Sertleşmiş Pul kazandırmaz.",
+            "PassiveName": "Ölüm Yaşatır"
         },
         {
             "Name": "Tsukuyomi",
@@ -10225,7 +10337,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3,
-            "Passive": null
+            "Passive": null,
+            "PassiveName": "Shingetsu ve Mangetsu"
         },
         {
             "Name": "Tyr",
@@ -10253,7 +10366,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Sersemletme, Alay Etme, Korkutma, Sarhoş Etme ve Büyüleme Tyr'ı 1sn'den fazla etkilemez."
+            "Passive": "Sersemletme, Alay Etme, Korkutma, Sarhoş Etme ve Büyüleme Tyr'ı 1sn'den fazla etkilemez.",
+            "PassiveName": "İnatçı"
         },
         {
             "Name": "Ullr",
@@ -10281,7 +10395,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Ullr herhangi bir stance üzerinde iken bir yetenek kullandığında karşı stance üzerindeki Bekleme Süresi azalır."
+            "Passive": "Ullr herhangi bir stance üzerinde iken bir yetenek kullandığında karşı stance üzerindeki Bekleme Süresi azalır.",
+            "PassiveName": "Silah Ustası"
         },
         {
             "Name": "Vamana",
@@ -10309,7 +10424,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.1,
-            "Passive": "Vamana'nın Fiziksel Korumalarının bir kısmı Fiziksel Güce ve Saldırı Hızına dönüştürülür."
+            "Passive": "Vamana'nın Fiziksel Korumalarının bir kısmı Fiziksel Güce ve Saldırı Hızına dönüştürülür.",
+            "PassiveName": "Uyuyan Dev"
         },
         {
             "Name": "Vulcan",
@@ -10337,7 +10453,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Vulcan, bir düşman tanrıya bir yetenekle vurduğunda 5sn boyunca bonus Hareket Hızı ve MP5 kazanır."
+            "Passive": "Vulcan, bir düşman tanrıya bir yetenekle vurduğunda 5sn boyunca bonus Hareket Hızı ve MP5 kazanır.",
+            "PassiveName": "Usta Zanaatçı"
         },
         {
             "Name": "Xbalanque",
@@ -10365,7 +10482,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": "Xbalanque düşman Tanrılara hasar verdikçe kalıcı olarak Fiziksel Gücünü artıran Gecenin Ölüsü yığınları kazanır. Verdiği her 1500 hasar için 1 yığın kazanır ve 6'ya kadar yığın birikebilir."
+            "Passive": "Xbalanque düşman Tanrılara hasar verdikçe kalıcı olarak Fiziksel Gücünü artıran Gecenin Ölüsü yığınları kazanır. Verdiği her 1500 hasar için 1 yığın kazanır ve 6'ya kadar yığın birikebilir.",
+            "PassiveName": "Gecenin Ölüsü"
         },
         {
             "Name": "Xing Tian",
@@ -10393,7 +10511,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.7,
-            "Passive": "Xing Tian bir yeteneğiyle ne zaman bir düşmana vursa Yanan Hiddet yığınları kazanır. Sahip olduğunu her bir yığın başına Xing Tian HP5 kazanır.\n\nYığınlar 18sn sürer."
+            "Passive": "Xing Tian bir yeteneğiyle ne zaman bir düşmana vursa Yanan Hiddet yığınları kazanır. Sahip olduğunu her bir yığın başına Xing Tian HP5 kazanır.\n\nYığınlar 18sn sürer.",
+            "PassiveName": "Yanan Hiddet"
         },
         {
             "Name": "Yemoja",
@@ -10421,7 +10540,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Yemoja büyü yapmak için Mana yerine Omi kullanır. 7 ile başlar, en fazla 10 olur. Yemoja her 5 saniyede 1 Omi (seviye başına +.01) kazanır ve Bekleme Azaltma doğrudan Omi yenilemesini arttırır. Yemoja'nın Temel Saldırı iyileştirmesi sadece tanrıları etkiler ve eşya etkilerini tetiklemez. Mana, MP5 ve Mana İyileştirmesi Yemoja'nın Can havuzuna uygulanır."
+            "Passive": "Yemoja büyü yapmak için Mana yerine Omi kullanır. 7 ile başlar, en fazla 10 olur. Yemoja her 5 saniyede 1 Omi (seviye başına +.01) kazanır ve Bekleme Azaltma doğrudan Omi yenilemesini arttırır. Yemoja'nın Temel Saldırı iyileştirmesi sadece tanrıları etkiler ve eşya etkilerini tetiklemez. Mana, MP5 ve Mana İyileştirmesi Yemoja'nın Can havuzuna uygulanır.",
+            "PassiveName": "Omi"
         },
         {
             "Name": "Ymir",
@@ -10449,7 +10569,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 32.2,
             "PhysProtPL": 3.6,
-            "Passive": "Ymir'in düşmanı etkileyen bütün yetenekleri, o düşmana Donma adında bir güçsüzleştirme uygular. Ymir'in, Donma'dan etkilenen hedefe yönelik temel saldırıları %100 daha fazla hasar verir. Donmadan etkilenen düşmanlar %10 daha az hasar verir. 6sn sürer."
+            "Passive": "Ymir'in düşmanı etkileyen bütün yetenekleri, o düşmana Donma adında bir güçsüzleştirme uygular. Ymir'in, Donma'dan etkilenen hedefe yönelik temel saldırıları %100 daha fazla hasar verir. Donmadan etkilenen düşmanlar %10 daha az hasar verir. 6sn sürer.",
+            "PassiveName": "Donma"
         },
         {
             "Name": "Yu Huang",
@@ -10477,7 +10598,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Yu Huang, Tao öğretilerine odaklanarak temel saldırılarına ve yeteneklerine ilave etkiler kazandırır. Her 8sn'de bir Tao yığını kazanır. Ayrıca 3sn boyunca hasar almadıktan veya vermedikten sonra bir düşmana vurursa bir yığın daha kazanabilir. 6 ya da daha fazla yığına sahip olunca Odaklanmış hale gelir ve temel saldırıları bir düşmana daha sıçrayabilir."
+            "Passive": "Yu Huang, Tao öğretilerine odaklanarak temel saldırılarına ve yeteneklerine ilave etkiler kazandırır. Her 8sn'de bir Tao yığını kazanır. Ayrıca 3sn boyunca hasar almadıktan veya vermedikten sonra bir düşmana vurursa bir yığın daha kazanabilir. 6 ya da daha fazla yığına sahip olunca Odaklanmış hale gelir ve temel saldırıları bir düşmana daha sıçrayabilir.",
+            "PassiveName": "Tao Ustası"
         },
         {
             "Name": "Zeus",
@@ -10505,7 +10627,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 11.2,
             "PhysProtPL": 2.9,
-            "Passive": "Düşmana karşı eldeki yıldırım saldırıları bir yükleme uygular. Hedeflere karşı yüklenmiş Temel Saldırılar daha fazla hasar verir. Yüklemeler 5sn sürer."
+            "Passive": "Düşmana karşı eldeki yıldırım saldırıları bir yükleme uygular. Hedeflere karşı yüklenmiş Temel Saldırılar daha fazla hasar verir. Yüklemeler 5sn sürer.",
+            "PassiveName": "Aşırı Yük"
         },
         {
             "Name": "Zhong Kui",
@@ -10533,7 +10656,8 @@ Turkish =
             "MagProtPL": 1.6,
             "PhysProt": 15.2,
             "PhysProtPL": 2.8,
-            "Passive": "Zhong Kui, 80 birim yakınında ölen her şey için iblisleri yakalar ve bunları İblis Kesesi'nde saklayarak ek Korumalar kazanır. İblisleri Çağır etkinleştirildiğinde Zhong Kui, İblis Kesesi'nden çifte Koruma kazanır ancak bu süreçte iblislerin yarısını kaybeder. Ayrıca Zhong Kui ölürse de kesesindeki iblislerin yarısını kaybeder."
+            "Passive": "Zhong Kui, 80 birim yakınında ölen her şey için iblisleri yakalar ve bunları İblis Kesesi'nde saklayarak ek Korumalar kazanır. İblisleri Çağır etkinleştirildiğinde Zhong Kui, İblis Kesesi'nden çifte Koruma kazanır ancak bu süreçte iblislerin yarısını kaybeder. Ayrıca Zhong Kui ölürse de kesesindeki iblislerin yarısını kaybeder.",
+            "PassiveName": "İblis Kesesi"
         }
     ]
 }

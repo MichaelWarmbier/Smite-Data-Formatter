@@ -315,6 +315,7 @@ async function applyGodInfo(obj, god, i) {
   obj.PhysProt = god.PhysicalProtection;
   obj.PhysProtPL = god.PhysicalProtectionPerLevel;
   try { obj.Passive = god.Ability_5.Description.itemDescription.description; } catch (e) {}
+  obj.PassiveName = god.Ability_5.Summary;
 }
 
 async function applyItemInfo(obj, item, i, obj_ref) {

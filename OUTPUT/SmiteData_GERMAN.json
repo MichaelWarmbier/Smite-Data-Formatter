@@ -7089,7 +7089,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": "Achilles passt sich dem Schlachtverlauf an. Er kann seine Rüstung tragen, die ihm Boni auf Gesundheit und Schutz gewährt, oder darauf verzichten, wodurch er Boni auf Lauftempo und physische Kraft erhält. Verwende zum Wechseln Achilles' Grundangriff, während die Zielauswahl der passiven Fertigkeit aktiv ist."
+            "Passive": "Achilles passt sich dem Schlachtverlauf an. Er kann seine Rüstung tragen, die ihm Boni auf Gesundheit und Schutz gewährt, oder darauf verzichten, wodurch er Boni auf Lauftempo und physische Kraft erhält. Verwende zum Wechseln Achilles' Grundangriff, während die Zielauswahl der passiven Fertigkeit aktiv ist.",
+            "PassiveName": "Geschenk der Götter"
         },
         {
             "Name": "Agni",
@@ -7117,7 +7118,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 2.8,
-            "Passive": "Triffst du einen Gegner mit einem Grundangriff, erhältst du 1 Stapel Verbrennung (2 für Götter). Bei 4 Stapeln setzt die nächste Flammenwelle oder der nächste Feuerregen alle getroffenen Gegner in Brand, wodurch sie 3s lang alle 0,5s Schaden erleiden."
+            "Passive": "Triffst du einen Gegner mit einem Grundangriff, erhältst du 1 Stapel Verbrennung (2 für Götter). Bei 4 Stapeln setzt die nächste Flammenwelle oder der nächste Feuerregen alle getroffenen Gegner in Brand, wodurch sie 3s lang alle 0,5s Schaden erleiden.",
+            "PassiveName": "Verbrennung"
         },
         {
             "Name": "Ah Muzen Cab",
@@ -7145,7 +7147,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Gegner unter dem Einfluss von „Bienen!“ erleiden 2s lang alle 0,5s Schaden, werden auf der Minikarte angezeigt und die Bienen stürzen sich auf nahe Gegner. Grundangriffe erneuern und verlängern die Dauer um 1s. Dieser Schaden löst keine Gegenstandseffekte aus."
+            "Passive": "Gegner unter dem Einfluss von „Bienen!“ erleiden 2s lang alle 0,5s Schaden, werden auf der Minikarte angezeigt und die Bienen stürzen sich auf nahe Gegner. Grundangriffe erneuern und verlängern die Dauer um 1s. Dieser Schaden löst keine Gegenstandseffekte aus.",
+            "PassiveName": "Bienen!"
         },
         {
             "Name": "Ah Puch",
@@ -7173,7 +7176,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 2.9,
-            "Passive": "Ah Puch ist gut mit den Toten abgestimmt und kann Leichen exhumieren. Wenn er über eine faulende Leiche läuft, verringert sich die Abklingzeit von Untote Welle und Leichenexplosion um 2s und er regeneriert 7% seiner maximalen Gesundheit und 3% seines maximalen Manas."
+            "Passive": "Ah Puch ist gut mit den Toten abgestimmt und kann Leichen exhumieren. Wenn er über eine faulende Leiche läuft, verringert sich die Abklingzeit von Untote Welle und Leichenexplosion um 2s und er regeneriert 7% seiner maximalen Gesundheit und 3% seines maximalen Manas.",
+            "PassiveName": "Hohler Boden"
         },
         {
             "Name": "Amaterasu",
@@ -7201,7 +7205,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Amaterasu umgibt Gegner, die sie mit Grundangriffen trifft, mit einem Licht. Nach 3 Treffern gegen dasselbe Ziel, erhält der Gegner eine Aura, die seine Schwächen offenlegt und er erleidet mehr Schaden aus allen Quellen. Alle Gegner, die sich in der Nähe des betroffenen Ziels befinden, werden ebenfalls geschwächt."
+            "Passive": "Amaterasu umgibt Gegner, die sie mit Grundangriffen trifft, mit einem Licht. Nach 3 Treffern gegen dasselbe Ziel, erhält der Gegner eine Aura, die seine Schwächen offenlegt und er erleidet mehr Schaden aus allen Quellen. Alle Gegner, die sich in der Nähe des betroffenen Ziels befinden, werden ebenfalls geschwächt.",
+            "PassiveName": "Erleuchtender Schlag"
         },
         {
             "Name": "Anhor",
@@ -7229,7 +7234,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3,
-            "Passive": "Anhors Speerangriffe reduzieren den physischen Schutz des Ziels für 3 Sekunden."
+            "Passive": "Anhors Speerangriffe reduzieren den physischen Schutz des Ziels für 3 Sekunden.",
+            "PassiveName": "Entkräften"
         },
         {
             "Name": "Anubis",
@@ -7257,7 +7263,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 14,
             "PhysProtPL": 2.7,
-            "Passive": "Alle Fertigkeiten von Anubis stehlen dem Ziel physischen und magischen Schutz und erhöhen seine Heilung durch magischen Lebensraub. Diese Effekte stapeln sich bei jedem Tick von Anubis' Fertigkeiten. Leid gewährt Anubis außerdem eine zusätzliche Reduktion der CC-Dauer um 30%."
+            "Passive": "Alle Fertigkeiten von Anubis stehlen dem Ziel physischen und magischen Schutz und erhöhen seine Heilung durch magischen Lebensraub. Diese Effekte stapeln sich bei jedem Tick von Anubis' Fertigkeiten. Leid gewährt Anubis außerdem eine zusätzliche Reduktion der CC-Dauer um 30%.",
+            "PassiveName": "Leid"
         },
         {
             "Name": "Ao Guang",
@@ -7285,7 +7292,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Alle 10s erhält Ao Guang einen Stapel Schwert des Drachenkönigs. Hat er einen Stapel, wird die Abklingzeit der nächsten Basisfertigkeit reduziert, mit der er einem gegnerischen Gott Schaden zufügt, und er wird geheilt. Erfolgreiche Hinrichtungen mit König der östlichen Meere laden Schwert des Drachenkönigs vollständig auf."
+            "Passive": "Alle 10s erhält Ao Guang einen Stapel Schwert des Drachenkönigs. Hat er einen Stapel, wird die Abklingzeit der nächsten Basisfertigkeit reduziert, mit der er einem gegnerischen Gott Schaden zufügt, und er wird geheilt. Erfolgreiche Hinrichtungen mit König der östlichen Meere laden Schwert des Drachenkönigs vollständig auf.",
+            "PassiveName": "Schwert des Drachenkönigs"
         },
         {
             "Name": "Aphrodite",
@@ -7313,7 +7321,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "Aphrodite erhält 4 physischen Schutz und 4 magischen Schutz für jeden verbündeten oder gegnerischen Gott im Umkreis von 70 Einheiten."
+            "Passive": "Aphrodite erhält 4 physischen Schutz und 4 magischen Schutz für jeden verbündeten oder gegnerischen Gott im Umkreis von 70 Einheiten.",
+            "PassiveName": "Zentrum der Aufmerksamkeit"
         },
         {
             "Name": "Apollo",
@@ -7341,7 +7350,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 2.9,
-            "Passive": "Apollo erhält nach 10 erfolgreichen Grundangriffen Kühnheit und erhöht für die nächsten 5 Angriffe (Treffer oder Fehlschlag) sein Angriffstempo um 100%. Für jede Schadensfertigkeit, mit der er einen gegnerischen Gott trifft, erhält Apollo 1 Stapel Kühnheit."
+            "Passive": "Apollo erhält nach 10 erfolgreichen Grundangriffen Kühnheit und erhöht für die nächsten 5 Angriffe (Treffer oder Fehlschlag) sein Angriffstempo um 100%. Für jede Schadensfertigkeit, mit der er einen gegnerischen Gott trifft, erhält Apollo 1 Stapel Kühnheit.",
+            "PassiveName": "Kühnheit"
         },
         {
             "Name": "Arachne",
@@ -7369,7 +7379,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Arachnes Grundangriffe erhalten zusätzlich 1,25% physischen Schaden pro 5% fehlender Gesundheit des Ziels."
+            "Passive": "Arachnes Grundangriffe erhalten zusätzlich 1,25% physischen Schaden pro 5% fehlender Gesundheit des Ziels.",
+            "PassiveName": "Räuber"
         },
         {
             "Name": "Ares",
@@ -7397,7 +7408,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.2,
-            "Passive": "Jeder vollständige Aura-Gegenstand, den Ares besitzt, gewährt ihm zusätzlich 30 magische Kraft."
+            "Passive": "Jeder vollständige Aura-Gegenstand, den Ares besitzt, gewährt ihm zusätzlich 30 magische Kraft.",
+            "PassiveName": "Gesegnete Präsenz"
         },
         {
             "Name": "Artemis",
@@ -7425,7 +7437,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Artemis fügt Göttern um 15% und Dienern um 30% erhöhten Grundangriffsschaden zu, falls sie von Crowd Control betroffen sind."
+            "Passive": "Artemis fügt Göttern um 15% und Dienern um 30% erhöhten Grundangriffsschaden zu, falls sie von Crowd Control betroffen sind.",
+            "PassiveName": "Ruhiges Ziel"
         },
         {
             "Name": "Artio",
@@ -7453,7 +7466,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": "Artio setzt gegnerische Götter, denen sie mit ihren Bären- oder Druiden-Fertigkeiten Schaden zufügt, dem Verfall aus, wodurch sich ihr physischer und magischer Schutz reduziert. Dieser Effekt ist stapelbar."
+            "Passive": "Artio setzt gegnerische Götter, denen sie mit ihren Bären- oder Druiden-Fertigkeiten Schaden zufügt, dem Verfall aus, wodurch sich ihr physischer und magischer Schutz reduziert. Dieser Effekt ist stapelbar.",
+            "PassiveName": "Verfall"
         },
         {
             "Name": "Athena",
@@ -7481,7 +7495,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": "Nachdem sie eine Fertigkeit eingesetzt hat, wird Athenas nächster Grundangriff zum Fernangriff, der Gegner durchdringt und dem ersten getroffenen Gegner um 50% erhöhten Schaden zufügt. Durch diesen Schaden werden Gegenstandseffekte für Grundangriffe ausgelöst, nicht aber für Fertigkeiten."
+            "Passive": "Nachdem sie eine Fertigkeit eingesetzt hat, wird Athenas nächster Grundangriff zum Fernangriff, der Gegner durchdringt und dem ersten getroffenen Gegner um 50% erhöhten Schaden zufügt. Durch diesen Schaden werden Gegenstandseffekte für Grundangriffe ausgelöst, nicht aber für Fertigkeiten.",
+            "PassiveName": "Reichweite"
         },
         {
             "Name": "Atlas",
@@ -7509,7 +7524,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": "Wenn Atlas durch Götter Schaden erleidet Schaden verursacht, sammelt er 1,25 Energie in seinem Astrolabium. Diener gewähren nur 10% Energie. Erreicht er 20 Energie, hat sein nächster Grundangriff 1,5x Schaden und Schwungzeit, verursacht Flächenschaden und lässt Götter 2s lang erzittern und betäubt Diener. Maximal 30 Energie."
+            "Passive": "Wenn Atlas durch Götter Schaden erleidet Schaden verursacht, sammelt er 1,25 Energie in seinem Astrolabium. Diener gewähren nur 10% Energie. Erreicht er 20 Energie, hat sein nächster Grundangriff 1,5x Schaden und Schwungzeit, verursacht Flächenschaden und lässt Götter 2s lang erzittern und betäubt Diener. Maximal 30 Energie.",
+            "PassiveName": "Das Astrolabium"
         },
         {
             "Name": "Awilix",
@@ -7537,7 +7553,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Hat Awilix 5s lang keinen Schaden verursacht oder erlitten und trifft einen Gegner zuerst, erhöht ihr erster Angriff danach für kurze Zeit ihre physische Kraft."
+            "Passive": "Hat Awilix 5s lang keinen Schaden verursacht oder erlitten und trifft einen Gegner zuerst, erhöht ihr erster Angriff danach für kurze Zeit ihre physische Kraft.",
+            "PassiveName": "Initiative"
         },
         {
             "Name": "Baba Jaga",
@@ -7565,7 +7582,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 2.9,
-            "Passive": "Baba Jagas Hütte sammelt bis zu 100 Essenz, wenn sie sich bewegt und wenn gegnerische Götter ihr zu nahe kommen. Baba Jaga kann sich der Hütte nähern, um die Essenz in Stapel für Entwicklungsgegenstände umzuwandeln. Hat Baba Jaga keinen solchen Gegenstand, wird sie stattdessen pro Tick um 0,8% ihrer maximalen Gesundheit geheilt."
+            "Passive": "Baba Jagas Hütte sammelt bis zu 100 Essenz, wenn sie sich bewegt und wenn gegnerische Götter ihr zu nahe kommen. Baba Jaga kann sich der Hütte nähern, um die Essenz in Stapel für Entwicklungsgegenstände umzuwandeln. Hat Baba Jaga keinen solchen Gegenstand, wird sie stattdessen pro Tick um 0,8% ihrer maximalen Gesundheit geheilt.",
+            "PassiveName": "Laufende Hütte"
         },
         {
             "Name": "Bacchus",
@@ -7593,7 +7611,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Bacchus liebt das Trinken. Während er aus seinem Krug trinkt, wird er immer betrunkener und erhält Buffs, wenn er angeheitert und schließlich besoffen wird. Bacchus feiert auch, wenn er einen gegnerischen Gott tötet und erhält 10% auf seinem Alkometer."
+            "Passive": "Bacchus liebt das Trinken. Während er aus seinem Krug trinkt, wird er immer betrunkener und erhält Buffs, wenn er angeheitert und schließlich besoffen wird. Bacchus feiert auch, wenn er einen gegnerischen Gott tötet und erhält 10% auf seinem Alkometer.",
+            "PassiveName": "Alkometer"
         },
         {
             "Name": "Bakasura",
@@ -7621,7 +7640,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3,
-            "Passive": "Bakasuras Angriffs- und Lauftempo erhöhen sich kurzzeitig für jeden Gegner, den er tötet."
+            "Passive": "Bakasuras Angriffs- und Lauftempo erhöhen sich kurzzeitig für jeden Gegner, den er tötet.",
+            "PassiveName": "Unstillbarer Hunger"
         },
         {
             "Name": "Baron Samedi",
@@ -7649,7 +7669,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 2.8,
-            "Passive": "Der Baron teilt sein Baronenbräu, einen mächtigen Regenerationstrank, über den Item-Shop mit seinen Verbündeten. Von ihm getroffene Gegner werden von Hysterie befallen, wodurch Baron Samedis Fertigkeiten Zusatzeffekte erhalten. Ziele mit maximaler Hysterie erleiden durch Baron Samedi 20% mehr Schaden."
+            "Passive": "Der Baron teilt sein Baronenbräu, einen mächtigen Regenerationstrank, über den Item-Shop mit seinen Verbündeten. Von ihm getroffene Gegner werden von Hysterie befallen, wodurch Baron Samedis Fertigkeiten Zusatzeffekte erhalten. Ziele mit maximaler Hysterie erleiden durch Baron Samedi 20% mehr Schaden.",
+            "PassiveName": "Hysterie"
         },
         {
             "Name": "Bastet",
@@ -7677,7 +7698,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": "Bastet erhält physischen Lebensraub und physischen Lebensraub durch Fertigkeiten, wenn sie Gegner trifft. Außerdem werden ihr getroffene Götter 6s lang offenbart."
+            "Passive": "Bastet erhält physischen Lebensraub und physischen Lebensraub durch Fertigkeiten, wenn sie Gegner trifft. Außerdem werden ihr getroffene Götter 6s lang offenbart.",
+            "PassiveName": "Nächtliche Jagd"
         },
         {
             "Name": "Bellona",
@@ -7705,7 +7727,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Bellona erhält 7s lang Schutz und Lauftempo, wenn sie mit Grundangriffen trifft oder von gegnerischen Grundangriffen getroffen wird. Maximal 5 Stapel."
+            "Passive": "Bellona erhält 7s lang Schutz und Lauftempo, wenn sie mit Grundangriffen trifft oder von gegnerischen Grundangriffen getroffen wird. Maximal 5 Stapel.",
+            "PassiveName": "Herrin des Krieges"
         },
         {
             "Name": "Cabracán",
@@ -7733,7 +7756,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.6,
-            "Passive": "Verbündete in der Nähe von Cabracán erleiden um 5% reduzierten Schaden."
+            "Passive": "Verbündete in der Nähe von Cabracán erleiden um 5% reduzierten Schaden.",
+            "PassiveName": "Schattenzone"
         },
         {
             "Name": "Camazotz",
@@ -7761,7 +7785,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.2,
-            "Passive": "Camazotz hat einen passiven Essenzverschlinger-Bonus für physischen Lebensraub. Außerdem hinterlassen gegnerische Götter, wenn sie sterben, am Ort ihres Todes eine Essenzpfütze. Steht Camazotz in solch einer Pfütze, trinkt er die Essenz alle 0,5s und stellt Gesundheit und Mana wieder her."
+            "Passive": "Camazotz hat einen passiven Essenzverschlinger-Bonus für physischen Lebensraub. Außerdem hinterlassen gegnerische Götter, wenn sie sterben, am Ort ihres Todes eine Essenzpfütze. Steht Camazotz in solch einer Pfütze, trinkt er die Essenz alle 0,5s und stellt Gesundheit und Mana wieder her.",
+            "PassiveName": "Essenzverschlinger"
         },
         {
             "Name": "Zerberus",
@@ -7789,7 +7814,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Immer wenn ein gegnerischer Gott innerhalb von 40 Einheiten von Zerberus geheilt wird, wird diese Heilung um 30% reduziert und Zerberus erhält 50% der Heilung. Zerberus reduziert alle Arten von Heilung außer HP5. Die geraubte Heilung basiert auf deren Basiswert, ohne aktive erhöhende oder reduzierende Effekte."
+            "Passive": "Immer wenn ein gegnerischer Gott innerhalb von 40 Einheiten von Zerberus geheilt wird, wird diese Heilung um 30% reduziert und Zerberus erhält 50% der Heilung. Zerberus reduziert alle Arten von Heilung außer HP5. Die geraubte Heilung basiert auf deren Basiswert, ohne aktive erhöhende oder reduzierende Effekte.",
+            "PassiveName": "Todesgeist"
         },
         {
             "Name": "Cernunnos",
@@ -7817,7 +7843,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.1,
-            "Passive": "Cernunnos verwendet eine Wurfsichel als Waffe. Während er sie wirft, fügen seine Grundangriffe allen Gegnern im Nahkampfbereich zusätzlichen Schaden zu. Durch den zusätzlichen Schaden von Schwere Wurfsichel werden keine Effekte von Gegenständen oder Fertigkeiten aktiviert."
+            "Passive": "Cernunnos verwendet eine Wurfsichel als Waffe. Während er sie wirft, fügen seine Grundangriffe allen Gegnern im Nahkampfbereich zusätzlichen Schaden zu. Durch den zusätzlichen Schaden von Schwere Wurfsichel werden keine Effekte von Gegenständen oder Fertigkeiten aktiviert.",
+            "PassiveName": "Schwere Wurfsichel"
         },
         {
             "Name": "Chaac",
@@ -7845,7 +7872,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Nach 5 erfolgreichen Grundangriffen kostet die nächste von Chaac eingesetzte Fertigkeit kein Mana und ihre Abklingzeit wird um 2s reduziert."
+            "Passive": "Nach 5 erfolgreichen Grundangriffen kostet die nächste von Chaac eingesetzte Fertigkeit kein Mana und ihre Abklingzeit wird um 2s reduziert.",
+            "PassiveName": "Überfluss"
         },
         {
             "Name": "Chang'e",
@@ -7873,7 +7901,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 2.9,
-            "Passive": "Chang'e kann überall Gegenstände kaufen und verkaufen, ihr Jadehase wird sie holen. Die Transaktion ist beendet, nachdem der Jadehase vom Shop zurückgekehrt ist. Nur eine Transaktion zur gleichen Zeit möglich. Außerdem erhält Chang'e +25% Lauftempo und keinen Malus bei Rückwärtsbewegung, solange sie ihre Tänze benutzt."
+            "Passive": "Chang'e kann überall Gegenstände kaufen und verkaufen, ihr Jadehase wird sie holen. Die Transaktion ist beendet, nachdem der Jadehase vom Shop zurückgekehrt ist. Nur eine Transaktion zur gleichen Zeit möglich. Außerdem erhält Chang'e +25% Lauftempo und keinen Malus bei Rückwärtsbewegung, solange sie ihre Tänze benutzt.",
+            "PassiveName": "Jadehase"
         },
         {
             "Name": "Charybdis",
@@ -7901,7 +7930,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": "Charybdis' Angriffstempo erhöht sich mit ihrem Wasserstand. Treffer mit Grundangriffen erhöhen den Wasserstand.\nCharybdis verursacht weniger Schaden mit durch Gegenstände ausgelösten Treffereffekten."
+            "Passive": "Charybdis' Angriffstempo erhöht sich mit ihrem Wasserstand. Treffer mit Grundangriffen erhöhen den Wasserstand.\nCharybdis verursacht weniger Schaden mit durch Gegenstände ausgelösten Treffereffekten.",
+            "PassiveName": "Tobende Fluten"
         },
         {
             "Name": "Tschernebog",
@@ -7929,7 +7959,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.2,
-            "Passive": "Jeder erfolgreiche Grundangriff pfählt den Gegner mit einem brüchigen Kristall. Werden 3 Stapel Herzenskälte erreicht, explodiert der Gegner und bewirkt zusätzlichen Schaden in einem Bereich um ihn herum. Dieser Schaden löst keine Gegenstandseffekte aus."
+            "Passive": "Jeder erfolgreiche Grundangriff pfählt den Gegner mit einem brüchigen Kristall. Werden 3 Stapel Herzenskälte erreicht, explodiert der Gegner und bewirkt zusätzlichen Schaden in einem Bereich um ihn herum. Dieser Schaden löst keine Gegenstandseffekte aus.",
+            "PassiveName": "Herzenskälte"
         },
         {
             "Name": "Chiron",
@@ -7957,7 +7988,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3,
-            "Passive": "Chiron sammelt alle 12s Kräuter für Umschläge. Jedes Mal, wenn er eine Fertigkeit aktiviert, wird ein Umschlag verbraucht, um ihn oder einen Verbündeten innerhalb von 30 Einheiten zu heilen, je nachdem, wessen Gesundheit niedriger ist. Geheilte Verbündete erhalten außerdem physische und magische Kraft."
+            "Passive": "Chiron sammelt alle 12s Kräuter für Umschläge. Jedes Mal, wenn er eine Fertigkeit aktiviert, wird ein Umschlag verbraucht, um ihn oder einen Verbündeten innerhalb von 30 Einheiten zu heilen, je nachdem, wessen Gesundheit niedriger ist. Geheilte Verbündete erhalten außerdem physische und magische Kraft.",
+            "PassiveName": "Kräuterheilung"
         },
         {
             "Name": "Chronos",
@@ -7985,7 +8017,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": "Chronos' Kraft wächst mit der Zeit. Alle 1,5 Minuten erhält er einen Stapel, der seine magische Kraft erhöht. Bis zu 25 Stapel sind möglich und permanent."
+            "Passive": "Chronos' Kraft wächst mit der Zeit. Alle 1,5 Minuten erhält er einen Stapel, der seine magische Kraft erhöht. Bis zu 25 Stapel sind möglich und permanent.",
+            "PassiveName": "Herr der Zeit"
         },
         {
             "Name": "Cliodhna",
@@ -8013,7 +8046,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.3,
-            "Passive": "Alle 16s kann Cliodhna Mauern betreten, verliert dort aber alle 0,4s Gesundheit, beginnend mit 0,15% und steigender Intensität (bis zu 40 Stapel). Nach Verlassen der Mauer erhält sie 5s lang 10% physischen Lebensraub durch Fertigkeiten."
+            "Passive": "Alle 16s kann Cliodhna Mauern betreten, verliert dort aber alle 0,4s Gesundheit, beginnend mit 0,15% und steigender Intensität (bis zu 40 Stapel). Nach Verlassen der Mauer erhält sie 5s lang 10% physischen Lebensraub durch Fertigkeiten.",
+            "PassiveName": "Phantasma"
         },
         {
             "Name": "Cthulhu",
@@ -8041,7 +8075,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.5,
-            "Passive": "Cthulhu bricht den Verstand gegnerischer Götter und fügt ihnen Qual-Stapel hinzu, wenn er sie mit Fertigkeiten oder dem finalen Treffer seiner Grundangriffskette trifft. Bei 4 Qual-Stapeln verfallen Gegner dem Wahnsinn. Cthulhus Magische Kraft erhöht sich pro gegnerischem Gott mit Wahnsinn in der Nähe."
+            "Passive": "Cthulhu bricht den Verstand gegnerischer Götter und fügt ihnen Qual-Stapel hinzu, wenn er sie mit Fertigkeiten oder dem finalen Treffer seiner Grundangriffskette trifft. Bei 4 Qual-Stapeln verfallen Gegner dem Wahnsinn. Cthulhus Magische Kraft erhöht sich pro gegnerischem Gott mit Wahnsinn in der Nähe.",
+            "PassiveName": "Ausbeuter der Angst"
         },
         {
             "Name": "Cu Chulainn",
@@ -8069,7 +8104,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": "Mana, MP5 und Mana-Heilungen werden auf die Gesundheit angewandt. Fertigkeiten verbrauchen Wut, die bis auf 25 regeneriert und durch Treffer (Fertigkeiten/Grundangriffe, 1 Wut) und erlittenen Schaden (0,5 Wut, auch Verbündete) erhöht wird. Nach 3s über 85 wird er zum Berserker und erhält Kraft und einen Schild."
+            "Passive": "Mana, MP5 und Mana-Heilungen werden auf die Gesundheit angewandt. Fertigkeiten verbrauchen Wut, die bis auf 25 regeneriert und durch Treffer (Fertigkeiten/Grundangriffe, 1 Wut) und erlittenen Schaden (0,5 Wut, auch Verbündete) erhöht wird. Nach 3s über 85 wird er zum Berserker und erhält Kraft und einen Schild.",
+            "PassiveName": "Berserker"
         },
         {
             "Name": "Amor",
@@ -8097,7 +8133,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.2,
-            "Passive": "Jeder Treffer mit einem Grundangriff gibt Amor einen Herzstapel, der den Schaden bzw. die Heilung seiner Fertigkeiten erhöht. Herzbombe und Felder der Liebe verbrauchen diese Stapel und bei 8 Stapeln haben sie zusätzliche Effekte."
+            "Passive": "Jeder Treffer mit einem Grundangriff gibt Amor einen Herzstapel, der den Schaden bzw. die Heilung seiner Fertigkeiten erhöht. Herzbombe und Felder der Liebe verbrauchen diese Stapel und bei 8 Stapeln haben sie zusätzliche Effekte.",
+            "PassiveName": "Verknallt"
         },
         {
             "Name": "Daji",
@@ -8125,7 +8162,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.2,
-            "Passive": "Dajis scharfe Krallen fügen von ihren Grundangriffen getroffenen Gegnern Blutungen zu. Blutende Gegner erleiden 2s lang jede Sekunde Schaden. (Dieser Schaden löst keine Gegenstandseffekte aus.) Blutungen können unbegrenzt für dasselbe Ziel gestapelt werden."
+            "Passive": "Dajis scharfe Krallen fügen von ihren Grundangriffen getroffenen Gegnern Blutungen zu. Blutende Gegner erleiden 2s lang jede Sekunde Schaden. (Dieser Schaden löst keine Gegenstandseffekte aus.) Blutungen können unbegrenzt für dasselbe Ziel gestapelt werden.",
+            "PassiveName": "Folterklingen"
         },
         {
             "Name": "Danzaburou",
@@ -8153,7 +8191,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.1,
-            "Passive": "Jedes Mal, wenn Danzaburou aktiv Gold verdient, zweigt er 10% davon in einen seiner Geldbeutel ab. Ist ein Beutel voll, erhält er Bonusgold, seine physische Kraft erhöht sich permanent und er wechselt zu einem größeren Beutel."
+            "Passive": "Jedes Mal, wenn Danzaburou aktiv Gold verdient, zweigt er 10% davon in einen seiner Geldbeutel ab. Ist ein Beutel voll, erhält er Bonusgold, seine physische Kraft erhöht sich permanent und er wechselt zu einem größeren Beutel.",
+            "PassiveName": "Dubiose Ersparnisse"
         },
         {
             "Name": "Discordia",
@@ -8181,7 +8220,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "Discordia vergleicht sich ständig mit ihren Teamkameraden, um zu sehen, wer der Beste ist. Der Gott in ihrem Team, der gegnerischen Spielern den meisten Schaden zugefügt hat, erhält einen Kraft-Buff, der mit Discordias Stufe skaliert."
+            "Passive": "Discordia vergleicht sich ständig mit ihren Teamkameraden, um zu sehen, wer der Beste ist. Der Gott in ihrem Team, der gegnerischen Spielern den meisten Schaden zugefügt hat, erhält einen Kraft-Buff, der mit Discordias Stufe skaliert.",
+            "PassiveName": "Wettstreit der Götter"
         },
         {
             "Name": "Erlang Shen",
@@ -8209,7 +8249,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": "Jedes Mal, wenn Erlang Shen einen Gegner mit einem Grundangriff trifft, trifft auch sein Hund mit 5% seiner Grundangriffskraft und zusätzlichem Schaden in Höhe von 1,75% der maximalen Gesundheit des Ziels. Der zusätzliche Schaden wird nur gegen Götter und Diener ausgelöst."
+            "Passive": "Jedes Mal, wenn Erlang Shen einen Gegner mit einem Grundangriff trifft, trifft auch sein Hund mit 5% seiner Grundangriffskraft und zusätzlichem Schaden in Höhe von 1,75% der maximalen Gesundheit des Ziels. Der zusätzliche Schaden wird nur gegen Götter und Diener ausgelöst.",
+            "PassiveName": "Heulender Himmelshund"
         },
         {
             "Name": "Isis",
@@ -8237,7 +8278,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "Isis teilt zusätzliche HP5 und MP5 mit in der Nähe befindlichen Verbündeten. Stirbt ein Spieler im Umkreis von 80 Einheiten, erhält ihre Aura einen zusätzlichen Stapel (max. 10). Bei 10 Stapeln erhält Isis zusätzliche 10% Abklingzeitreduktion. Zudem erhält ihr abschließender Grundangriff einen größeren Radius (+2)."
+            "Passive": "Isis teilt zusätzliche HP5 und MP5 mit in der Nähe befindlichen Verbündeten. Stirbt ein Spieler im Umkreis von 80 Einheiten, erhält ihre Aura einen zusätzlichen Stapel (max. 10). Bei 10 Stapeln erhält Isis zusätzliche 10% Abklingzeitreduktion. Zudem erhält ihr abschließender Grundangriff einen größeren Radius (+2).",
+            "PassiveName": "Beerdigungsritus"
         },
         {
             "Name": "Fafnir",
@@ -8265,7 +8307,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.7,
-            "Passive": "Fafnir erhält einen Bonus von 2 Gold für jeden getöteten Gegner und jede Unterstützung, Diener eingeschlossen. Fafnir erhält außerdem zusätzlichen Schutz, je nach verfügbarem Gold. (Maximaler Bonus ab 1000 Gold.)"
+            "Passive": "Fafnir erhält einen Bonus von 2 Gold für jeden getöteten Gegner und jede Unterstützung, Diener eingeschlossen. Fafnir erhält außerdem zusätzlichen Schutz, je nach verfügbarem Gold. (Maximaler Bonus ab 1000 Gold.)",
+            "PassiveName": "Ewige Gier"
         },
         {
             "Name": "Fenrir",
@@ -8293,7 +8336,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.2,
-            "Passive": "Fenrir steigert im Kampf seine Effizienz. Jeder erfolgreiche Grundangriff aktiviert eine von bis zu 5 Runen. Entfesselt, Verrohen und Ragnarök erhalten zusätzliche Effekte, wenn sie bei maximaler Runenanzahl benutzt werden. Die Runen werden dabei verbraucht. Tötet Fenrir einen gegnerischen Gott, werden alle seine Runen aktiviert. Unterstützungen aktivieren 3 Runen."
+            "Passive": "Fenrir steigert im Kampf seine Effizienz. Jeder erfolgreiche Grundangriff aktiviert eine von bis zu 5 Runen. Entfesselt, Verrohen und Ragnarök erhalten zusätzliche Effekte, wenn sie bei maximaler Runenanzahl benutzt werden. Die Runen werden dabei verbraucht. Tötet Fenrir einen gegnerischen Gott, werden alle seine Runen aktiviert. Unterstützungen aktivieren 3 Runen.",
+            "PassiveName": "Ungebundene Runen"
         },
         {
             "Name": "Freya",
@@ -8321,7 +8365,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3,
-            "Passive": "Freyas Halskette verleiht ihr zusätzlichen magischen Lebensraub."
+            "Passive": "Freyas Halskette verleiht ihr zusätzlichen magischen Lebensraub.",
+            "PassiveName": "Brisingamens Segen"
         },
         {
             "Name": "Ganesha",
@@ -8349,7 +8394,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": "Tötet Ganesha einen gegnerischen Gott, so wird dieser Kill dem nächsten verbündeten Gott zugeschrieben und Ganesha erhält die Belohnungen für eine Unterstützung. Zusätzlich wird seine Reichweite für Unterstützungen um 20 Einheiten und die Dauer, bevor eine Unterstützung nicht mehr als solche gilt, um 5s erhöht."
+            "Passive": "Tötet Ganesha einen gegnerischen Gott, so wird dieser Kill dem nächsten verbündeten Gott zugeschrieben und Ganesha erhält die Belohnungen für eine Unterstützung. Zusätzlich wird seine Reichweite für Unterstützungen um 20 Einheiten und die Dauer, bevor eine Unterstützung nicht mehr als solche gilt, um 5s erhöht.",
+            "PassiveName": "Glücksfall"
         },
         {
             "Name": "Geb",
@@ -8377,7 +8423,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Der durch kritische Treffer erlittene Bonusschaden wird um 65% reduziert."
+            "Passive": "Der durch kritische Treffer erlittene Bonusschaden wird um 65% reduziert.",
+            "PassiveName": "Hart wie Stein"
         },
         {
             "Name": "Gilgamesch",
@@ -8405,7 +8452,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Auf Stufe 5 erhält Gilgamesch die Aufgabe, einen bestimmten Ort auf der Karte zu besuchen. Auf Stufe 10 erhält er die Aufgabe, mindestens die Hälfte des gegnerischen Teams in einem Kampf zu besiegen. Jedes Mal, wenn er eine Aufgabe bewältigt, erhält er einen Stufe-1-Gegenstand oder 500 Gold, falls sein Inventar voll ist."
+            "Passive": "Auf Stufe 5 erhält Gilgamesch die Aufgabe, einen bestimmten Ort auf der Karte zu besuchen. Auf Stufe 10 erhält er die Aufgabe, mindestens die Hälfte des gegnerischen Teams in einem Kampf zu besiegen. Jedes Mal, wenn er eine Aufgabe bewältigt, erhält er einen Stufe-1-Gegenstand oder 500 Gold, falls sein Inventar voll ist.",
+            "PassiveName": "Das Epos von Gilgamesch"
         },
         {
             "Name": "Guan Yu",
@@ -8433,7 +8481,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
             "PhysProtPL": 3.2,
-            "Passive": "Immer wenn Guan Yu einem Gegner Schaden zufügt oder Schaden durch ihn erleidet, erhält er Stapel. Bei maximaler Stapelmenge wird Schmerzlos aktiv und die Effekte seiner anderen Fertigkeiten werden verstärkt. Nach der Aktivierung werden die Stapel zurückgesetzt, falls Guan Yu 5s lang keinen Schaden erleidet oder verursacht."
+            "Passive": "Immer wenn Guan Yu einem Gegner Schaden zufügt oder Schaden durch ihn erleidet, erhält er Stapel. Bei maximaler Stapelmenge wird Schmerzlos aktiv und die Effekte seiner anderen Fertigkeiten werden verstärkt. Nach der Aktivierung werden die Stapel zurückgesetzt, falls Guan Yu 5s lang keinen Schaden erleidet oder verursacht.",
+            "PassiveName": "Schmerzlos"
         },
         {
             "Name": "Hachiman",
@@ -8461,7 +8510,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3,
-            "Passive": "Hachiman wird durch Treffen seiner Gegner stärker. Treffer mit Grundangriffen verleihen Hachiman Energie und gewähren ihm einen Stapel MP5. Maximal 5 Stapel, Stapel halten 8s."
+            "Passive": "Hachiman wird durch Treffen seiner Gegner stärker. Treffer mit Grundangriffen verleihen Hachiman Energie und gewähren ihm einen Stapel MP5. Maximal 5 Stapel, Stapel halten 8s.",
+            "PassiveName": "Waffenmeister"
         },
         {
             "Name": "Hades",
@@ -8489,7 +8539,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 2.8,
-            "Passive": "Hades’ Grundangriffe belegen Gegner mit Pesthauch. Dieser Debuff lastet auf dem Ziel und kann erneuert werden. Pesthauch reduziert die magische und physische Kraft des Ziels und Hades’ andere Fertigkeiten erhalten zusätzliche Effekte."
+            "Passive": "Hades’ Grundangriffe belegen Gegner mit Pesthauch. Dieser Debuff lastet auf dem Ziel und kann erneuert werden. Pesthauch reduziert die magische und physische Kraft des Ziels und Hades’ andere Fertigkeiten erhalten zusätzliche Effekte.",
+            "PassiveName": "Pesthauch"
         },
         {
             "Name": "He Bo",
@@ -8517,7 +8568,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": "Jedes Mal, wenn He Bo eine Fertigkeit benutzt, erhält er einen Buff, der seine magische Kraft erhöht. Der Timer wird zurückgesetzt, wenn eine weitere Fertigkeit benutzt wird."
+            "Passive": "Jedes Mal, wenn He Bo eine Fertigkeit benutzt, erhält er einen Buff, der seine magische Kraft erhöht. Der Timer wird zurückgesetzt, wenn eine weitere Fertigkeit benutzt wird.",
+            "PassiveName": "Ständiger Fluss"
         },
         {
             "Name": "Heimdallr",
@@ -8545,7 +8597,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
             "PhysProtPL": 3.2,
-            "Passive": "Erhält Heimdallr Sicht auf einen gegnerischen Gott, erhöht sich seine physische Kraft (max. 5 Stapel). Verlässt ein gegnerischer Gott den Sichtbereich oder tarnt sich, kann Heimdallr ihn trotzdem noch 4s lang sehen. Heimdallrs kritische Treffer verursachen nur 40% Bonusschaden."
+            "Passive": "Erhält Heimdallr Sicht auf einen gegnerischen Gott, erhöht sich seine physische Kraft (max. 5 Stapel). Verlässt ein gegnerischer Gott den Sichtbereich oder tarnt sich, kann Heimdallr ihn trotzdem noch 4s lang sehen. Heimdallrs kritische Treffer verursachen nur 40% Bonusschaden.",
+            "PassiveName": "Der Wachsame"
         },
         {
             "Name": "Hel",
@@ -8573,7 +8626,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": "Wenn Hel eine Haltung eingenommen hat, stellt sie sich allmählich auf die Stärken jener Haltung ein und gewinnt bis zu 20% Schaden in der dunklen Haltung und 10% Heilung durch ihre Fertigkeiten in der hellen Haltung."
+            "Passive": "Wenn Hel eine Haltung eingenommen hat, stellt sie sich allmählich auf die Stärken jener Haltung ein und gewinnt bis zu 20% Schaden in der dunklen Haltung und 10% Heilung durch ihre Fertigkeiten in der hellen Haltung.",
+            "PassiveName": "Haltungs-Einstimmung"
         },
         {
             "Name": "Hera",
@@ -8601,7 +8655,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "Jedes Mal, wenn Hera Göttern Schaden zufügt während Argus inaktiv ist, wird seine Abklingzeit um 1,5s und die von Göttlicher Schleier um 0,5s reduziert. Fügt Hera Göttern Schaden zu, während Argus aktiv ist, wird er geheilt."
+            "Passive": "Jedes Mal, wenn Hera Göttern Schaden zufügt während Argus inaktiv ist, wird seine Abklingzeit um 1,5s und die von Göttlicher Schleier um 0,5s reduziert. Fügt Hera Göttern Schaden zu, während Argus aktiv ist, wird er geheilt.",
+            "PassiveName": "Gebieterische Präsenz"
         },
         {
             "Name": "Herkules",
@@ -8629,7 +8684,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Jedes Mal, wenn Herkules Schaden durch einen gegnerischen Gott erleidet, erhält er einen stapelbaren Buff, der seine physische Kraft erhöht."
+            "Passive": "Jedes Mal, wenn Herkules Schaden durch einen gegnerischen Gott erleidet, erhält er einen stapelbaren Buff, der seine physische Kraft erhöht.",
+            "PassiveName": "Stärke durch Schmerz"
         },
         {
             "Name": "Horus",
@@ -8657,7 +8713,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": "Jedes Mal, wenn Horus Schaden durch einen gegnerischen Gott erleidet, erhält er einen Resolut-Stapel. Erleidet er Schaden durch Seth, erhält er 2 Stapel. Stapel erhöhen Horus' Schutz und CC-Reduktion. Die maximale Stapelanzahl beträgt 10 für 3s. Wenn die Stapel verschwinden, wird Horus basierend auf der Anzahl der Stapel geheilt."
+            "Passive": "Jedes Mal, wenn Horus Schaden durch einen gegnerischen Gott erleidet, erhält er einen Resolut-Stapel. Erleidet er Schaden durch Seth, erhält er 2 Stapel. Stapel erhöhen Horus' Schutz und CC-Reduktion. Die maximale Stapelanzahl beträgt 10 für 3s. Wenn die Stapel verschwinden, wird Horus basierend auf der Anzahl der Stapel geheilt.",
+            "PassiveName": "Resolut"
         },
         {
             "Name": "Hou Yi",
@@ -8685,7 +8742,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3,
-            "Passive": "Nach einem kritischen Treffer kann Hou Yi für 3s nicht erneut kritisch getroffen werden."
+            "Passive": "Nach einem kritischen Treffer kann Hou Yi für 3s nicht erneut kritisch getroffen werden.",
+            "PassiveName": "Sonnenberührt"
         },
         {
             "Name": "Hun Batz",
@@ -8713,7 +8771,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Nach Verwendung einer Fertigkeit verursacht Hun Batz' nächster Grundangriff um 15% erhöhten Schaden."
+            "Passive": "Nach Verwendung einer Fertigkeit verursacht Hun Batz' nächster Grundangriff um 15% erhöhten Schaden.",
+            "PassiveName": "Durchdrungene Angriffe"
         },
         {
             "Name": "Ischtar",
@@ -8741,7 +8800,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.132,
-            "Passive": "Fällt Ischtar unter 75% Gesundheit, wird der Gott, der ihr zuletzt Schaden zugefügt hat, 10s lang markiert. Fügt Ischtar dem markierten Gott mit einem Grundangriff Schaden zu, erhält sie einen Stapel Angriffstempo. Tötet sie ihn oder unterstützt dabei, erhält sie Lauftempo. Kann nur einmal alle 20s ausgelöst werden."
+            "Passive": "Fällt Ischtar unter 75% Gesundheit, wird der Gott, der ihr zuletzt Schaden zugefügt hat, 10s lang markiert. Fügt Ischtar dem markierten Gott mit einem Grundangriff Schaden zu, erhält sie einen Stapel Angriffstempo. Tötet sie ihn oder unterstützt dabei, erhält sie Lauftempo. Kann nur einmal alle 20s ausgelöst werden.",
+            "PassiveName": "Zeichen der Rache"
         },
         {
             "Name": "Izanami",
@@ -8769,7 +8829,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": "Je näher Izanami dem Tod kommt, desto mächtiger wird sie. Sie erhält 4% physische Durchdringung pro 10% fehlender Gesundheit, bis zu einem Maximum von 20%.\nDie Projektilgeschwindigkeit der Grundangriffe erhöht sich mit dem Angriffstempo und sie lösen nur beim ersten getroffenen Ziel Gegenstandseffekte aus."
+            "Passive": "Je näher Izanami dem Tod kommt, desto mächtiger wird sie. Sie erhält 4% physische Durchdringung pro 10% fehlender Gesundheit, bis zu einem Maximum von 20%.\nDie Projektilgeschwindigkeit der Grundangriffe erhöht sich mit dem Angriffstempo und sie lösen nur beim ersten getroffenen Ziel Gegenstandseffekte aus.",
+            "PassiveName": "Nahender Tod"
         },
         {
             "Name": "Janus",
@@ -8797,7 +8858,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 14,
             "PhysProtPL": 3,
-            "Passive": "Jedes Mal wenn Janus durch ein Portal oder über eine Schwelle wandelt, wird er älter und weiser und erhält für seine nächste gewirkte Fertigkeit zusätzliche magische Skalierung."
+            "Passive": "Jedes Mal wenn Janus durch ein Portal oder über eine Schwelle wandelt, wird er älter und weiser und erhält für seine nächste gewirkte Fertigkeit zusätzliche magische Skalierung.",
+            "PassiveName": "Passagen"
         },
         {
             "Name": "Jing Wei",
@@ -8825,7 +8887,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": "Nach Verlassen des Brunnens bereitet sich Jing Wei auf den Abflug vor und erhebt sich dann in die Luft, was ihr Crowd-Control-Immunität verleiht und ihr erlaubt, mit erhöhtem Tempo über Hindernisse hinweg zu fliegen. Jing Wei kann darauf verzichten zu fliegen, indem sie die Fertigkeit auf dem Weg aus dem Brunnen abbricht."
+            "Passive": "Nach Verlassen des Brunnens bereitet sich Jing Wei auf den Abflug vor und erhebt sich dann in die Luft, was ihr Crowd-Control-Immunität verleiht und ihr erlaubt, mit erhöhtem Tempo über Hindernisse hinweg zu fliegen. Jing Wei kann darauf verzichten zu fliegen, indem sie die Fertigkeit auf dem Weg aus dem Brunnen abbricht.",
+            "PassiveName": "Schnelle Reinkarnation"
         },
         {
             "Name": "Jörmungandr",
@@ -8853,7 +8916,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.8,
-            "Passive": "Jörmungandr können starke positionsverändernde CC-Effekte nichts anhaben. Er wird stattdessen verwirrt, was den erlittenen Schaden erhöht und eine Verlangsamung bewirkt, von der er sich nicht befreien kann. Bonus-Angriffstempo beschleunigt die Aufladung seiner Grundangriffe. Diese lösen keine Gegenstands-Treffereffekte aus."
+            "Passive": "Jörmungandr können starke positionsverändernde CC-Effekte nichts anhaben. Er wird stattdessen verwirrt, was den erlittenen Schaden erhöht und eine Verlangsamung bewirkt, von der er sich nicht befreien kann. Bonus-Angriffstempo beschleunigt die Aufladung seiner Grundangriffe. Diese lösen keine Gegenstands-Treffereffekte aus.",
+            "PassiveName": "Unbeweglich"
         },
         {
             "Name": "Kali",
@@ -8881,7 +8945,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 21,
             "PhysProtPL": 3.1,
-            "Passive": "Kali markiert einen Gott. Sie erhält einen Bonus auf physische Durchdringung gegen diesen Gott und heilt 60% ihrer maximalen Gesundheit, wenn sie den Gott tötet (20% für eine Unterstützung). Der Goldbonus von diesem Gott wird um 30% erhöht. Stirbt Kalis Ziel, wird der nächststehende Gott markiert; stirbt Kali, kann sie ein neues Ziel wählen."
+            "Passive": "Kali markiert einen Gott. Sie erhält einen Bonus auf physische Durchdringung gegen diesen Gott und heilt 60% ihrer maximalen Gesundheit, wenn sie den Gott tötet (20% für eine Unterstützung). Der Goldbonus von diesem Gott wird um 30% erhöht. Stirbt Kalis Ziel, wird der nächststehende Gott markiert; stirbt Kali, kann sie ein neues Ziel wählen.",
+            "PassiveName": "Todesmarkierung"
         },
         {
             "Name": "Khepri",
@@ -8909,7 +8974,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Alle 5s verleiht Khepri sich selbst und allen verbündeten Göttern in der Nähe einen 15s bestehenden Schild in Höhe von 2% der maximalen Gesundheit des Ziels. Das Intervall verlängert sich auf 10s, falls Khepri in den letzten 5s Schaden verursacht oder erlitten hat. (Max. 10%)"
+            "Passive": "Alle 5s verleiht Khepri sich selbst und allen verbündeten Göttern in der Nähe einen 15s bestehenden Schild in Höhe von 2% der maximalen Gesundheit des Ziels. Das Intervall verlängert sich auf 10s, falls Khepri in den letzten 5s Schaden verursacht oder erlitten hat. (Max. 10%)",
+            "PassiveName": "Tapferkeit"
         },
         {
             "Name": "König Artus",
@@ -8937,7 +9003,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": "Fügt Artus einem Gott mit Fertigkeiten Schaden zu, erhält er einen Stapel mit Schadensminderung und Bonus-Energieerzeugung. Nach Einsatz von Fertigkeiten wechselt er zwischen Standard- und Kombo-Haltung. Grundangriffe profitieren nicht von Gegenstandseffekten und Angriffstempo, letzteres erhöht dafür die Energieerzeugung."
+            "Passive": "Fügt Artus einem Gott mit Fertigkeiten Schaden zu, erhält er einen Stapel mit Schadensminderung und Bonus-Energieerzeugung. Nach Einsatz von Fertigkeiten wechselt er zwischen Standard- und Kombo-Haltung. Grundangriffe profitieren nicht von Gegenstandseffekten und Angriffstempo, letzteres erhöht dafür die Energieerzeugung.",
+            "PassiveName": "Standhaft"
         },
         {
             "Name": "Kukulkan",
@@ -8965,7 +9032,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Erhöht die magische Kraft um 4% des maximalen Manas."
+            "Passive": "Erhöht die magische Kraft um 4% des maximalen Manas.",
+            "PassiveName": "Kraft des Windjuwels"
         },
         {
             "Name": "Kumbhakarna",
@@ -8993,7 +9061,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.5,
-            "Passive": "Kumbhakarna stirbt nicht, wenn seine Gesundheit auf 0 fällt, sondern schläft stattdessen ein. Er wacht nach 8s mit 35% Gesundheit und Mana wieder auf, sofern er nicht bis dahin von 6 Grundangriffen (+1 alle 5 Stufen) getroffen wurde. Diese passive Fertigkeit hat eine Abklingzeit von 120s"
+            "Passive": "Kumbhakarna stirbt nicht, wenn seine Gesundheit auf 0 fällt, sondern schläft stattdessen ein. Er wacht nach 8s mit 35% Gesundheit und Mana wieder auf, sofern er nicht bis dahin von 6 Grundangriffen (+1 alle 5 Stufen) getroffen wurde. Diese passive Fertigkeit hat eine Abklingzeit von 120s",
+            "PassiveName": "Schläfrig"
         },
         {
             "Name": "Kuzenbo",
@@ -9021,7 +9090,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.5,
-            "Passive": "Erleidet Kuzenbo über 2% seiner maximalen Gesundheit an Schaden, füllt sich die Wasserschale auf seinem Kopf und er erhält Schadensminderung (max. 10 Stapel). Stapel halten 30s und werden mit jedem neuen erneuert. Wird er von echten starken CC-Effekten getroffen, verliert er die Hälfte der Stapel. Kuzenbo verliert so höchstens alle 1,5s Stapel."
+            "Passive": "Erleidet Kuzenbo über 2% seiner maximalen Gesundheit an Schaden, füllt sich die Wasserschale auf seinem Kopf und er erhält Schadensminderung (max. 10 Stapel). Stapel halten 30s und werden mit jedem neuen erneuert. Wird er von echten starken CC-Effekten getroffen, verliert er die Hälfte der Stapel. Kuzenbo verliert so höchstens alle 1,5s Stapel.",
+            "PassiveName": "Wasserschale"
         },
         {
             "Name": "Lancelot",
@@ -9049,7 +9119,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": "Lancelot erhält pro Kill/Unterstützung und für je 5 getötete Diener einen Stapel, bis zu einem Maximum von 60.\nStapel erhöhen sein Reittempo und reduzieren den durch Grundangriffe erlittenen Schaden, wenn er nicht im Sattel sitzt."
+            "Passive": "Lancelot erhält pro Kill/Unterstützung und für je 5 getötete Diener einen Stapel, bis zu einem Maximum von 60.\nStapel erhöhen sein Reittempo und reduzieren den durch Grundangriffe erlittenen Schaden, wenn er nicht im Sattel sitzt.",
+            "PassiveName": "Camelots Auftrag"
         },
         {
             "Name": "Loki",
@@ -9077,7 +9148,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.1,
-            "Passive": "Loki verursacht mit seinem Grundangriff mehr Schaden, wenn er Gegner von hinten angreift. Seine Grundangriffe besitzen zudem eine fünfstufige Entwicklung."
+            "Passive": "Loki verursacht mit seinem Grundangriff mehr Schaden, wenn er Gegner von hinten angreift. Seine Grundangriffe besitzen zudem eine fünfstufige Entwicklung.",
+            "PassiveName": "Hinter dir!"
         },
         {
             "Name": "Maui",
@@ -9105,7 +9177,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.5,
-            "Passive": "Wird ein gegnerischer Gott in Mauis Nähe von einem starken CC-Effekt getroffen, wird er für die Dauer des Effekts und 2s danach markiert. Trifft Maui einen markierten Gott mit einem Grundangriff, wird sein nächster Grundangriff verstärkt und kann Gegner zu ihm ziehen. Kann nur einmal alle 10s ausgelöst werden."
+            "Passive": "Wird ein gegnerischer Gott in Mauis Nähe von einem starken CC-Effekt getroffen, wird er für die Dauer des Effekts und 2s danach markiert. Trifft Maui einen markierten Gott mit einem Grundangriff, wird sein nächster Grundangriff verstärkt und kann Gegner zu ihm ziehen. Kann nur einmal alle 10s ausgelöst werden.",
+            "PassiveName": "Manaiakalani"
         },
         {
             "Name": "Medusa",
@@ -9133,7 +9206,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Medusa erhält keine Bewegungseinschränkung, wenn sie sich seitlich bewegt und nur 50% der Einschränkung, wenn sie sich rückwärts bewegt."
+            "Passive": "Medusa erhält keine Bewegungseinschränkung, wenn sie sich seitlich bewegt und nur 50% der Einschränkung, wenn sie sich rückwärts bewegt.",
+            "PassiveName": "Seitenwinder"
         },
         {
             "Name": "Merkur",
@@ -9161,7 +9235,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": "Für jede Einheit, die er zurücklegt, erhält Merkur 0,06% Bonus auf die physische Kraft für seinen nächsten Grundangriff (maximal 30%). \n\nMerkur erhält zusätzlich 25% des Lauftempos durch Gegenstände oder Fertigkeiten als physische Kraft."
+            "Passive": "Für jede Einheit, die er zurücklegt, erhält Merkur 0,06% Bonus auf die physische Kraft für seinen nächsten Grundangriff (maximal 30%). \n\nMerkur erhält zusätzlich 25% des Lauftempos durch Gegenstände oder Fertigkeiten als physische Kraft.",
+            "PassiveName": "Schnellster Gott der Welt"
         },
         {
             "Name": "Merlin",
@@ -9189,7 +9264,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 14,
             "PhysProtPL": 3.2,
-            "Passive": "Jedes Mal, wenn Merlin eine Fertigkeit einsetzt, erhält einer einen Stapel Überladung. Sein nächster Grundangriff wird durch einen Blitz verstärkt und fügt dem ersten getroffenen Gegner Bonusschaden zu."
+            "Passive": "Jedes Mal, wenn Merlin eine Fertigkeit einsetzt, erhält einer einen Stapel Überladung. Sein nächster Grundangriff wird durch einen Blitz verstärkt und fügt dem ersten getroffenen Gegner Bonusschaden zu.",
+            "PassiveName": "Überladung"
         },
         {
             "Name": "Morgan Le Fay",
@@ -9217,7 +9293,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.2,
-            "Passive": "Morgan Le Fays Fertigkeiten markieren gegnerische Götter und aktivieren das zugehörige Symbol auf ihrem Schwert, wodurch sie magische Kraft erhält. Hat ihr Schwert alle 5 Symbole, wird die zusätzliche Kraft verdoppelt, die Abklingzeit von Verzehrende Kraft um 10s reduziert und die Symbole werden zurückgesetzt."
+            "Passive": "Morgan Le Fays Fertigkeiten markieren gegnerische Götter und aktivieren das zugehörige Symbol auf ihrem Schwert, wodurch sie magische Kraft erhält. Hat ihr Schwert alle 5 Symbole, wird die zusätzliche Kraft verdoppelt, die Abklingzeit von Verzehrende Kraft um 10s reduziert und die Symbole werden zurückgesetzt.",
+            "PassiveName": "Gestärkte Klinge"
         },
         {
             "Name": "Mulan",
@@ -9245,7 +9322,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Mulan steigert ihr Geschick im Umgang mit ihren Waffen (Schwert, Speer, Bogen), indem sie Gegnern mit ihren Fertigkeiten Schaden zufügt. Durch höhere Kompetenz mit einer Waffe erhält sie verschiedene Boni. Außerdem erhält Mulan alle 10s einen Buff, der die Abklingzeit der nächsten Basisfertigkeit um 2s reduziert."
+            "Passive": "Mulan steigert ihr Geschick im Umgang mit ihren Waffen (Schwert, Speer, Bogen), indem sie Gegnern mit ihren Fertigkeiten Schaden zufügt. Durch höhere Kompetenz mit einer Waffe erhält sie verschiedene Boni. Außerdem erhält Mulan alle 10s einen Buff, der die Abklingzeit der nächsten Basisfertigkeit um 2s reduziert.",
+            "PassiveName": "Trainingsplan"
         },
         {
             "Name": "Ne Zha",
@@ -9273,7 +9351,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": "Ne Zhas Geist wird gestärkt, wenn er Gegner mit Fertigkeiten und Grundangriffen trifft. Jeder Treffer gewährt 1 Stapel und jeder kritische Treffer gewährt 2. Die Stapel werden zurückgesetzt, falls Ne Zha 12s lang keinen Schaden erlitten oder verursacht hat."
+            "Passive": "Ne Zhas Geist wird gestärkt, wenn er Gegner mit Fertigkeiten und Grundangriffen trifft. Jeder Treffer gewährt 1 Stapel und jeder kritische Treffer gewährt 2. Die Stapel werden zurückgesetzt, falls Ne Zha 12s lang keinen Schaden erlitten oder verursacht hat.",
+            "PassiveName": "Rechtschaffener Geist"
         },
         {
             "Name": "Neith",
@@ -9301,7 +9380,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Ein Zerbrochenes Gewebe erscheint am letzten Ort, an dem ein gegnerischer Gott gestorben ist. Das Zerbrochene Gewebe verleiht deinen Fertigkeiten zusätzliche Effekte, wenn sie auf Zerbrochene Gewebe gewirkt werden. Die Gewebe bleiben 2 Minuten lang bestehen."
+            "Passive": "Ein Zerbrochenes Gewebe erscheint am letzten Ort, an dem ein gegnerischer Gott gestorben ist. Das Zerbrochene Gewebe verleiht deinen Fertigkeiten zusätzliche Effekte, wenn sie auf Zerbrochene Gewebe gewirkt werden. Die Gewebe bleiben 2 Minuten lang bestehen.",
+            "PassiveName": "Zerbrochenes Gewebe"
         },
         {
             "Name": "Nemesis",
@@ -9329,7 +9409,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3.2,
-            "Passive": "Nemesis trägt die Waage der Balance. Wenn Gegner mit Grundangriffen getroffen werden, kippt die Waage zu ihren Gunsten und verringert die physische und magische Kraft des Ziels, während sie ihre eigene erhöht (stapelbar)."
+            "Passive": "Nemesis trägt die Waage der Balance. Wenn Gegner mit Grundangriffen getroffen werden, kippt die Waage zu ihren Gunsten und verringert die physische und magische Kraft des Ziels, während sie ihre eigene erhöht (stapelbar).",
+            "PassiveName": "Waage des Schicksals"
         },
         {
             "Name": "Nike",
@@ -9357,7 +9438,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 21,
             "PhysProtPL": 3.2,
-            "Passive": "Nike legt drei Ziele fest, die das Team erreichen kann, um stärker zu werden. Wird ein Ziel erreicht, erhält Nikes Team einen Lorbeerkranz, der Kraft und Lauftempo steigert. Dieser Lorbeerkranz kann bis zu dreimal verstärkt werden."
+            "Passive": "Nike legt drei Ziele fest, die das Team erreichen kann, um stärker zu werden. Wird ein Ziel erreicht, erhält Nikes Team einen Lorbeerkranz, der Kraft und Lauftempo steigert. Dieser Lorbeerkranz kann bis zu dreimal verstärkt werden.",
+            "PassiveName": "Auf zum Sieg!"
         },
         {
             "Name": "Nox",
@@ -9385,7 +9467,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 2.8,
-            "Passive": "Die Kerzen von Nox sammeln Energie von allen Fertigkeiten, die sie verwendet. Für jede eingesetzte Fertigkeit entzündet sie eine Kerze. Für jede angezündete Kerze erhält Nox +3% magische Kraft. Eine Kerze wird ausgeblasen, wenn ein gegnerischer Gott Nox Schaden zufügt."
+            "Passive": "Die Kerzen von Nox sammeln Energie von allen Fertigkeiten, die sie verwendet. Für jede eingesetzte Fertigkeit entzündet sie eine Kerze. Für jede angezündete Kerze erhält Nox +3% magische Kraft. Eine Kerze wird ausgeblasen, wenn ein gegnerischer Gott Nox Schaden zufügt.",
+            "PassiveName": "Flamme der Nacht"
         },
         {
             "Name": "Nü Wa",
@@ -9413,7 +9496,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "Nach 5 erfolgreichen Grundangriffen verwurzelt Nü Was nächster Grundangriff Gegner."
+            "Passive": "Nach 5 erfolgreichen Grundangriffen verwurzelt Nü Was nächster Grundangriff Gegner.",
+            "PassiveName": "Stärke von Holz"
         },
         {
             "Name": "Odin",
@@ -9441,7 +9525,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
             "PhysProtPL": 3.2,
-            "Passive": "Odin wird gestärkt, während er gefallene Krieger nach Walhalla eskortiert. Wenn ein Gott auf dem Schlachtfeld stirbt, erhält Odin einen Bonus auf Lauftempo und Kraft. Dieser Effekt kann bis zu 5-fach gestapelt werden."
+            "Passive": "Odin wird gestärkt, während er gefallene Krieger nach Walhalla eskortiert. Wenn ein Gott auf dem Schlachtfeld stirbt, erhält Odin einen Bonus auf Lauftempo und Kraft. Dieser Effekt kann bis zu 5-fach gestapelt werden.",
+            "PassiveName": "Weg nach Walhalla"
         },
         {
             "Name": "Olorun",
@@ -9469,7 +9554,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Sobald Olorun 150 magische Kraft durch Gegenstände erreicht, erhält er 15% kritische Trefferchance sowie zusätzliche 1% für je 10 magische Kraft durch Gegenstände.\nOloruns kritische Treffer verursachen nur 50% mehr Schaden.\nDer Skalierungsbonus für seine Grundangriffe ist zudem 5% höher."
+            "Passive": "Sobald Olorun 150 magische Kraft durch Gegenstände erreicht, erhält er 15% kritische Trefferchance sowie zusätzliche 1% für je 10 magische Kraft durch Gegenstände.\nOloruns kritische Treffer verursachen nur 50% mehr Schaden.\nDer Skalierungsbonus für seine Grundangriffe ist zudem 5% höher.",
+            "PassiveName": "Berührung des Schicksals"
         },
         {
             "Name": "Osiris",
@@ -9497,7 +9583,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
             "PhysProtPL": 3.2,
-            "Passive": "Setzt Osiris eine Fertigkeit ein, verbrennt ein Teil seines Körpers und er erleidet weniger Schaden. Hat er 8 Teile verloren, wird er zu seiner Geisterform. Er kann sich durch Gegner und Blockaden bewegen und seine Grundangriffe ziehen keine Bewegungseinschränkungen nach sich. Hält für 6 erfolgreiche Grundangriffe an."
+            "Passive": "Setzt Osiris eine Fertigkeit ein, verbrennt ein Teil seines Körpers und er erleidet weniger Schaden. Hat er 8 Teile verloren, wird er zu seiner Geisterform. Er kann sich durch Gegner und Blockaden bewegen und seine Grundangriffe ziehen keine Bewegungseinschränkungen nach sich. Hält für 6 erfolgreiche Grundangriffe an.",
+            "PassiveName": "Zersplittert"
         },
         {
             "Name": "Pele",
@@ -9525,7 +9612,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": "Fällt Pele unter 50% Gesundheit, entzündet sich ihre Flamme und sie erhält erhöhte physische Kraft, Lebensraub und Lebensraub durch Fertigkeiten. Diese passive Fertigkeit besitzt eine Abklingzeit von 30 Sekunden."
+            "Passive": "Fällt Pele unter 50% Gesundheit, entzündet sich ihre Flamme und sie erhält erhöhte physische Kraft, Lebensraub und Lebensraub durch Fertigkeiten. Diese passive Fertigkeit besitzt eine Abklingzeit von 30 Sekunden.",
+            "PassiveName": "Ewige Flamme"
         },
         {
             "Name": "Persephone",
@@ -9553,7 +9641,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.9,
-            "Passive": "Persephone sammelt Granatapfelsamen, wenn ihre Schädelpflanzen verwelken. Wird sie getötet, kann sie kurzfristig eine andere Realitätsebene betreten und 6 Schädelsamen einpflanzen, die aufblühen, sobald sie respawnt. Granatapfelsamen werden im Brunnen für 3 Gold verkauft. Maximal 100 Samen."
+            "Passive": "Persephone sammelt Granatapfelsamen, wenn ihre Schädelpflanzen verwelken. Wird sie getötet, kann sie kurzfristig eine andere Realitätsebene betreten und 6 Schädelsamen einpflanzen, die aufblühen, sobald sie respawnt. Granatapfelsamen werden im Brunnen für 3 Gold verkauft. Maximal 100 Samen.",
+            "PassiveName": "Granatapfelsamen"
         },
         {
             "Name": "Poseidon",
@@ -9581,7 +9670,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 11.2,
             "PhysProtPL": 2.8,
-            "Passive": "Poseidons Lauftempo sowie der Schaden seiner Fertigkeiten erhöhen sich mit dem Wasserstand. Treffer mit Grundangriffen erhöhen den Wasserstand, die Nutzung von Fertigkeiten verringert ihn."
+            "Passive": "Poseidons Lauftempo sowie der Schaden seiner Fertigkeiten erhöhen sich mit dem Wasserstand. Treffer mit Grundangriffen erhöhen den Wasserstand, die Nutzung von Fertigkeiten verringert ihn.",
+            "PassiveName": "Gezeitenwechsel"
         },
         {
             "Name": "Ra",
@@ -9609,7 +9699,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 14,
             "PhysProtPL": 3.2,
-            "Passive": "Jedes Mal, wenn Ra eine Fertigkeit benutzt, wird sein Lauftempo erhöht."
+            "Passive": "Jedes Mal, wenn Ra eine Fertigkeit benutzt, wird sein Lauftempo erhöht.",
+            "PassiveName": "Lichtgeschwindigkeit"
         },
         {
             "Name": "Raijin",
@@ -9637,7 +9728,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 3.3,
-            "Passive": "Immer wenn 5 Fertigkeiten eingesetzt wurden, verringert Raijin die Abklingzeit aller aktuell abklingenden Fertigkeiten (einschließlich der zuletzt ausgeführten) um 2s. Zudem haben Raijins Grundangriffe einen größeren Radius (+2)."
+            "Passive": "Immer wenn 5 Fertigkeiten eingesetzt wurden, verringert Raijin die Abklingzeit aller aktuell abklingenden Fertigkeiten (einschließlich der zuletzt ausgeführten) um 2s. Zudem haben Raijins Grundangriffe einen größeren Radius (+2).",
+            "PassiveName": "Geladenes Tempo"
         },
         {
             "Name": "Rama",
@@ -9665,7 +9757,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3,
-            "Passive": "Ramas Köcher erzeugt alle 12s einen Astralpfeil. Jeder Treffer mit einem Grundangriff reduziert diese Dauer um 2s. Der erste Astralpfeil, der einen Gegner trifft, besitzt eine Chance, auf dem Boden liegenzubleiben. Wird er anschließend aufgesammelt, werden 10 Mana regeneriert."
+            "Passive": "Ramas Köcher erzeugt alle 12s einen Astralpfeil. Jeder Treffer mit einem Grundangriff reduziert diese Dauer um 2s. Der erste Astralpfeil, der einen Gegner trifft, besitzt eine Chance, auf dem Boden liegenzubleiben. Wird er anschließend aufgesammelt, werden 10 Mana regeneriert.",
+            "PassiveName": "Astraler Köcher"
         },
         {
             "Name": "Ratatoskr",
@@ -9693,7 +9786,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Ratatoskr besitzt eine mächtige Eichel vom Weltenbaum, die einen Platz im Inventar einnimmt. Er kann die Eichel von überall auf der Karte über den Item-Shop aufwerten. Jede der verfügbaren Aufwertungen gewährt Ratatoskr unterschiedliche Boni."
+            "Passive": "Ratatoskr besitzt eine mächtige Eichel vom Weltenbaum, die einen Platz im Inventar einnimmt. Er kann die Eichel von überall auf der Karte über den Item-Shop aufwerten. Jede der verfügbaren Aufwertungen gewährt Ratatoskr unterschiedliche Boni.",
+            "PassiveName": "Eichel von Yggdrasil"
         },
         {
             "Name": "Ravana",
@@ -9721,7 +9815,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.1,
-            "Passive": "Erfolgreiche Grundangriffe und Fertigkeiten gegen einen Gegner ergänzen Ravanas Combo-Kette. Immer wenn seine Kette 8 erreicht, erhält er einen Schild, der 7% seiner maximalen Gesundheit entspricht, sowie 3% Lauftempo. Kann bis zu 3-fach gestapelt werden."
+            "Passive": "Erfolgreiche Grundangriffe und Fertigkeiten gegen einen Gegner ergänzen Ravanas Combo-Kette. Immer wenn seine Kette 8 erreicht, erhält er einen Schild, der 7% seiner maximalen Gesundheit entspricht, sowie 3% Lauftempo. Kann bis zu 3-fach gestapelt werden.",
+            "PassiveName": "Kettenstöße"
         },
         {
             "Name": "Skylla",
@@ -9749,7 +9844,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": "Jede von Skyllas Fertigkeiten gewinnt auf der höchsten Stufe einen zusätzlichen Effekt hinzu. Außerdem erhält Skylla 25 magische Kraft für jede Fertigkeit, die die maximale Stufe erreicht hat."
+            "Passive": "Jede von Skyllas Fertigkeiten gewinnt auf der höchsten Stufe einen zusätzlichen Effekt hinzu. Außerdem erhält Skylla 25 magische Kraft für jede Fertigkeit, die die maximale Stufe erreicht hat.",
+            "PassiveName": "Schnelllerner"
         },
         {
             "Name": "Serqet",
@@ -9777,7 +9873,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": "Verursacht Serqet mit Grundangriffen Schaden, wird Katalysator aktiviert und verbraucht die schlummernden Gifte von Todeskraut und Kuss der Kobra. Ist das Ziel von zwei oder drei verschiedenen Giften betroffen, erleidet es zusätzlichen Schaden."
+            "Passive": "Verursacht Serqet mit Grundangriffen Schaden, wird Katalysator aktiviert und verbraucht die schlummernden Gifte von Todeskraut und Kuss der Kobra. Ist das Ziel von zwei oder drei verschiedenen Giften betroffen, erleidet es zusätzlichen Schaden.",
+            "PassiveName": "Katalysator"
         },
         {
             "Name": "Seth",
@@ -9805,7 +9902,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.1,
-            "Passive": "Jedes Mal, wenn Seth einem Gegner Schaden zufügt, erhält er einen Unbarmherzig-Stapel. Fügt er Horus Schaden zu, erhält er 2 Stapel. Stapel erhöhen Seths Angriffstempo. Ist Königsmörder aktiv, ist die maximale Stapelanzahl unbegrenzt, sonst liegt sie bei 10 Stapeln für 6s."
+            "Passive": "Jedes Mal, wenn Seth einem Gegner Schaden zufügt, erhält er einen Unbarmherzig-Stapel. Fügt er Horus Schaden zu, erhält er 2 Stapel. Stapel erhöhen Seths Angriffstempo. Ist Königsmörder aktiv, ist die maximale Stapelanzahl unbegrenzt, sonst liegt sie bei 10 Stapeln für 6s.",
+            "PassiveName": "Unbarmherzig"
         },
         {
             "Name": "Shiva",
@@ -9833,7 +9931,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
             "PhysProtPL": 3.2,
-            "Passive": "Shiva wechselt zwischen Glückseligkeit und Zerstörung, indem er gegnerischen Göttern Schaden zufügt. Beide Zustände geben ihm und Verbündeten Buffs und Gegnern Debuffs. Beim Wechsel werden laufende Abklingzeiten von Basisfertigkeiten um 2s reduziert."
+            "Passive": "Shiva wechselt zwischen Glückseligkeit und Zerstörung, indem er gegnerischen Göttern Schaden zufügt. Beide Zustände geben ihm und Verbündeten Buffs und Gegnern Debuffs. Beim Wechsel werden laufende Abklingzeiten von Basisfertigkeiten um 2s reduziert.",
+            "PassiveName": "Samsara"
         },
         {
             "Name": "Skadi",
@@ -9861,7 +9960,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
             "PhysProtPL": 3,
-            "Passive": "Kaldr hat 2 Formen: Bestie und Elementar. Als Bestie kann er Gegner angreifen und angegriffen werden. Als Elementar ist er immun gegen Angriffe und regeneriert alle 4s einen Lebenspunkt. Bei 0 LP wechselt er zur Elementarform. Skadis physische Kraft ist um 10% erhöht, solange Kaldr 0 LP hat."
+            "Passive": "Kaldr hat 2 Formen: Bestie und Elementar. Als Bestie kann er Gegner angreifen und angegriffen werden. Als Elementar ist er immun gegen Angriffe und regeneriert alle 4s einen Lebenspunkt. Bei 0 LP wechselt er zur Elementarform. Skadis physische Kraft ist um 10% erhöht, solange Kaldr 0 LP hat.",
+            "PassiveName": "Kaldr, der Winterwolf"
         },
         {
             "Name": "Sobek",
@@ -9889,7 +9989,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Sobeks Grundangriffe und Fertigkeiten, die einen Gegner treffen, gewähren ihm für kurze Zeit Schutz."
+            "Passive": "Sobeks Grundangriffe und Fertigkeiten, die einen Gegner treffen, gewähren ihm für kurze Zeit Schutz.",
+            "PassiveName": "Segen des Nils"
         },
         {
             "Name": "Sol",
@@ -9917,7 +10018,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": "Sol sammelt durch die Aktivierung von Fertigkeiten und durch Treffer mit Grundangriffen Hitze. Sol erhält +1% magische Kraft sowie +1,2% Angriffstempo für je 4% Hitze. Wenn die Hitze 100% erreicht, erhalten Sols Grundangriffe +15% Schaden. Hitze lässt mit der Zeit nach."
+            "Passive": "Sol sammelt durch die Aktivierung von Fertigkeiten und durch Treffer mit Grundangriffen Hitze. Sol erhält +1% magische Kraft sowie +1,2% Angriffstempo für je 4% Hitze. Wenn die Hitze 100% erreicht, erhalten Sols Grundangriffe +15% Schaden. Hitze lässt mit der Zeit nach.",
+            "PassiveName": "Instabile Manifestation"
         },
         {
             "Name": "Sun Wukong",
@@ -9945,7 +10047,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Wenn Sun Wukong weniger als 50% Gesundheit hat, erhält er +10 physische Kraft und +10 Schutz sowie zusätzlich +2 physische Kraft und +2 Schutz pro Stufe. Falls Sun Wukong während Unbesiegter Körper wieder 50% Gesundheit überschreitet, behält er den Buff für trotzdem für weitere 12s."
+            "Passive": "Wenn Sun Wukong weniger als 50% Gesundheit hat, erhält er +10 physische Kraft und +10 Schutz sowie zusätzlich +2 physische Kraft und +2 Schutz pro Stufe. Falls Sun Wukong während Unbesiegter Körper wieder 50% Gesundheit überschreitet, behält er den Buff für trotzdem für weitere 12s.",
+            "PassiveName": "Unbesiegter Körper"
         },
         {
             "Name": "Surtr",
@@ -9973,7 +10076,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Surtrs Fleisch zerfällt in Fragmente, wenn er genug Gesundheit verliert. Er kann sie aufsammeln, um über 3s einen Anteil seiner maximalen Gesundheit wieder zu heilen und Schutz zu erhalten (bis zu 3 Stapel). Gegner können die Fragmente zerstören, indem sie sie berühren."
+            "Passive": "Surtrs Fleisch zerfällt in Fragmente, wenn er genug Gesundheit verliert. Er kann sie aufsammeln, um über 3s einen Anteil seiner maximalen Gesundheit wieder zu heilen und Schutz zu erhalten (bis zu 3 Stapel). Gegner können die Fragmente zerstören, indem sie sie berühren.",
+            "PassiveName": "Obsidianfleisch"
         },
         {
             "Name": "Susano",
@@ -10001,7 +10105,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": "Jedes Mal, wenn Susano mindestens einem gegnerischen Gott mit einer Fertigkeit Schaden zufügt, erhält er einen Stapel. Bei vier Stapeln verursacht seine nächste Fertigkeit innerhalb von 5s, die einen gegnerischen Gott trifft, Bonusschaden."
+            "Passive": "Jedes Mal, wenn Susano mindestens einem gegnerischen Gott mit einer Fertigkeit Schaden zufügt, erhält er einen Stapel. Bei vier Stapeln verursacht seine nächste Fertigkeit innerhalb von 5s, die einen gegnerischen Gott trifft, Bonusschaden.",
+            "PassiveName": "Aufziehender Sturm"
         },
         {
             "Name": "Silvanus",
@@ -10029,7 +10134,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Immer wenn Silvanus mit einer Fertigkeit einen Treffer landet oder einen Setzling platziert, erscheint eine Samenschote. Sammelt er sie auf, werden 2,5% seines Manas regeneriert und alle Abklingzeiten um 0,5s reduziert (1s ab Stufe 15)."
+            "Passive": "Immer wenn Silvanus mit einer Fertigkeit einen Treffer landet oder einen Setzling platziert, erscheint eine Samenschote. Sammelt er sie auf, werden 2,5% seines Manas regeneriert und alle Abklingzeiten um 0,5s reduziert (1s ab Stufe 15).",
+            "PassiveName": "Geschenk der Natur"
         },
         {
             "Name": "Terra",
@@ -10057,7 +10163,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 28,
             "PhysProtPL": 3.5,
-            "Passive": "Terras Fertigkeiten erzeugen Menhire. Solange sich Menhire auf dem Schlachtfeld befinden, kann Terra nicht in die Luft geschleudert werden und ihre Grundangriffe verlangsamen Gegner, verursachen Bonusschaden (löst keine Gegenstandseffekte aus) und treffen alle Gegner in Nahkampfreichweite. Wenn Terra ihre Menhire zerschmettert, bleibt der Buff danach noch 3s lang aktiv."
+            "Passive": "Terras Fertigkeiten erzeugen Menhire. Solange sich Menhire auf dem Schlachtfeld befinden, kann Terra nicht in die Luft geschleudert werden und ihre Grundangriffe verlangsamen Gegner, verursachen Bonusschaden (löst keine Gegenstandseffekte aus) und treffen alle Gegner in Nahkampfreichweite. Wenn Terra ihre Menhire zerschmettert, bleibt der Buff danach noch 3s lang aktiv.",
+            "PassiveName": "Menhire"
         },
         {
             "Name": "Thanatos",
@@ -10085,7 +10192,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": "Gegner, die Thanatos mit seiner Überkraft direkt hinrichten kann, werden ihm angezeigt. Todesstöße gewähren ihm außerdem Heilung basierend auf den max. HP des Ziels und reduzieren laufende Abklingzeiten. Die Verwendung von Fertigkeiten kostet Thanatos dafür neben Mana auch HP."
+            "Passive": "Gegner, die Thanatos mit seiner Überkraft direkt hinrichten kann, werden ihm angezeigt. Todesstöße gewähren ihm außerdem Heilung basierend auf den max. HP des Ziels und reduzieren laufende Abklingzeiten. Die Verwendung von Fertigkeiten kostet Thanatos dafür neben Mana auch HP.",
+            "PassiveName": "Seelenernte"
         },
         {
             "Name": "Morrigan",
@@ -10113,7 +10221,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Der dritte Treffer von Morrigans Trefferfolge explodiert, fügt allen Gegnern in Reichweite Schaden zu und verdammt sie. Verdammte Gegner erleiden zusätzlichen Grundangriffsschaden über Zeit."
+            "Passive": "Der dritte Treffer von Morrigans Trefferfolge explodiert, fügt allen Gegnern in Reichweite Schaden zu und verdammt sie. Verdammte Gegner erleiden zusätzlichen Grundangriffsschaden über Zeit.",
+            "PassiveName": "Schwarzseherin"
         },
         {
             "Name": "Thor",
@@ -10141,7 +10250,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
             "PhysProtPL": 3.1,
-            "Passive": "Thor erhält physische Kraft für jeden gegnerischen Gott im Umkreis von 55 Einheiten."
+            "Passive": "Thor erhält physische Kraft für jeden gegnerischen Gott im Umkreis von 55 Einheiten.",
+            "PassiveName": "Kriegerwahnsinn"
         },
         {
             "Name": "Thoth",
@@ -10169,7 +10279,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
             "PhysProtPL": 2.8,
-            "Passive": "Thoth schreibt die Namen gefallener Gegner in sein Buch und hält ihre Schwächen fest. Nach 20 getöteten Gegnern erhält Thoth einen Stapel von 3 magischer Durchdringung. Das Töten eines gegnerischen Gottes komplettiert den aktuellen Stapel. Er schaltet alle 4 Stufen einen neuen Stapel frei, bis zu 5 Stapeln auf Stufe 17."
+            "Passive": "Thoth schreibt die Namen gefallener Gegner in sein Buch und hält ihre Schwächen fest. Nach 20 getöteten Gegnern erhält Thoth einen Stapel von 3 magischer Durchdringung. Das Töten eines gegnerischen Gottes komplettiert den aktuellen Stapel. Er schaltet alle 4 Stufen einen neuen Stapel frei, bis zu 5 Stapeln auf Stufe 17.",
+            "PassiveName": "Abrechnung des Todes"
         },
         {
             "Name": "Tiamat",
@@ -10197,7 +10308,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 2.9,
-            "Passive": "In Flughaltung wird Tiamat geheilt, wenn in der Nähe Verbündete oder Gegner sterben (reduziert für Diener). In Bodenhaltung erhält sie dafür bis zu 5 Gehärtete Schuppen, welche Schadensminderung gewähren, bis eine bestimmte Menge Schaden erlitten wurde. Normale Diener gewähren keine Gehärteten Schuppen."
+            "Passive": "In Flughaltung wird Tiamat geheilt, wenn in der Nähe Verbündete oder Gegner sterben (reduziert für Diener). In Bodenhaltung erhält sie dafür bis zu 5 Gehärtete Schuppen, welche Schadensminderung gewähren, bis eine bestimmte Menge Schaden erlitten wurde. Normale Diener gewähren keine Gehärteten Schuppen.",
+            "PassiveName": "Der Tod bringt Leben"
         },
         {
             "Name": "Tsukuyomi",
@@ -10225,7 +10337,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3,
-            "Passive": "Tsukuyomi trägt Shingetsu in seiner linken Hand und Mangetsu in seiner rechten. Verursachen diese Waffen Schaden, werden sie verstärkt. <font color='#b18cd9'>Shingetsu verursacht dann Flächenschaden in Höhe von 50% des normalen Schadens und stellt Mana wieder her.</font> <font color='#DFEAFA'>Mangetsu verursacht Bonusschaden und stellt Gesundheit wieder her.</font>"
+            "Passive": "Tsukuyomi trägt Shingetsu in seiner linken Hand und Mangetsu in seiner rechten. Verursachen diese Waffen Schaden, werden sie verstärkt. <font color='#b18cd9'>Shingetsu verursacht dann Flächenschaden in Höhe von 50% des normalen Schadens und stellt Mana wieder her.</font> <font color='#DFEAFA'>Mangetsu verursacht Bonusschaden und stellt Gesundheit wieder her.</font>",
+            "PassiveName": "Shingetsu & Mangetsu"
         },
         {
             "Name": "Tyr",
@@ -10253,7 +10366,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.2,
-            "Passive": "Tyr kann nicht länger als 1s von Betäubungen, Verspottungen, Verängstigungen, Berauschen und Hypnose betroffen sein."
+            "Passive": "Tyr kann nicht länger als 1s von Betäubungen, Verspottungen, Verängstigungen, Berauschen und Hypnose betroffen sein.",
+            "PassiveName": "Unnachgiebig"
         },
         {
             "Name": "Ullr",
@@ -10281,7 +10395,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Wenn Ullr in einer seiner Haltungen eine Fertigkeit einsetzt, reduzieren sich die Abklingzeiten in seiner anderen Haltung."
+            "Passive": "Wenn Ullr in einer seiner Haltungen eine Fertigkeit einsetzt, reduzieren sich die Abklingzeiten in seiner anderen Haltung.",
+            "PassiveName": "Waffenmeister"
         },
         {
             "Name": "Vamana",
@@ -10309,7 +10424,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
             "PhysProtPL": 3.1,
-            "Passive": "Ein Anteil von Vamanas physischem Schutz wird in physische Kraft und Angriffstempo umgewandelt."
+            "Passive": "Ein Anteil von Vamanas physischem Schutz wird in physische Kraft und Angriffstempo umgewandelt.",
+            "PassiveName": "Schlafender Riese"
         },
         {
             "Name": "Vulcanus",
@@ -10337,7 +10453,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
             "PhysProtPL": 3.2,
-            "Passive": "Wenn Vulcanus einen gegnerischen Gott mit einer Fertigkeit trifft, erhält er 5s lang Boni auf Lauftempo und MP5."
+            "Passive": "Wenn Vulcanus einen gegnerischen Gott mit einer Fertigkeit trifft, erhält er 5s lang Boni auf Lauftempo und MP5.",
+            "PassiveName": "Handwerksmeister"
         },
         {
             "Name": "Xbalanque",
@@ -10365,7 +10482,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.1,
-            "Passive": "Fügt Xbalanque gegnerischen Göttern Schaden zu, erhält er Stapel Tiefster Nacht, die seine physische Kraft permanent erhöhen. Pro 1500 verursachtem Schaden (nach Minderung) erhält Xbalanque einen Stapel (maximal 6 Stapel)."
+            "Passive": "Fügt Xbalanque gegnerischen Göttern Schaden zu, erhält er Stapel Tiefster Nacht, die seine physische Kraft permanent erhöhen. Pro 1500 verursachtem Schaden (nach Minderung) erhält Xbalanque einen Stapel (maximal 6 Stapel).",
+            "PassiveName": "Tiefste Nacht"
         },
         {
             "Name": "Xing Tian",
@@ -10393,7 +10511,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
             "PhysProtPL": 3.7,
-            "Passive": "Xing Tian erhält jedes Mal Stapel von Schwelende Wut, wenn er einen Gegner mit einer Fertigkeit trifft. Für jeden Stapel Wut erhält Xing Tian HP5.\n\nStapel bleiben für 18s bestehen."
+            "Passive": "Xing Tian erhält jedes Mal Stapel von Schwelende Wut, wenn er einen Gegner mit einer Fertigkeit trifft. Für jeden Stapel Wut erhält Xing Tian HP5.\n\nStapel bleiben für 18s bestehen.",
+            "PassiveName": "Schwelende Wut"
         },
         {
             "Name": "Yemoja",
@@ -10421,7 +10540,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
             "PhysProtPL": 3.2,
-            "Passive": "Statt Mana verwendet Yemoja Omí. Sie startet mit 7 Omí und kann insgesamt 10 erhalten. Alle 5s regeneriert sie 1 Omí. Abklingzeitreduktion erhöht für Yemoja die Omí-Regeneration. Die Heilung durch Grundangriffe betrifft nur Götter und löst keine Gegenstandseffekte aus. Mana, MP5 und Manaregeneration wirken sich stattdessen auf ihre Gesundheit aus."
+            "Passive": "Statt Mana verwendet Yemoja Omí. Sie startet mit 7 Omí und kann insgesamt 10 erhalten. Alle 5s regeneriert sie 1 Omí. Abklingzeitreduktion erhöht für Yemoja die Omí-Regeneration. Die Heilung durch Grundangriffe betrifft nur Götter und löst keine Gegenstandseffekte aus. Mana, MP5 und Manaregeneration wirken sich stattdessen auf ihre Gesundheit aus.",
+            "PassiveName": "Omí"
         },
         {
             "Name": "Ymir",
@@ -10449,7 +10569,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 32.2,
             "PhysProtPL": 3.6,
-            "Passive": "Alle Fertigkeiten von Ymir, die Gegner betreffen, belegen diese zusätzlich mit Frostbeule. Ymirs Grundangriffe fügen von Frostbeule betroffenen Gegnern 100% mehr Schaden zu. Von Frostbeule betroffene Gegner verursachen 10% weniger Schaden. Hält 6s lang an."
+            "Passive": "Alle Fertigkeiten von Ymir, die Gegner betreffen, belegen diese zusätzlich mit Frostbeule. Ymirs Grundangriffe fügen von Frostbeule betroffenen Gegnern 100% mehr Schaden zu. Von Frostbeule betroffene Gegner verursachen 10% weniger Schaden. Hält 6s lang an.",
+            "PassiveName": "Frostbeule"
         },
         {
             "Name": "Yu Huang",
@@ -10477,7 +10598,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
             "PhysProtPL": 3.2,
-            "Passive": "Yu Huang verleiht seinen Grundangriffen und Fertigkeiten Zusatzeffekte. Alle 8s erhält er 1 Dao. Wenn er einen Gegner trifft, nachdem er 3s lang keinen Schaden verursacht oder erlitten hat, erhält er ebenfalls 1 Dao. Bei 6 Dao ist er eingestimmt und seine Grundangriffe springen auf einen zusätzlichen Gegner über."
+            "Passive": "Yu Huang verleiht seinen Grundangriffen und Fertigkeiten Zusatzeffekte. Alle 8s erhält er 1 Dao. Wenn er einen Gegner trifft, nachdem er 3s lang keinen Schaden verursacht oder erlitten hat, erhält er ebenfalls 1 Dao. Bei 6 Dao ist er eingestimmt und seine Grundangriffe springen auf einen zusätzlichen Gegner über.",
+            "PassiveName": "Meister des Dao"
         },
         {
             "Name": "Zeus",
@@ -10505,7 +10627,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 11.2,
             "PhysProtPL": 2.9,
-            "Passive": "Zeus fügt Gegnern mit den Blitzen seiner Grundangriffe Ladungen hinzu. Grundangriffe gegen Ziele mit Ladungen verursachen erhöhten Schaden. Ladungen bleiben 5s lang bestehen."
+            "Passive": "Zeus fügt Gegnern mit den Blitzen seiner Grundangriffe Ladungen hinzu. Grundangriffe gegen Ziele mit Ladungen verursachen erhöhten Schaden. Ladungen bleiben 5s lang bestehen.",
+            "PassiveName": "Überladen"
         },
         {
             "Name": "Zhong Kui",
@@ -10533,7 +10656,8 @@ German =
             "MagProtPL": 1.6,
             "PhysProt": 15.2,
             "PhysProtPL": 2.8,
-            "Passive": "Immer wenn etwas innerhalb von 80 Einheiten von Zhong Kui stirbt, fängt er Dämonen ein und verstaut sie in seiner Dämonen-Tasche. Dies gibt ihm zusätzlichen Schutz. Wenn Dämonen Zurückrufen aktiv ist, erhält Zhong Kui doppelten Schutz durch seine Dämonen-Tasche, verliert dabei jedoch die Hälfte seiner Dämonen (ebenso, wenn er stirbt)."
+            "Passive": "Immer wenn etwas innerhalb von 80 Einheiten von Zhong Kui stirbt, fängt er Dämonen ein und verstaut sie in seiner Dämonen-Tasche. Dies gibt ihm zusätzlichen Schutz. Wenn Dämonen Zurückrufen aktiv ist, erhält Zhong Kui doppelten Schutz durch seine Dämonen-Tasche, verliert dabei jedoch die Hälfte seiner Dämonen (ebenso, wenn er stirbt).",
+            "PassiveName": "Dämonen-Tasche"
         }
     ]
 }
