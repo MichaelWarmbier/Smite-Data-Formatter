@@ -7049,7 +7049,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Achilles dostosowuje się do przebiegu bitwy. Podczas pobytu w fontannie może wdziać zbroję, która zapewni mu dodatkowe zdrowie i ochronę, lub z niej zrezygnować, otrzymując dodatkową szybkość ruchu oraz siłę fizyczną. Aby założyć zbroję, wykorzystaj podstawowy atak Achillesa przy aktywnym znaczniku zdolności pasywnej."
         },
         {
             "Name": "Agni",
@@ -7076,7 +7077,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Trafienie wroga atakiem podstawowym zapewnia 1 kumulację Zapłonu. Trafienie wrogiego boga zapewnia 2 kumulacje. Przy 4 kumulacjach następna Fala Płomieni lub Deszcz Ognia Agniego podpali trafionego wroga, zadając mu obrażenia co 0,5 sek. przez 3 sek."
         },
         {
             "Name": "Ah Muzen Cab",
@@ -7103,7 +7105,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Wrogowie objęci działaniem zdolności „Pszczoły!” otrzymują obrażenia co 0,5 sek. przez 2 sek., zostają ujawnieni na minimapie i przekazują rój pszczół innym wrogom. Ataki podstawowe odnawiają i wydłużają czas trwania tej zdolności o 1 sek. Obrażenia te nie aktywują efektów przedmiotu."
         },
         {
             "Name": "Ah Puch",
@@ -7130,7 +7133,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Ah Puch jest panem umarłych i może powołać ich do życia wedle swojej woli. Przechodząc nad zwłokami zombie, Ah Puch zmniejsza czas odnowienia Pochodu Nieumarłych i Wybuchu Zwłok o 2 sek. oraz odzyskuje 7% maks. zdrowia i 3% maks. many."
         },
         {
             "Name": "Amaterasu",
@@ -7157,7 +7161,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Amaterasu opromienia wrogów, których trafia atakami podstawowymi.  Po 3 trafieniach wróg zostaje okryty aurą, która ujawnia jego słabość i powoduje, że będzie przyjmował więcej obrażeń ze wszystkich źródeł. Inni wrogowie znajdujący się w pobliżu również zostaną objęci aurą."
         },
         {
             "Name": "Anhur",
@@ -7184,7 +7189,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Ataki włócznią Anhura zmniejszają ochronę fizyczną celu na 3 sekundy."
         },
         {
             "Name": "Anubis",
@@ -7211,7 +7217,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 14,
-            "PhysProtPL": 2.7
+            "PhysProtPL": 2.7,
+            "Passive": "Wszystkie zdolności Anubisa odbierają celowi ochronę fizyczną i magiczną i zwiększają jego leczenie uzyskiwane z kradzieży życia (obr. magiczne). Efekty te kumulują się z każdym momentem użycia zdolności Anubisa. Boleść zapewnia także Anubisowi skrócenie o 30% czasu trwania wszystkich efektów kontroli tłumu."
         },
         {
             "Name": "Ao Kuang",
@@ -7238,7 +7245,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Co 10 sekund Ao Kuang zyskuje kumulację Miecza Smoczego Króla. Z dostępną kumulacją następny atak (ale nie arcyzdolnością), który zadaje obrażenia wrogiemu bogowi ma skrócony czas odnowienia i przywraca PZ Ao Kuangowi. Udana eliminacja wrogiego boga przy pomocy Króla Wschodnich Mórz w pełni ładuje Miecz Smoczego Króla."
         },
         {
             "Name": "Afrodyta",
@@ -7265,7 +7273,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Afrodyta zdobywa 4 pkt. ochrony magicznej i fizycznej za każdego sojuszniczego lub wrogiego boga, który znajduje się w zasięgu 70 jednostek od niej."
         },
         {
             "Name": "Apollo",
@@ -7292,7 +7301,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Po 10 skutecznych atakach podstawowych Apollo nabiera Śmiałości, zwiększając szybkość ataku 5 kolejnych (celnych lub niecelnych) o 100%. Apollo zyskuje również 1 kumulację Śmiałości za każde udane zadanie obrażeń wrogim bogom za pomocą zdolności."
         },
         {
             "Name": "Arachne",
@@ -7319,7 +7329,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Ataki podstawowe Arachne zyskują premię 1,25% do obrażeń fizycznych za każde 5% obniżonego zdrowia przeciwnika."
         },
         {
             "Name": "Ares",
@@ -7346,7 +7357,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 28,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Każdy posiadany przedmiot z efektem aury zwiększa moc magiczną Aresa o 30 punktów."
         },
         {
             "Name": "Artemida",
@@ -7373,7 +7385,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Ataki podstawowe Artemidy zadają o 15% więcej obrażeń bogom i o 30% więcej sługusom, będącym pod wpływem kontroli tłumu."
         },
         {
             "Name": "Artio",
@@ -7400,7 +7413,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 28,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Wrodzy bogowie trafieni zdolnością zadającą obrażenia przez Artio w postaci druidki lub niedźwiedzicy zaczynają się rozkładać. Powoduje to zmniejszenie ochrony fizycznej i magicznej trafionego wroga. Efekty się kumulują."
         },
         {
             "Name": "Atena",
@@ -7427,7 +7441,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 28,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Po użyciu zdolności, kolejnym atakiem podstawowym Ateny jest atak dystansowy, który trafia wszystkich wrogów na swojej drodze, a ponadto pierwszemu trafionemu wrogowi zadaje obrażenia zwiększone o 50%. Obrażenia od Dosięgnięcia aktywują efekty przedmiotów dla ataków podstawowych, ale nie dla zdolności."
         },
         {
             "Name": "Atlas",
@@ -7454,7 +7469,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 28,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Gdy Atlas przyjmuje obrażenia od wrogich bogów lub gdy zadaje je atakami podstawowymi i zdolnościami, gromadzi w Astrolabium energię – 1,25 pkt. za boga i 1/10 energii za sługusa. Gdy osiągnie 20 pkt. energii, jego następny atak podst. otrzyma 1,5x premię do obrażeń, szybkość ataku 1,5 sek. i zada dodatkowe obrażenia przed Atlasem – a także nałoży na trafionych bogów efekt drżenia na 2 sek. i efekt ogłuszenia na sługusów. Atlas może zmagazynować do 30 pkt. energii."
         },
         {
             "Name": "Awilix",
@@ -7481,7 +7497,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Jeśli Awilix nie otrzymała lub nie zadała obrażeń przez ostatnie 5 sek., ale trafi wroga jako pierwsza, zwiększy swoją siłę fizyczną na krótki czas."
         },
         {
             "Name": "Baba Jaga",
@@ -7508,7 +7525,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Kiedy się porusza i gdy wrogowie są za blisko, domek gromadzi do 100 pkt. esencji. Baba Jaga może podejść do niego i użyć esencji, by zdobyć kumulacje rozwiniętego przedmiotu. Te z niską liczbą kumulacji wymagają więcej energii. Jeśli Baba Jaga ma przedmiot, energia przywraca jej zdrowie w wysokości 0,8% jej maks. zdrowia na moment."
         },
         {
             "Name": "Bachus",
@@ -7535,7 +7553,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Bachus lubi się napić, więc pociąga łyk ze swojego dzbana, poddając się odurzeniu. Otrzymuje wzmocnienie, gdy stanie się Nietrzeźwy i Pijany. Ponadto Bachus świętuje, gdy zabije wrogiego boga, co zapewnia mu 10% na pasku pijaństwa."
         },
         {
             "Name": "Bakasura",
@@ -7562,7 +7581,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Za każdego zabitego wroga, tymczasowo wzrasta szybkość ataku i ruchu Bakasury."
         },
         {
             "Name": "Baron Samedi",
@@ -7589,7 +7609,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Baron dzieli się ze swoimi sojusznikami Napitkiem Barona, potężną miksturą regeneracyjną ze sklepu z przedmiotami. Na wrogów trafionych przez Barona zostaje nałożona Histeria. Umiejętności Barona oddziałują z Histerią, zapewniając dodatkowe efekty. Wrogowie mający maks. poziom Histerii otrzymują 20% więcej obrażeń od Barona Samedi."
         },
         {
             "Name": "Bastet",
@@ -7616,7 +7637,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Ataki Bastet zyskują fizyczną kradzież życia i kradzież życia od fizycznych zdolności. Dodatkowo, wrodzy bogowie zostają ujawnieni Bastet na 6 sek."
         },
         {
             "Name": "Bellona",
@@ -7643,7 +7665,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Trafiając atakami podstawowymi lub przyjmując z nich trafienia, Bellona zdobywa ochronę i szybkość ruchu na 7 sek. (maks. 5 kumulacji)."
         },
         {
             "Name": "Cabrakan",
@@ -7670,7 +7693,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 28,
-            "PhysProtPL": 3.6
+            "PhysProtPL": 3.6,
+            "Passive": "Cabrakan i jego pobliscy sojusznicy otrzymują obrażenia zmniejszone o 5%."
         },
         {
             "Name": "Camazotz",
@@ -7697,7 +7721,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Camazotz posiada pasywną premię Wysysacza Istoty, dającą premię do kradzieży życia (obr. fizyczne) i leczenia. Za każdym razem, gdy umiera bóg, zostawia za sobą zbiornik esencji życiowej. Camazotz może co 5 sek. stanąć w takim zbiorniku, aby go wchłonąć, odzyskując zdrowie i manę."
         },
         {
             "Name": "Cerber",
@@ -7724,7 +7749,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Za każdym razem, gdy uleczony zostanie wrogi bóg w promieniu 40 jedn. od Cerbera, leczenie zmniejsza się o 30%, a Cerber otrzymuje 50% zdrowia. Cerber zmniejsza wszystkie rodzaje leczenia i kradnie wszystkie rodzaje leczenia z wyjątkiem PZ5. Ilość skradzionego życia liczona jest od wartości podstawowej, bez uwzględnienia efektów wzmacniających bądź osłabiających leczenie."
         },
         {
             "Name": "Cernunnos",
@@ -7751,7 +7777,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Cernunnos używa swej glewii jako oręża. Jego podstawowe ataki zadają dodatkowe obrażenia wszystkim przeciwnikom w zasięgu walki wręcz, gdy Cernunnos rzuca glewią. Efekty przedmiotów oraz zdolności bohatera nie wpływają na obrażenia dodatkowe zadawane przez ciężką glewię."
         },
         {
             "Name": "Chaac",
@@ -7778,7 +7805,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Po 5 skutecznych atakach podstawowych Chaac nie straci many na użycie kolejnej zdolności, a jej czas odnowienia zostaje skrócony o 2 sek."
         },
         {
             "Name": "Chang'e",
@@ -7805,7 +7833,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Chang'e może kupić lub sprzedać przedmioty z dowolnego miejsca, a jej towarzysz, Jadeitowy Królik, je przyniesie. Transakcja jest zakończona, gdy królik wróci ze sklepu. Jednocześnie można kupić lub sprzedać tylko jeden przedmiot. Chang'e dodatkowo zwiększa szybkość ruchu o +25% bez kary za wycofywanie się podczas tańca."
         },
         {
             "Name": "Charybda",
@@ -7832,7 +7861,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Prędkość ataku Charybdy wzrasta wraz z jej Przypływem. Udane trafienia podstawowym atakiem zwiększają poziom Przypływu.\nCharybda zadaje mniej obrażeń przy aktywacji efektów przedmiotów."
         },
         {
             "Name": "Czarnobóg",
@@ -7859,7 +7889,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Każdy udany atak podstawowy pozostawia w ciele wroga kruchy kryształ. Po zebraniu 3 kumulacji Lodowatego Serca, kryształy eksplodują, zadając dodatkowe obrażenia w otaczającym wroga obszarze (obrażenia te nie aktywują efektów przedmiotów)."
         },
         {
             "Name": "Chiron",
@@ -7886,7 +7917,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Co 12 sek. Chiron zbiera zioła, z których wykonuje lecznicze okłady. Za każdym razem, gdy używa zdolności, zużywa jeden okład, by uleczyć siebie lub sprzymierzeńca z najniższym poziomem zdrowia w zasięgu 30 jedn. Uleczeni sojusznicy zyskują także siłę fizyczną i moc magiczną."
         },
         {
             "Name": "Chronos",
@@ -7913,7 +7945,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Chronos zyskuje siłę wraz z upływem czasu. Co 1,5 minuty zdobywa kumulację, która zwiększa jego moc magiczną (maks. 25 kumulacji). Kumulacje są stałe."
         },
         {
             "Name": "Cliodna",
@@ -7940,7 +7973,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.3
+            "PhysProtPL": 3.3,
+            "Passive": "Cliodna może wchodzić w ściany co 16 sek. Może się w nich poruszać i używać niektórych umiejętności. Co 0,4 sek. traci 0,15% zdrowia – efekt wzmacnia się do 40 razy. Nie może wejść w ścianę, gdy ma mniej niż 25% zdrowia lub jest okaleczona. Przez 5 sek. po wyjściu ze ściany zyskuje 10% kradzieży życia od fizycznych zdolności."
         },
         {
             "Name": "Cthulhu",
@@ -7967,7 +8001,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Cthulhu niszczy psychikę wrogich bogów, nakładając kumulacje Udręki swoimi umiejętnościami i ostatnim trafieniem łańcucha swoich ataków podstawowych. Przy czwartej kumulacji Udręki wrogowie zostają poddani Szaleństwu. Dodatkowo Cthulhu zyskuje moc magiczną za każdego pobliskiego wroga dotkniętego Szaleństwem."
         },
         {
             "Name": "Cu Chulainn",
@@ -7994,7 +8029,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Mana, PM5 i zyskiwanie many związane są z ilością zdrowia Cu Chulainna. Zdolności zużywają Szał (regeneracja ograniczona do 25 pkt.). Dalej otrzymuje Szał za trafienie przy pomocy zdolności, za atak podstawowy (1 pkt) i za otrzymane przez niego lub sojuszników obrażenia (0,5 pkt.). Utrzymując poziom min. 85 pkt Szału przez 3 sek., wpada w szał Berserkera. Jako Berserker zyskuje moc i tarczę zdrowia."
         },
         {
             "Name": "Kupidyn",
@@ -8021,7 +8057,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Każde trafienie atakiem podstawowym zapewnia Kupidynowi kumulację serc, która zwiększa obrażenia i leczenie w ramach jego zdolności. Bomba Serca i Pola Miłości zawsze zużyją kumulacje, a przy 8 kumulacjach wywołają przy tym dodatkowe efekty."
         },
         {
             "Name": "Da Ji",
@@ -8048,7 +8085,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Ostre szpony Da Ji wywołują krwawienie u wrogów trafionych jej atakami podstawowymi. Krwawienie powoduje dodatkowe obrażenia co 1 sek. przez 2 sek. (obrażenia te nie aktywują efektów przedmiotów). Krwawienie może się wielokrotnie kumulować na jednym wrogu."
         },
         {
             "Name": "Danzaburou",
@@ -8075,7 +8113,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Za każdym razem, gdy Danzaburou aktywnie zdobywa złoto, składa 10% do jednej ze swoich sakiewek. Kiedy sakiewka całkowicie się napełni, Danzaburou zyskuje dodatkowe złoto i trwały wzrost siły fizycznej, by następnie przejść do większej sakiewki."
         },
         {
             "Name": "Discordia",
@@ -8102,7 +8141,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Discordia cały czas porównuje się do członków swojej drużyny, żeby zobaczyć, kto jest najlepszy. Bóg z jej drużyny, który zadał największe obrażenia wrogiemu graczowi, otrzyma wzmocnienie siły i mocy, skalowane względem poziomu Discordii."
         },
         {
             "Name": "Erlang Shen",
@@ -8129,7 +8169,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Za każdym razem, gdy Erlang Shen trafia wroga atakiem podstawowym, jego pies uderza go za dodatkowe 5% ataku podstawowego i 1,75% maks. PZ celu. Obrażenia procentowe działają wyłącznie przeciwko bogom i sługusom."
         },
         {
             "Name": "Izyda",
@@ -8156,7 +8197,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Izyda dzieli się z pobliskimi sojusznikami dodatkowym PZ5 i PM5. Po każdej śmierci gracza w zasięgu 80 jedn. od Izydy, jej aura zyskuje kumulację (maks. 10). Po osiągnięciu 10 kumulacji Izyda otrzymuje 10% redukcji czasu odnowienia. W trakcie rozwoju Izydy finalny atak podstawowy zyskuje szerszy promień (+2)."
         },
         {
             "Name": "Fafnir",
@@ -8183,7 +8225,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
-            "PhysProtPL": 3.7
+            "PhysProtPL": 3.7,
+            "Passive": "Fafnir zdobywa dodatkowe 2 jednostki złota z asyst i zabójstw wrogów, wliczając sługusów. Dodatkowo otrzymuje ochronę bazującą na ilości złota, które ma przy sobie. Bonusy zdobyte dzięki tej zdolności są ograniczone do 1000 szt. złota."
         },
         {
             "Name": "Fenrir",
@@ -8210,7 +8253,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Fenrir zwiększa skuteczność ataku. Każde trafienie atakiem podstawowym aktywuje 1 Runę (maks. 5). Uwolniony, Brutal i Ragnarok zyskują dodatkowe efekty, jeżeli zostaną użyte przy maksymalnej liczbie wykorzystanych Run. Runy aktywują się w pełni po zabiciu przez Fenrira wrogich bogów. Za asystę przy zabójstwie Fenrir otrzyma 3 Runy."
         },
         {
             "Name": "Freja",
@@ -8237,7 +8281,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Naszyjnik Frei zapewnia wzrost kradzieży życia (obr. magiczne)."
         },
         {
             "Name": "Ganesha",
@@ -8264,7 +8309,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 28,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Ilekroć Ganesha zada śmiertelny cios, trofeum zabójstwa otrzymuje najbliższy zaprzyjaźniony bóg, a sam Ganesha zadowala się nagrodą za asystę. Dodatkowo zasięg jego asysty zostaje zwiększony o 20, a czas do utraty nagrody za asystę rośnie o 5 sek."
         },
         {
             "Name": "Geb",
@@ -8291,7 +8337,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Przyjmowane obrażenia dodatkowe od trafienia krytycznego zostają zmniejszone o 65%."
         },
         {
             "Name": "Gilgamesz",
@@ -8318,7 +8365,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Gilgamesz wyrusza! Na poziomie 5. i 10. otrzyma zadania. W pierwszym odwiedzi konkretne miejsce na mapie. W drugim będzie musiał pokonać przynajmniej połowę wrogiej drużyny w jednej bitwie (zaokrąglane w górę). Ilekroć ukończy zadanie, otrzyma w nagrodę przedmiot 1. stopnia, a jeśli już ma ich maks. liczbę – 500 szt. złota."
         },
         {
             "Name": "Guan Yu",
@@ -8345,7 +8393,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Guan Yu zyskuje kumulacje za każdym razem gdy zada obrażenia lub je otrzyma. Przy maksymalnej liczbie kumulacji efekty zdolności Guan Yu zostają wzmocnione. Po aktywacji zdolności, kumulacje resetują się, jeśli nie otrzymał on lub nie zadał on obrażeń w przeciągu ostatnich 5 sek."
         },
         {
             "Name": "Hachiman",
@@ -8372,7 +8421,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Z każdym zadanym ciosem Hachiman staje się coraz potężniejszy. Atakowanie wrogów atakami podstawowymi dodaje Hachimanowi energii, zapewniając mu kumulacje PM5 (maks. 5). Kumulacje trwają 8 sek."
         },
         {
             "Name": "Hades",
@@ -8399,7 +8449,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Normalne ataki Hadesa wywołują u wroga osłabiający efekt Złego Uroku. Osłabienie utrzymuje się i może być odnawiane. Gdy wróg znajduje się pod jego wpływem, jego siła fizyczna oraz moc magiczna zostają zmniejszone. Dodatkowo każda umiejętność Hadesa zyskuje dodatkowy efekt."
         },
         {
             "Name": "Hebo",
@@ -8426,7 +8477,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Gdy Hebo korzysta z dowolnej zdolności, zyskuje wzmocnienie Stałego Przepływu, które zwiększa jego moc magiczną. Licznik czasu zostanie zresetowany po użyciu kolejnej zdolności."
         },
         {
             "Name": "Heimdallr",
@@ -8453,7 +8505,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Kiedy Heimdallr dostrzega wrogiego boga, zyskuje siłę fizyczną. Efekt kumuluje się maks. 5 razy. Kiedy wrogi bóg zniknąłby z jego oczu (włączając w to ukrycie), Heimdallr widzi go jeszcze przez 4 sek. Krytyczne trafienia Heimdallra zadają tylko 40% dodatkowych obrażeń."
         },
         {
             "Name": "Hel",
@@ -8480,7 +8533,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Gdy Hel przyjmuje postawę, stopniowo dostosowuje się do jej natury, zyskując do 20% w zadawanych obrażeniach w postawie mroku i 10% leczenia od jej zdolności w postawie światłości."
         },
         {
             "Name": "Hera",
@@ -8507,7 +8561,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Za każdym razem, gdy Hera zadaje obrażenia bogom za pomocą zdolności lub ataków podstawowych, czas odnowienia Argusa, Obrońcy, zostaje skrócony o 1,5 sek, a czas odnowienia Boskiego Całunu zostaje skrócony o 0,5 sek. Jeśli Argus jest już przywołany, zostaje w zamian uleczony."
         },
         {
             "Name": "Herkules",
@@ -8534,7 +8589,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Za każdym razem, gdy Herkules przyjmuje obrażenia zadane przez wrogiego boga, zyskuje kumulację wzmocnienia własnej postaci, która zapewnia zwiększoną siłę fizyczną."
         },
         {
             "Name": "Horus",
@@ -8561,7 +8617,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Każde zadanie obrażeń Horusowi przez wrogiego boga przyznaje mu kumulację Śmiałości. Jeśli to Set zadaje mu obrażenia, Horus zyskuje 2 kumulacje. Każda kumulacja zwiększa ochronę i skraca czas odnowienia zdolności Horusa. Maks. kumulacje: 10 na 3 sek. Po wygaśnięciu Śmiałości, Horus jest uleczony w oparciu o ilość kumulacji."
         },
         {
             "Name": "Hou Yi",
@@ -8588,7 +8645,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Po przyjęciu trafienia krytycznego, Hou Yi nie może ponownie zostać trafiony krytycznie przez kolejne 3 sek."
         },
         {
             "Name": "Hunbatz",
@@ -8615,7 +8673,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Po użyciu umiejętności następny atak podstawowy Hunbatza zada o 15% więcej obrażeń."
         },
         {
             "Name": "Ishtar",
@@ -8642,7 +8701,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.132
+            "PhysProtPL": 3.132,
+            "Passive": "Gdy jej zdrowie spadnie poniżej 75%, Ishtar na 10 sek. oznacza wrogiego boga, który ją zranił. Każde zranienie tego boga atakiem podstawowym Ishtar daje jej premię do szybkości ataku. Jeśli zabije lub asystuje przy zabiciu tego boga, zyskuje premię do szybkości ruchu. Czas odnowienia zdolności: 20 sek."
         },
         {
             "Name": "Izanami",
@@ -8669,7 +8729,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Czym bliżej śmierci znajduje się Izanami, tym bardziej staje się potężna. Otrzymuje 4% penetracji fizycznej za każde brakujące 10% zdrowia – maksymalnie do 20%.\nAtaki podstawowe Izanami mają tym większą szybkość pocisków, im większa jest szybkość ataku i aktywują efekty przedmiotów tylko dla pierwszego celu danego ataku."
         },
         {
             "Name": "Janus",
@@ -8696,7 +8757,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 14,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Za każdym razem, gdy Janus przechodzi przez portal lub próg, przemienia się w starego i leciwego człowieka, zyskując dodatkową skalowaną moc magiczną przy następnej zdolności, którą rzuci."
         },
         {
             "Name": "Jing Wei",
@@ -8723,7 +8785,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Opuszczając fontannę, Jing Wei wznosi się w niebo i leci nad przeszkodami ze wzrastającą prędkością i odpornością na kontrolę tłumu. Jing Wei może zrezygnować z lotu, anulując zdolność, gdy opuszcza fontannę."
         },
         {
             "Name": "Jormungand",
@@ -8750,7 +8813,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
-            "PhysProtPL": 3.8
+            "PhysProtPL": 3.8,
+            "Passive": "Jormungand jest tak wielki, że bywa nieczuły na twarde przesunięcie. W zamian za to zostaje on Oszołomiony. Oszołomienie to nie dające się zdjąć osłabienie Jormunganda, które polega na malejącym spowolnieniu. W czasie jego trwania Jormungand otrzymuje zwiększone obrażenia. Każda szybkość ataku powyżej podstawowej przyspiesza czas odnowienia ataku podstawowego Jormunganda. Ataki podstawowe Jormunganda nie aktywują efektów trafienia od przedmiotów."
         },
         {
             "Name": "Kali",
@@ -8777,7 +8841,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 21,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Kali wybiera boga i oznacza go Znakiem Śmierci. W walce z nim zyskuje premię do penetracji fizycznej. Po zadaniu śmiertelnego ciosu uleczy się do 60% maks. poziomu zdrowia, a do 20% dzięki asyście przy zabójstwie. Otrzyma też +30% złota za to zabójstwo lub asystę. Znak Śmierci naznacza osobę najbliżej Kali, gdy umiera jej obecny cel. Gdy Kali umiera, może wybrać nowy cel."
         },
         {
             "Name": "Chepri",
@@ -8804,7 +8869,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Co 5 sek. Chepri nakłada tarczę na siebie i pobliskich sojuszników na 15 sek. Tarcza ma 2% maks. zdrowia celu. Jeśli w ciągu ostatnich 5 sek. Chepri otrzymał lub zadał obrażenia, tarcza nakładana będzie co 10 sek. (maks. 10%)."
         },
         {
             "Name": "Król Artur",
@@ -8831,7 +8897,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Każda umiejętność zadająca obrażenia bogowi zapewnia kumulację Niezłomności, która zmniejsza ponoszone obrażenia i zwiększa przyrost Energii. Za każdym razem, kiedy Król Artur używa umiejętności, przełącza się między swoimi standardowymi i kombinacyjnymi umiejętnościami. Wszystkie umiejętności są aktywowane natychmiastowo. Szybkość ataku i pasywne efekty przedmiotów nie wzmacniają jego ataków podstawowych. Szybkość ataku zwiększa ilość zdobywanych pkt. Energii."
         },
         {
             "Name": "Kukulkan",
@@ -8858,7 +8925,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Zwiększa moc magiczną o równowartość 4% maksymalnej many."
         },
         {
             "Name": "Kumbhakarna",
@@ -8885,7 +8953,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Gdy jego zdrowie spadnie do 0, Kumbhakarna nie umiera, lecz zasypia. Obudzi się po 8 sek., a jego zdrowie i mana będą na poziomie 35%, chyba że zostanie trafiony 6 atakami podstawowymi (+1 co 5 poziomów) podczas snu. Czas odnowienia tej zdolności pasywnej to 120 sek."
         },
         {
             "Name": "Kuzenbo",
@@ -8912,7 +8981,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Ilekroć Kuzenbo otrzymuje obrażenia powyżej 2% maks. zdrowia (sprzed redukcji), uzyskuje kumulacje redukcji obrażeń, a jego głowa wypełnia się wodą (maks. 10 kumulacji). Kumulacje trwają 30 sek. i są odświeżane za każdą kolejną. Kuzenbo trafiony efektem twardej KT traci połowę kumulacji. Może je stracić w ten sposób maks. raz na 1,5 sek."
         },
         {
             "Name": "Lancelot",
@@ -8939,7 +9009,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Lancelot otrzymuje 1 kumulację za zabicie/asystę przy zabiciu boga i 1 kumulację za każdych 5 zabitych sługusów (maks. 60 kumulacji).\nPodczas jazdy na wierzchowcu każda kumulacja zwiększa prędkość ruchu.\nGdy nie jesteś na wierzchowcu, każda kumulacja zmniejsza obrażenia od ataku podstawowego otrzymywane z przodu."
         },
         {
             "Name": "Loki",
@@ -8966,7 +9037,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Loki zadaje więcej obrażeń atakami podstawowymi, gdy uderza wrogów od tyłu. Ponadto jego ataki podstawowe charakteryzuje pięcioetapowy progres uderzeń."
         },
         {
             "Name": "Maui",
@@ -8993,7 +9065,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Gdy wrogi bóg podlega twardej KT przy Mauim, zostaje oznaczony na czas jej trwania i 2 sek. później. Jeśli Maui zaatakuje oznaczonego wroga atakiem podstawowym, jego kolejny atak podstawowy jest silniejszy. Każdy bóg trafiony ulepszonym atakiem podstawowym Mauiego zostaje do niego przyciągnięty. Czas odnowienia tej zdolności: 10 sek."
         },
         {
             "Name": "Meduza",
@@ -9020,7 +9093,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Meduza nie traci szybkości ruchu, gdy porusza się na boki i traci tylko połowę, gdy porusza się do tyłu."
         },
         {
             "Name": "Merkury",
@@ -9047,7 +9121,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Za każdą przemierzoną jednostkę długości Merkury zyskuje 0,06% siły fizycznej przy kolejnym ataku podstawowym (maksymalnie 30%).\n\nMerkury zyskuje również dodatkową siłę fizyczną od przedmiotów lub zdolności, równą 25% szybkości ruchu."
         },
         {
             "Name": "Merlin",
@@ -9074,7 +9149,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 14,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Za każdym razem, gdy Merlin rzuca zaklęcie, zyskuje kumulację Przeładowania. Kiedy następnie zastosuje atak podstawowy, zostanie on wzmocniony błyskawicą zadającą dodatkowe obrażenia pierwszemu trafionemu wrogowi."
         },
         {
             "Name": "Morgan Le Fay",
@@ -9101,7 +9177,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Zdolności Morgan Le Fay oznaczają wrogich bogów i aktywują dzielony symbol na jej mieczu, który daje jej magiczną moc. Po zgromadzeniu wszystkich 5 symboli, Morgan Le Fay staje się wzmocniona, zyskuje podwójną moc magiczną i skraca czas odnowienia mocy pożarcia o 10 sek., zanim wszystkie symbole zostaną opróżnione."
         },
         {
             "Name": "Mulan",
@@ -9128,7 +9205,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Mulan, używając swych zdolności, posługuje się mieczem, włócznią i łukiem. Zadając obrażenia bogom, zwiększa swoje zdolności w posługiwaniu się daną bronią, co zapewnia różnorodne premie. Mulan zyskuje także wzmocnienie co 10 sek., które skraca czas odnowienia następnej użytej zdolności (z wyj. arcyzdolności) o 2 sek."
         },
         {
             "Name": "Nezha",
@@ -9155,7 +9233,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Nezha czuje w sobie moc, gdy trafia wrogów umiejętnościami i atakami podstawowymi. Każde trafienie zapewnia mu 1 kumulację, a trafienia krytyczne – 2 kumulacje. Kumulacje zerują się, kiedy Nezha nie otrzymał lub nie zadał obrażeń w przeciągu ostatnich 12 sek."
         },
         {
             "Name": "Neit",
@@ -9182,7 +9261,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "W miejscach ostatnich śmierci wrogich bogów pojawiają się Przerwane Nici. Przerwane Nici zyskują swój efekt drugorzędny, gdy zostaną użyte w miejscu, w którym już się znajdowały. Każda Przerwana Nić działa przez 2 minuty."
         },
         {
             "Name": "Nemezis",
@@ -9209,7 +9289,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Nemezis trzyma szalę równowagi. Po trafieniu wrogów atakami podstawowymi, szala przechyla się na jej korzyść, dzięki czemu siła fizyczna i moc magiczna celu zostaje zmniejszona, a te same wartości wzrastają u Nemezis (kumulując się)."
         },
         {
             "Name": "Nike",
@@ -9236,7 +9317,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 21,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Nike ustanawia 3 cele, dzięki którym zespół może zyskać wzmocnienie siły. Wypełniając cel, zespół Nike zdobywa laur, który zwiększa siłę i szybkość ruchu. Laur może zostać wzmocniony 3 razy."
         },
         {
             "Name": "Nyks",
@@ -9263,7 +9345,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Świece Nyks pochłaniają energię ze wszystkich zdolności, których używa. Każda użyta przez Nyks zdolność powoduje zapalenie jednej świecy, a każda z nich daje jej +3% mocy magicznej. Jeśli Nyks odniesie obrażenia zadane przez wrogiego boga, jedna ze świec zgaśnie."
         },
         {
             "Name": "Nuwa",
@@ -9290,7 +9373,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Po 5 skutecznych atakach podstawowych, kolejny atak podstawowy Nuwy zakorzeni wrogów."
         },
         {
             "Name": "Odyn",
@@ -9317,7 +9401,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Odyn, eskortując zmarłych wojowników do Walhalli, zyskuje wyjątkową siłę. Jeśli na polu bitwy umrze bóg, Odyn otrzyma premię do szybkości ruchu i siły. Efekt kumuluje się do 5 razy."
         },
         {
             "Name": "Olorun",
@@ -9344,7 +9429,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Po uzyskaniu 150 pkt. mocy magicznej z przedmiotów, Olorun zyskuje 15% szansy na trafienia krytyczne i dodatkowy 1% za każde kolejne 10 pkt. mocy magicznej z przedmiotów.\nAtaki krytyczne Oloruna zadają wyłącznie 50% więcej obrażeń.\nDodatkowo, Olorun zyskuje 5% dodatkowego skalowania ataków podstawowych."
         },
         {
             "Name": "Ozyrys",
@@ -9371,7 +9457,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Gdy Ozyrys korzysta z dowolnej zdolności, spala się część jego ciała i zyskuje złagodzenie obrażeń za każdy brakujący fragment. Po utracie 8 części staje się duchem. Może wtedy przechodzić przez wrogów i blokady, a jego ataki podst. nie powodują obniżenia szybkości ruchu. Efekt trwa przez 6 skutecznych ataków podst."
         },
         {
             "Name": "Pele",
@@ -9398,7 +9485,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Kiedy zdrowie Pele spadnie poniżej 50%, rozpala się jej płomień, a ona sama zyskuje siłę fizyczną, kradzież życia i kradzież życia od zdolności. Ta zdolność pasywna ma 30 sek. czasu odnowienia."
         },
         {
             "Name": "Persefona",
@@ -9425,7 +9513,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Kiedy Persefona zginie, przenosi się do wymiaru śmierci, gdzie może umieścić 6 pestek zbiorów, które wyrosną po jej odrodzeniu. Dodatkowo, za każdym razem, gdy jedna z jej Roślin zbiorów zwiędnie, zyskuje ona pestkę granatu, którą można sprzedać przy fontannie za 3 szt. złota. Persefona może posiadać 100 pestek."
         },
         {
             "Name": "Posejdon",
@@ -9452,7 +9541,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 11.2,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Szybkość ruchu Posejdona wzrasta, a jego zdolności zadają dodatkowe obrażenia, wraz ze wzrostem wskaźnika Przypływu. Skuteczne trafienia atakiem podstawowym zwiększają falę, a używanie zdolności powoduje zmniejszenie działania tego efektu."
         },
         {
             "Name": "Ra",
@@ -9479,7 +9569,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 14,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Za każdym razem, gdy Ra korzysta z zdolności, jego szybkość ruchu wzrasta."
         },
         {
             "Name": "Raijin",
@@ -9506,7 +9597,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 3.3
+            "PhysProtPL": 3.3,
+            "Passive": "Co 5 rzuconych zdolności Raijin zmniejsza czas odnowienia wszystkich swoich zdolności, które właśnie się odnawiają (wliczając tę, którą właśnie rzucił) o 2 sek. Dodatkowo atak podstawowy Raijina zyskuje szerszy promień (+2)."
         },
         {
             "Name": "Rama",
@@ -9533,7 +9625,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Gwiezdny Kołczan Ramy wytwarza jedną strzałę astralną co 12 sek. Każde trafienie atakiem podstawowym skraca ten czas o 2 sek. Za pierwszym razem, gdy strzała astralna trafi wroga, ma szansę spaść na ziemię. Podniesienie takiej strzały przywraca 10 pkt. many."
         },
         {
             "Name": "Ratatosk",
@@ -9560,7 +9653,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Ratatosk odradza się z Magicznym żołędziem z drzewa świata w jego ekwipunku. Żołądź może zostać ulepszony w sklepie z przedmiotami w dowolnym miejscu na mapie. Każdy żołądź zapewnia Ratatoskowi różne korzyści."
         },
         {
             "Name": "Rawana",
@@ -9587,7 +9681,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Udane ataki podstawowe oraz zdolności wykorzystywane przeciwko wrogom dodają się do kombinacji ataków Rawany. Za każdym razem, gdy kombinacja osiągnie 8 akcji Rawana otrzymuje tarczę równą 7% jego maksymalnego zdrowia oraz 3% szybkości ruchu. Możliwe jest osiągnięcie 3 kumulacji."
         },
         {
             "Name": "Skylla",
@@ -9614,7 +9709,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Każda zdolność Skylli ma dodatkowy efekt na maks. poziomie. Ponadto, każda zdolność na maks. poziomie zwiększa moc magiczną Skylli o 25 pkt."
         },
         {
             "Name": "Selkit",
@@ -9641,7 +9737,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Zadające obrażenia ataki podstawowe Selkit wywołują efekt Katalizatora, który usuwa trucizny ze Śmiertelnej Zmory i Pocałunku Kobry. Jeśli cel znajduje się pod wpływem dwóch lub trzech różnych trucizn, odniesie dodatkowe obrażenia."
         },
         {
             "Name": "Set",
@@ -9668,7 +9765,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Każde zadanie obrażeń wrogom przyznaje Setowi kumulację Nieugiętości. Jeśli to Horus jest celem ataku, Set zyskuje 2 kumulacje. Każda z nich zwiększa szybkość ataku Seta. Maks. kumulacje: 10 na 6 sek. Jeśli Królobójca jest aktywny, nie ma limitu kumulacji."
         },
         {
             "Name": "Shiva",
@@ -9695,7 +9793,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Shiva cyklicznie przechodzi pomiędzy stanami Błogości i Zniszczenia, gdy zadaje obrażenia wrogim bogom z użyciem ataków i zdolności. Każdy stan zapewnia korzyści jemu i jego sojusznikom lub szkodzi wrogom. Podczas przełączania się między stanami czas odnowienia umiejętności Shivy (z wyjątkiem arcyzdolności) skraca się o 2 s."
         },
         {
             "Name": "Skadi",
@@ -9722,7 +9821,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Kaldr ma dwie formy: bestii i żywiołaka. W formie bestii, może atakować wrogów i otrzymywać obrażenia. W formie żywiołaka, jest odporny na ataki i odzyskuje 1 PZ co 4 sek. Może być kontrolowany przez Runę Łowów, ale zawsze powróci do formy żwywiołaka po utracie wszystkich PZ. Skadi zyskuje 10% siły fizycznej, jeśli Kaldr straci wszystkie PZ."
         },
         {
             "Name": "Sobek",
@@ -9749,7 +9849,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Po trafieniu wroga zdolnością lub atakiem podstawowym, Sobek zyskuje ochronę na pewien czas."
         },
         {
             "Name": "Sol",
@@ -9776,7 +9877,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Używając zdolności i trafiając atakami podstawowymi, Sol zdobywa Żar. Na każde 4% Żaru otrzymuje +1% mocy magicznej i +1,2% szybkości ataku. Kiedy Żar osiągnie 100%, atak podstawowy Sol zada +15% obrażeń. Żar zmniejsza się z czasem."
         },
         {
             "Name": "Sun Wukong",
@@ -9803,7 +9905,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Gdy zdrowie Sun Wukonga spada poniżej 50%, zyskuje on +10 pkt. siły fizycznej i +10 pkt. ochrony – oraz kolejne 2 pkt. siły fizycznej i 2 pkt. ochrony w zależności od jego aktualnego poziomu. Jeśli podczas aktywności Niepokonanego Ciała zdrowie Sun Wukonga wzrośnie powyżej 50%, zachowa on to wzmocnienie na 12 sek."
         },
         {
             "Name": "Surtur",
@@ -9830,7 +9933,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Ciało Surtura rozpada się na kawałki, gdy straci on wystarczająco dużo PZ. Po ich zebraniu, Surtur odzyskuje procent swoich maks. PZ w czasie i otrzymuje ochronę na 3 sek (maks. 3 kumulacje). Wrogowie mogą niszczyć te fragmenty, przechodząc po nich."
         },
         {
             "Name": "Susanoo",
@@ -9857,7 +9961,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Za każdym razem, gdy Susanoo zada obrażenia przynajmniej jednemu wrogiemu bogu przy pomocy zdolności, otrzymuje kumulację. Po osiągnięciu 4 kumulacji następna zdolność, którą trafi boga w przeciągu 5 sek., zada dodatkowe obrażenia."
         },
         {
             "Name": "Silvanus",
@@ -9884,7 +9989,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Gdy umiejętności Silvanusa trafią lub zostaną użyte, pojawi się strąk z nasionami. Kiedy Silvanus go podniesie, przywróci 2,5% swojej many oraz skróci czas odnowienia umiejętności o 0,5 sek. Na poziomie 15. efekt skrócenia czasu odnowienia zwiększa się do 1 sek."
         },
         {
             "Name": "Tellus",
@@ -9911,7 +10017,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 28,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Zdolności Tellus tworzą Stojące monolity. Dopóki są one aktywne, Tellus jest odporna na wyrzucenie w górę. Dodatkowo jej ataki podst. rozpłatają, spowalniają i zadają dod. obrażenia podstawowe. Te podstawowe obrażenia nie aktywują efektów przedmiotów. Tellus może roztrzaskać monolity, a wzmocnienie pozostanie aktywne przez 3 sek."
         },
         {
             "Name": "Tanatos",
@@ -9938,7 +10045,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Wrodzy bogowie, poniżej określonego dla arcyzdolności poziomu zdrowia, są widoczni dla Tanatosa. Oprócz wymierzenia wrogom śmiertelnego ciosu, Tanatos regeneruje zdrowie, zyskując równowartość maksymalnego poziomu zdrowia swojego celu, a także skraca aktywne czasy odnowienia. Ponadto, użycie wszystkich zdolności Tanatosa kosztuje punkty zdrowia i many."
         },
         {
             "Name": "Morrigan",
@@ -9965,7 +10073,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Trzecie trafienie z serii ataków Morrigan wybuchnie, zadając obrażenia wszystkim wrogom w zasięgu i oznaczając Zagładą wszystkich trafionych wrogów. Oznaczeni Zagładą wrogowie będą otrzymywali z czasem dodatkowe obrażenia od ataku podstawowego."
         },
         {
             "Name": "Thor",
@@ -9992,7 +10101,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Thor zyskuje siłę fizyczną za każdego wrogiego boga w promieniu 55 jednostek."
         },
         {
             "Name": "Thot",
@@ -10019,7 +10129,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Toth zapisuje imiona zmarłych wrogów w swojej księdze, opisując ich słabości. Za zabicie 20 wrogów zyskuje kumulację 3 pkt. penetracji magicznej, a zabicie wrogiego boga skompletuje bieżącą kumulację. Toth odblokowuje nową kumulację co 4 poziomy, aż do pięciu na poziomie 17."
         },
         {
             "Name": "Tiamat",
@@ -10046,7 +10157,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "W postawie latania Tiamat odzyskuje PZ po śmierci pobliskich sojuszników i wrogów, a mniej zdrowia po śmierci pobliskich sługusów. W postawie naziemnej zyskuje do 5 utwardzonych łusek i redukcję obrażeń, która rozpada się po odniesieniu konkretnej ilości obrażeń. Zwykli sługusi nie dostarczają utwardzonych łusek."
         },
         {
             "Name": "Tsukuyomi",
@@ -10073,7 +10185,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Tsukuyomi trzyma Shingetsu w swej lewej dłoni, a Mangetsu w prawej. Kiedy obie te bronie zadadzą obrażenia wrogowi, obie bronie zyskują dodatkową moc. <font color='#b18cd9'>Wzmocniony Shingetsu zyskuje 50% rozcięcia na połowy i przywraca manę.</font> <font color='#DFEAFA'>Wzmocniony Mangetsu zadaje dodatkowe obrażenia i przywraca zdrowie.</font>"
         },
         {
             "Name": "Tyr",
@@ -10100,7 +10213,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Efekty ogłuszenia, prowokacji, strachu, upicia i hipnozy nie działają na Tyra dłużej niż 1 sek."
         },
         {
             "Name": "Ull",
@@ -10127,7 +10241,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Gdy Ull używa zdolności w dowolnej z postaw, czas odnowienia przeciwnej postawy skraca się."
         },
         {
             "Name": "Wamana",
@@ -10154,7 +10269,8 @@ Polish =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Pewien procent ochrony fizycznej Wamany jest zamieniany na siłę fizyczną i szybkość ataku."
         },
         {
             "Name": "Wulkan",
@@ -10181,7 +10297,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Za każdym razem, gdy Wulkanowi uda się trafić wrogiego boga zdolnością, zyskuje on premie do szybkości ruchu oraz PM5 na 5 sekund."
         },
         {
             "Name": "Xbalanque",
@@ -10208,7 +10325,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Kiedy Xbalanque zadaje obrażenia wrogim bogom, zyskuje kumulacje Głuchej Nocy, które na stałe zwiększają jego siłę fizyczną. Za każde 1500 zadanych obrażeń (po redukcjach), Xbalanque otrzymuje 1 kumulację (maks. 6 kumulacji)."
         },
         {
             "Name": "Xing Tian",
@@ -10235,7 +10353,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
-            "PhysProtPL": 3.7
+            "PhysProtPL": 3.7,
+            "Passive": "Xing Tian zdobywa kumulacje Tlącej Się Wściekłości za każdym razem, gdy trafia wroga zdolnością. Każda kumulacja wściekłości daje Xing Tianowi PZ5.\n\nKumulacje trwają 18 sek."
         },
         {
             "Name": "Jemaja",
@@ -10262,7 +10381,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Do aktywacji zaklęć Jemaja używa Omi zamiast Many. Na początku dysponuje 7 pkt. Omi, a łącznie może ich mieć maks. 10. Jemaja zyskuje 1 pkt. Omi (+0,01 na poziom) co 5 s., a skrócenie czasu odnowienia zwiększa odnawianie pkt. Omi. Leczenie od ataków podstawowych Jemai oddziałuje tylko na bogów i nie aktywuje efektów przedmiotów. Mana, PM5 i regeneracja many dotyczą puli zdrowia Jemai."
         },
         {
             "Name": "Ymir",
@@ -10289,7 +10409,8 @@ Polish =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 32.2,
-            "PhysProtPL": 3.6
+            "PhysProtPL": 3.6,
+            "Passive": "Wszystkie zdolności Ymira, które wpływają na wrogów, wywołują osłabiający efekt Odmrożenia. Wszystkie podstawowe ataki Ymira, wycelowane we wroga osłabionego Odmrożeniem, zadają o 100% więcej obrażeń. Wrogowie pod wpływem Odmrożenia zadają 10% mniej obrażeń. Efekt trwa 6 sek."
         },
         {
             "Name": "Yu Huang",
@@ -10316,7 +10437,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Yu Huang dostraja się do Tao, dzięki czemu jego podstawowe ataki i umiejętności zyskują dodatkowe efekty. Co 8 sekund zyskuje kolejną kumulację mocy Tao. Zdobywa również dodatkowe kumulacje za każde trafienie wrogiego boga po upływie 3 sekund bez zadawania i otrzymywania obrażeń. Gdy uzbiera 6 lub więcej kumulacji, osiągnie stan Dostrojenia, dzięki czemu jego ataki podstawowe mogą atakować łańcuchowo w kolejnego wroga."
         },
         {
             "Name": "Zeus",
@@ -10343,7 +10465,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 11.2,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Ręczne ataki piorunami nakładają na wrogów ładunki elektryczne. Ataki podstawowe wymierzone w cele z ładunkami zadają większe obrażenia. Ładunki trwają 5 sek."
         },
         {
             "Name": "Zhong Kui",
@@ -10370,7 +10493,8 @@ Polish =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.2,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Zhong Kui chwyta demony, gdy ktoś zginie w zasięgu 80 jedn. od niego, i przechowuje je w Worku Demonów, co zapewnia mu dodatkową ochronę. Po aktywacji Przyzwania Demonów, Zhong Kui zyskuje podwójną premię do ochrony dzięki Workowi Demonów, ale traci połowę demonów. Traci też połowę demonów w worku w chwili swej śmierci."
         }
     ]
 }

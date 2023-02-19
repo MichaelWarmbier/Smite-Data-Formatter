@@ -7088,7 +7088,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Aquiles se adapta al curso de la batalla. Mientras está en la fuente, Aquiles puede optar por usar armadura, otorgándole salud y protecciones adicionales, o renunciar a ella, otorgándole velocidad de movimiento y poder físico adicionales. Para intercambiar, usa el ataque básico de Aquiles mientras el indicador de la pasiva está activo."
         },
         {
             "Name": "Agni",
@@ -7115,7 +7116,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Golpear a un enemigo con un ataque básico proporciona 1 carga de combustión. Golpear a un dios enemigo proporciona 2. Con 4 cargas, la próxima Oleada de fuego o Lluvia de fuego prenderá a todos los enemigos golpeados e infligirá daño cada 0.5s durante 3s."
         },
         {
             "Name": "Ah Muzen Cab",
@@ -7142,7 +7144,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Los enemigos afligidos por ¡Abejas! reciben daño cada 0.5s durante 2s y son revelados en el minimapa y se aglomeran alrededor de los enemigos cercanos. Los ataques básicos se reinician y extienden la duración de la pasiva ¡Abejas! en 1s. Este daño no activa los efectos de objeto."
         },
         {
             "Name": "Ah Puch",
@@ -7169,7 +7172,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Ah Puch entra en sintonía con la muerte y puede levantar cuerpos de las tumbas a su voluntad. Cuando camina por encima de un cuerpo en descomposición, Ah Puch reduce el tiempo de reactivación de Oleada de No-Muertos y de Explosión de cuerpos en 2s, restaurando 7% de su salud máxima y 3% de su maná máximo."
         },
         {
             "Name": "Amaterasu",
@@ -7196,7 +7200,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Amaterasu Ilumina a los enemigos que ella golpea con sus ataques básicos.  Después de 3 golpes en el mismo objetivo el enemigo obtiene un aura, que expone su debilidad y causa que reciba más daño de todas las fuentes.  Cualquier otro enemigo que se acerque al objetivo afligido será debilitado."
         },
         {
             "Name": "Anhur",
@@ -7223,7 +7228,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Los ataques básicos de Anhur reducen la protección física del enemigo durante 3 segundos."
         },
         {
             "Name": "Anubis",
@@ -7250,7 +7256,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 14,
-            "PhysProtPL": 2.7
+            "PhysProtPL": 2.7,
+            "Passive": "Todas las habilidades de Anubis roban protección física y mágica de su objetivo e incrementa su curación obtenida del robo de vida mágico. Estos efectos se acumulan por cada tick de daño de las habilidades de Anubis. Tristeza también le otorga a Anubis un 30% de reducción en la duración de todos los controles de masas."
         },
         {
             "Name": "Ao Kuang",
@@ -7277,7 +7284,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cada 10 segundos, Ao Kuang obtiene una carga de la Espada del Rey Dragón. Con una carga disponible, su próxima habilidad básica que le inflige daño a un dios enemigo recibe reducción de tiempo de reactivación y cura a Ao Kuang. Ejecutar a un dios con su definitiva carga completamente la espada."
         },
         {
             "Name": "Afrodita",
@@ -7304,7 +7312,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Afrodita obtiene 4 protecciones físicas y mágicas por cada dios aliado o enemigo dentro de 70 unidades de distancia de ella."
         },
         {
             "Name": "Apolo",
@@ -7331,7 +7340,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Después de 10 ataques básicos exitosos, Apolo obtiene Audacia, aumentando su velocidad de ataque en 100% durante los próximos 5 ataques (golpee o falle) que haga. Apolo también consigue 1 carga de Audacia por cada habilidad que dañe a los dioses enemigos."
         },
         {
             "Name": "Aracne",
@@ -7358,7 +7368,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Los ataques básicos de Aracne ganan 1.25% de daño físico por cada 5% de la vida perdida del objetivo."
         },
         {
             "Name": "Ares",
@@ -7385,7 +7396,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 28,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cada objeto de aura completo que Ares tenga le concede a el 30 de Poder mágico adicional."
         },
         {
             "Name": "Artemisa",
@@ -7412,7 +7424,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Artemisa inflige un 15% de daño incrementado con sus ataques básicos a dioses y 30% a súbditos afectados por Control de masas."
         },
         {
             "Name": "Artio",
@@ -7439,7 +7452,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 28,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Los enemigos golpeados por las habilidades de daño de druida o de oso se comenzarán a descomponer. Este efecto reduce sus protecciones físicas. Este efecto se acumula."
         },
         {
             "Name": "Atenea",
@@ -7466,7 +7480,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 28,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Después de usar cualquier habilidad, el próximo ataque básico de Atenea es a distancia, atraviesa y golpea a todos los enemigos y hace un 50% más de daño al primer enemigo golpeado. El ataque a distancia activará los efectos de ataques básicos de objetos, pero no de habilidades."
         },
         {
             "Name": "Atlas",
@@ -7493,7 +7508,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 28,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Cuando Atlas recibe daño de dioses o hace daño con sus ataques básicos o habilidades, acumula 1.25 de energía en su astrolabio. Los súbditos dan 1/10 de su energía. Al alcanzar 20 de energía, su próximo ataque básico tiene 1.5x de daño y 1.5s de tiempo de oscilación y hace daño adicional frente a él. Los dioses golpeados tiemblan 2s y los súbditos quedan aturdidos. Puede almacenar hasta 30 de energía."
         },
         {
             "Name": "Awilix",
@@ -7520,7 +7536,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Si Awilix no ha recibido ni infligido daño en los últimos 5s y golpea a un enemigo primero, incrementa su poder físico por un corto periodo de tiempo."
         },
         {
             "Name": "Baba Yaga",
@@ -7547,7 +7564,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "La cabaña de Baba Yaga acumula hasta 100 de esencia cuando se mueve y si los dioses enemigos se acercan mucho. Baba Yaga puede acercarse a la cabaña y usar la esencia para ganar acumulaciones de objetos. Los objetos con pocas acumulaciones requieren más energía. Si no tiene ningún objeto con cargas, esta esencia la cura un 0.8% de salud máx. por tick."
         },
         {
             "Name": "Baco",
@@ -7574,7 +7592,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "A Baco le encanta la bebida y mientras bebe de su jarra, se embriaga más, obteniendo mejoras cuando se pone Alegre y Embriagado. Baco lo celebra cuando elimina a un dios enemigo, dándole un 10% en su medidor."
         },
         {
             "Name": "Bakasura",
@@ -7601,7 +7620,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "La velocidad de ataque y movimiento de Bakasura aumenta temporalmente por cada enemigo que mata."
         },
         {
             "Name": "Barón Samedi",
@@ -7628,7 +7648,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Barón Samedi comparte la Poción del Barón, un cáliz restaurador poderoso, con sus aliados desde la Tienda de objetos. A los enemigos golpeados por Barón se les aplicará Histeria. Las habilidades de Barón interactúan con Histeria para otorgar efectos adicionales. Objetivos con la Histeria al máximo reciben 20% de daño adicional de Barón Samedi."
         },
         {
             "Name": "Bastet",
@@ -7655,7 +7676,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Bastet obtiene robo de vida físico y robo de vida de habilidad física al golpear a los enemigos. Además, los dioses enemigos golpeados se revelan a Bastet durante 6s."
         },
         {
             "Name": "Belona",
@@ -7682,7 +7704,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Al dar o recibir golpes de ataques básicos, Belona obtiene protecciones y velocidad de movimiento durante 7s. (máx. 5 cargas)."
         },
         {
             "Name": "Cabrakan",
@@ -7709,7 +7732,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 28,
-            "PhysProtPL": 3.6
+            "PhysProtPL": 3.6,
+            "Passive": "Cabrakán y sus aliados cercanos reciben 5% de daño reducido."
         },
         {
             "Name": "Camazotz",
@@ -7736,7 +7760,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Camazotz tiene una bonificación pasiva, Embriagado de esencia, que aumenta el robo de vida físico y la curación. Además, en cualquier momento que un dios muera, este dejará un charco de su esencia en el sitio donde fue eliminado. Camazotz podrá colocarse sobre estos charcos para beber esta esencia cada 0.5s, recuperando su salud y maná."
         },
         {
             "Name": "Cerbero",
@@ -7763,7 +7788,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cuando un dios enemigo a 40 unidades de Cerbero es curado, esa curación es reducida en 20% y Cerbero recibe un 30% de curación. Cerbero reduce todos los tipos de curación y roba todos los tipos excepto curación cada 5s. La curación robada está basada en el efecto base de curación, y no incluye ningún aumento o reducción."
         },
         {
             "Name": "Cernunnos",
@@ -7790,7 +7816,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Cernunnos empuña un Glaive como arma. Sus ataques básicos infligen daño adicional a todos los enemigos a distancia cuerpo a cuerpo mientras lo lanza. El daño adicional no aplica los efectos de objetos o habilidades. Tampoco puede hacer un ataque crítico."
         },
         {
             "Name": "Chaac",
@@ -7817,7 +7844,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Después de 5 ataques básicos exitosos, la próxima habilidad que Chaac usa no cuesta maná y tiene su reactivación reducida por 2s."
         },
         {
             "Name": "Chang'e",
@@ -7844,7 +7872,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Chang'e puede comprar o vender objetos desde cualquier sitio mandando al conejo de jade a la tienda. Cuando el conejo regresa, la transacción se completa. Solo puede comprarse o venderse un objeto a la vez. Chang'e también obtiene +25% de velocidad de movimiento sin penalidad de retroceso cuando usa sus habilidades."
         },
         {
             "Name": "Caribdis",
@@ -7871,7 +7900,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "La velocidad de ataque de Caribdis aumenta al mismo tiempo que su marea. Los ataques básicos con éxito aumentan más su marea.\nCaribdis causa menos daño con efectos de objeto."
         },
         {
             "Name": "Chernobog",
@@ -7898,7 +7928,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cada ataque básico acertado impala el enemigo con un cristal frágil. Cuando alcance 3 cargas de Corazón de hielo, el enemigo explota y causa daño adicional en un área a su alrededor. (Este daño no desencadena los efectos del objeto)."
         },
         {
             "Name": "Quirón",
@@ -7925,7 +7956,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Cada 12s Quirón recoge hierbas para elaborar una cataplasma. Cada vez que usa una habilidad, una cataplasma es utilizada para curarse a sí mismo o a un aliado dentro de 30 unidades, dependiendo de quién tenga la salud más baja. Los aliados curados también ganan poder físico y mágico."
         },
         {
             "Name": "Cronos",
@@ -7952,7 +7984,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Cronos incrementa su poder a medida que el tiempo fluye a su alrededor. Cada 1,5 minutos obtiene una carga que incrementa su poder mágico. Se acumula hasta 25 veces, las cargas son permanentes."
         },
         {
             "Name": "Clíodhna",
@@ -7979,7 +8012,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.3
+            "PhysProtPL": 3.3,
+            "Passive": "Clíodhna puede atravesar las paredes una vez cada 16s. Puede moverse dentro y usar algunas habilidades. Cada 0.4s pierde 0.15% salud y se carga en intensidad hasta 40 veces. Solo puede entrar en una pared con más de 25% salud y si no está inhabilitada. Durante 5s después de salir, gana un 10% de robo de vida físico."
         },
         {
             "Name": "Cthulhu",
@@ -8006,7 +8040,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Cthulhu rompe la fortaleza mental de los dioses enemigos y aplica cargas de tormento con habilidades y el golpe final de su cadena de ataques básicos. Al alcanzar 4 cargas de tormento, los enemigos sufrirán locura. Además, Cthulhu consigue poder mágico por cada dios enemigo cercano que sufra locura."
         },
         {
             "Name": "Cúchulainn",
@@ -8033,7 +8068,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "El maná, MP5 y curación de Cúchulainn se aplican a su salud. Sus habilidades utilizan furia, que regenera hasta 25. La furia sube con habilidades, ataques básicos (1) y cuando él o sus aliados reciben daño (0,5). Después de 3s con más de 85, entra en modo frenético: obtiene poder y un escudo de salud."
         },
         {
             "Name": "Cupido",
@@ -8060,7 +8096,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cada ataque básico acertado le otorga a Cupido una Carga Corazón que incrementa el daño o la curación de sus habilidades. Bomba Corazón y Campos de Amor siempre consumen Cargas Corazón y con 8 cargas estas tendrán efectos adicionales."
         },
         {
             "Name": "Da Ji",
@@ -8087,7 +8124,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Las garras afiladas de Da Ji hacen sangrar a sus enemigos cuando son golpeados por sus ataques básicos. El sangrado inflige daño adicional cada segundo por 2s y puede acumularse cualquier cantidad de veces. Este daño no dispara efectos de los objetos."
         },
         {
             "Name": "Danzaburou",
@@ -8114,7 +8152,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Cada vez que Danzaburou gana oro de forma activa, almacena el 10% en una bolsa de dinero. Cuando una bolsa esté llena, Danzaburou obtiene oro adicional y un aumento de poder físico permanente antes de cambiar a una bolsa más grande."
         },
         {
             "Name": "Discordia",
@@ -8141,7 +8180,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Discordia se compara constantemente a sí misma y a sus compañeros de equipo para ver quién es el mejor. Cualquiera que sea el dios de su equipo que tenga el mayor daño infligido a jugadores enemigos, recibirá un potenciamiento que se escalará del nivel de Discordia."
         },
         {
             "Name": "Erlang Shen",
@@ -8168,7 +8208,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cada vez que Erlang Shen golpea a un enemigo con un ataque básico, su perro también lo hará con un 5% de su poder de los ataques básicos y 1.75% de la salud máxima del objetivo. El daño del objetivo solo funciona contra dioses y súbditos."
         },
         {
             "Name": "Isis",
@@ -8195,7 +8236,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Isis comparte HP5 y MP5 adicional con aliados cercanos. Por cada muerte de un jugador dentro de 80 unidades, su aura gana una carga adicional (máx. 10). Tras alcanzar 10 cargas, Isis obtiene 10% de reducción de tiempo de reactivación. Adicionalmente, el ataque final en su cadena de básicos tiene un alcance más amplio (+2)."
         },
         {
             "Name": "Fafnir",
@@ -8222,7 +8264,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
-            "PhysProtPL": 3.7
+            "PhysProtPL": 3.7,
+            "Passive": "Fafnir obtiene una bonificación de 2 de oro con todas las eliminaciones y asistencias, incluidas las de súbditos. Fafnir además obtiene una bonificación de protecciones basada en la cantidad de oro que en ese momento tenga. Esta bonificación tiene un límite de 1000 de oro."
         },
         {
             "Name": "Fenrir",
@@ -8249,7 +8292,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Fenrir recarga sus runas al atacar. Cada ataque básico activa 1 runa, hasta un máximo de 5. Desencadenado, Brutalidad y Ragnarok ganan beneficios adicionales cuando se usan con runas máximas y las runas son consumidas. Cuando Fenrir mata dioses, activa todas sus runas. Cuando asiste en un asesinato, activa 3 runas."
         },
         {
             "Name": "Freya",
@@ -8276,7 +8320,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "El collar de Freya le concede robo de vida mágico adicional."
         },
         {
             "Name": "Ganesha",
@@ -8303,7 +8348,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 28,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Siempre que Ganesha inflige el golpe final, Ganesha dará al dios aliado más cercano el crédito por la eliminación y recibe las recompensas por una asistencia. Adicionalmente, su alcance de asistencia es incrementado en 20 unidades y la duración por sus asistencias es incrementada en 5s."
         },
         {
             "Name": "Geb",
@@ -8330,7 +8376,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "La bonificación de daño de ataque crítico se reduce un 65%."
         },
         {
             "Name": "Gilgamesh",
@@ -8357,7 +8404,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "En los niveles 5 y 10, Gilgamesh recibe una misión. La primera misión consiste en visitar una ubicación específica en el mapa. La segunda misión es derrotar a la mitad del equipo enemigo (redondeado) en una sola batalla. Cada vez que Gilgamesh complete una misión, recibirá un objeto de nivel 1 o 500 de oro si tiene el inventario lleno."
         },
         {
             "Name": "Guan Yu",
@@ -8384,7 +8432,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cada vez que Guan Yu inflige o recibe daño obtiene cargas. Con las cargas al máximo las habilidades de Guan Yu tendrán un efecto potenciado. Las cargas se restablecen inmediatamente si Guan Yu no recibe ni inflige daño durante 5s."
         },
         {
             "Name": "Hachiman",
@@ -8411,7 +8460,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Hachiman se hace más fuerte a medida que acierta sus golpes. Golpear a los enemigos con sus ataques básicos energiza a Hachiman, otorgándole cargas de MP5. Se acumulan hasta 5 veces y las cargas duran 8s."
         },
         {
             "Name": "Hades",
@@ -8438,7 +8488,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Los ataques básicos de Hades aplican un estado negativo al enemigo, llamado Maldición. Este estado se mantiene en el objetivo y se puede aplicar nuevamente. Si un enemigo está afligido por la Maldición, cada uno de los otros poderes de Hades obtienen un efecto adicional."
         },
         {
             "Name": "He Bo",
@@ -8465,7 +8516,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Cada vez que He Bo usa una habilidad, aumenta su poder mágico. El tiempo del poder mágico adicional se actualiza al usar otra habilidad."
         },
         {
             "Name": "Heimdal",
@@ -8492,7 +8544,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cuando Heimdal atisba a un enemigo, consigue poder físico hasta un máximo de 5 dioses. Cuando un dios enemigo desaparecería de su vista (incluido en modo sigilo), Heimdal sigue viéndolo durante 4s. Los ataques críticos de Heimdal solo hacen un 40% de daño de bonificación."
         },
         {
             "Name": "Hel",
@@ -8519,7 +8572,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Cuando Hel está en una postura, se sintoniza gradualmente con las fortalezas de esa postura y gana hasta 20% de daño adicional en la postura de oscuridad y un 10% de curación adicional de sus habilidades en la postura de luz."
         },
         {
             "Name": "Hera",
@@ -8546,7 +8600,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Cada vez que Hera inflige daño a enemigos con sus habilidades o ataque básicos, el tiempo de reactivación del Defensor se reduce 1.5s y el tiempo de reactivación de Manto divino se reduce 0.5s. Si Argus está activo recibe curación."
         },
         {
             "Name": "Hércules",
@@ -8573,7 +8628,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cada vez que Hércules recibe daño de un dios enemigo obtiene un autopotenciamiento acumulable que otorga un incremento de poder físico."
         },
         {
             "Name": "Horus",
@@ -8600,7 +8656,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cada vez que Horus recibe daño de un dios enemigo, gana una carga de Firme. Si Set es el que inflige el daño, gana 2 acumulaciones. Cada carga aumenta las protecciones y reducción de CM de Horus. Firme tiene un máximo de acumulaciones durante 3 s. Al desaparecer Firme, Horus se cura según la cantidad de acumulaciones."
         },
         {
             "Name": "Hou Yi",
@@ -8627,7 +8684,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Después de recibir un golpe crítico, Hou Yi no podrá ser golpeado con golpes críticos otra vez durante 3s."
         },
         {
             "Name": "Hun Batz",
@@ -8654,7 +8712,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Después de usar una habilidad, el próximo ataque básico de Hun Batz infligirá un 15% más de daño."
         },
         {
             "Name": "Ishtar",
@@ -8681,7 +8740,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.132
+            "PhysProtPL": 3.132,
+            "Passive": "Si Ishtar tiene menos del 75% de salud, marca al último dios enemigo que la dañó durante 10s. Cada vez que inflige daño al dios marcado con un ataque básico, gana una mejora de velocidad de ataque. Si recibe una muerte o asistencia en el dios marcado, gana una mejora de velocidad de movimiento. Esta pasiva tiene una reactivación de 20s."
         },
         {
             "Name": "Izanami",
@@ -8708,7 +8768,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Cuanto más cerca de la muerte se encuentre Izanami, más poderosa se hace. Obtiene 4% de penetración física por cada 10% de la salud que le falta, hasta un máximo de 20%.\nSus ataques básicos aumentan la velocidad de proyectil con mayor velocidad de ataque y solo inician efectos de objetos en el 1.er objetivo golpeado."
         },
         {
             "Name": "Jano",
@@ -8735,7 +8796,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 14,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Cada vez que Jano pasa por un portal o sobre un umbral dimensional envejece y se hace más sabio, obteniendo un aumento mágico adicional en su siguiente habilidad."
         },
         {
             "Name": "Jing Wei",
@@ -8762,7 +8824,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Cuando deje la fuente, Jing Wei se prepara para el despegue y luego asciende al cielo, permitiéndole volar por encima de obstáculos con mayor velocidad e inmunidad al control de masas. Jing Wei puede cancelar su vuelo al salir de la fuente."
         },
         {
             "Name": "Jormungandr",
@@ -8789,7 +8852,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
-            "PhysProtPL": 3.8
+            "PhysProtPL": 3.8,
+            "Passive": "Jormungandr es tan grande que no se ve afectado por el desplazamiento. En su lugar, sufre una debilitación que le ralentiza y aumenta el daño que recibe, que no se puede eliminar. La velocidad de ataque acelera la recarga de su ataque básico, pero el ataque no activa los efectos de los objetos."
         },
         {
             "Name": "Kali",
@@ -8816,7 +8880,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 21,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Kali marca a un dios. Obtiene penetración física en contra de él y se cura 60% de su salud máxima por eliminarlo o 20% por asistir. La bonificación de oro también es incrementada 30%. Si el objetivo muere, el dios más cercano a Kali será marcado. Si Kali es eliminada, podrá elegir a un nuevo objetivo."
         },
         {
             "Name": "Khepri",
@@ -8843,7 +8908,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cada 5 s, Khepri aplica un escudo en sí mismo y a todos los aliados cercanos, aumentado 2% del total máximo de salud del objetivo durante 15s.  El porcentaje se ralentiza cada 10s si Khepri no inflige ni recibe daño durante 5s. (Máx. 10%)"
         },
         {
             "Name": "Rey Arturo",
@@ -8870,7 +8936,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cada habilidad que dañe a un dios resulta en una carga, reduciendo el daño que Arturo recibe y aumentando su carga de energía. Cada habilidad intercambia entre su postura estándar y de combo. La velocidad de ataque y los efectos de los objetos no benefician su ataque. La velocidad de ataque aumenta su carga de energía."
         },
         {
             "Name": "Kukulkan",
@@ -8897,7 +8964,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Incrementa el poder mágico en un 4% del máximo de maná."
         },
         {
             "Name": "Kumbhakarna",
@@ -8924,7 +8992,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Kumbhakarna no morirá al alcanzar 0 puntos de salud, en vez de eso caerá profundamente dormido. Despertará después de 8s con 35% de salud y maná, a menos que sea golpeado con 6 ataques básicos (+1 cada 5 niveles) mientras está durmiendo. Esta pasiva tiene un tiempo de reactivación de 120s."
         },
         {
             "Name": "Kuzenbo",
@@ -8951,7 +9020,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Cuando Kuzenbo recibe 2% de su salud máx. como daño antes de mitigarlo, su cabeza se llena de agua y obtiene cargas de mitigación de daño (10 máx.). Las cargas duran 30s y se reinician al obtener una nueva carga. Si le afecta el CM fuerte, el tazón pierde la mitad de sus cargas. Solo puede perder cargas de esta forma cada 1.5s."
         },
         {
             "Name": "Lancelot",
@@ -8978,7 +9048,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Lancelot recibe 1 carga por matar a un dios/ayudar y 1 carga por cada 5 muertes de súbditos (máx. 60 cargas).\nSi está montado, cada carga aumenta la vel. de movimiento.\nSi no está montado, cada carga proporciona un daño de ataque básico reducido recibido desde el frente."
         },
         {
             "Name": "Loki",
@@ -9005,7 +9076,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Loki inflige más daño con sus ataques básicos cuando impacta a sus enemigos por la espalda. Sus ataques básicos también utilizan una cadena progresiva de 5 blandidas de daga."
         },
         {
             "Name": "Maui",
@@ -9032,7 +9104,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Cuando un dios enemigo está afectado por CM fuerte cerca de Maui, queda marcado durante el CM y durante 2s adicionales después. Si Maui realiza un ataque básico a un enemigo marcado, su próximo ataque básico se potencia. El ataque básico potenciado de Maui atrae a los dioses enemigos hacia él. Este pasivo tiene un tiempo de reactivación de 10s."
         },
         {
             "Name": "Medusa",
@@ -9059,7 +9132,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Medusa no sufre de penalización de movimiento cuando se mueve hacia los lados y solo la mitad cuando se mueve hacia atrás."
         },
         {
             "Name": "Mercurio",
@@ -9086,7 +9160,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Cada unidad de distancia que se desplace Mercurio le da una bonificación de 0,06% de poder físico en su siguiente ataque (máx. de 30%).\n\nTambién obtiene poder físico equivalente al 25% de la velocidad de sus objetos o habilidades."
         },
         {
             "Name": "Merlín",
@@ -9113,7 +9188,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 14,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cada vez que Merlín lanza un hechizo gana una carga de sobrecarga. La próxima vez que Merlín lance un ataque básico se incrementará con un rayo, infligiendo daño adicional al primer enemigo"
         },
         {
             "Name": "Morgana Le Fay",
@@ -9140,7 +9216,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Las habilidades de Morgana Le Fay marcan a los dioses enemigos y activan el símbolo compartido en su espada, que da poder mágico. Cuando su espada ha conseguido los 5 símbolos, Morgana Le Fay se potencia, gana 2x poder mágico y reduce la reactivación de Poder agotador en 10s antes de que se agoten los símbolos."
         },
         {
             "Name": "Mulan",
@@ -9167,7 +9244,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Mulan usa una espada, lanza y arco con sus habilidades y consigue nivel de habilidad para usarlas dañando a los enemigos. Su maestría en las armas le ofrece diferentes bonificaciones. Mulan también consigue un potenciador cada 10s que reduce en 2s el tiempo de reactivación de la próxima habilidad usada que no sea la definitiva."
         },
         {
             "Name": "Ne Zha",
@@ -9194,7 +9272,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "El espíritu de Ne Zha se fortalece a medida que golpea con éxito a los enemigos con habilidades y con ataques básicos. Cada golpe le otorga 1 carga y cada golpe crítico 2 cargas. Las cargas restablecen si Ne Zha no recibe ni inflige daño durante 12s."
         },
         {
             "Name": "Neith",
@@ -9221,7 +9300,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Una tela rasgada aparece en la última ubicación en la que muere cada dios. La tela rasgada le da habilidades y efectos secundarios cuando se usa en las telas rasgadas. Tienen una duración de 2 minutos."
         },
         {
             "Name": "Némesis",
@@ -9248,7 +9328,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Némesis sostiene la balanza del equilibrio. Golpear a los enemigos con ataques básicos empuja la balanza a su favor, reduciendo el poder físico y mágico de su objetivo e incrementando los de ella (carga)."
         },
         {
             "Name": "Nike",
@@ -9275,7 +9356,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 21,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Nike establece tres metas que el equipo puede lograr para obtener un incremento de fuerza. Tras completar una meta, el equipo de Nike obtiene un laurel que incrementa el poder y la velocidad de movimiento. Este laurel puede incrementar estadísticas hasta 3 veces."
         },
         {
             "Name": "Nox",
@@ -9302,7 +9384,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Las velas de Nox recolectan energía de todas las habilidades que ella usa. Por cada habilidad que Nox lance, una vela se enciende. Por cada vela encendida, Nox obtiene +3% de Poder mágico. Cuando Nox recibe daño de un dios enemigo, una vela es apagada."
         },
         {
             "Name": "Nu Wa",
@@ -9329,7 +9412,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Después de 5 ataques básicos acertados, el siguiente ataque básico de Nu Wa enraizará a un enemigo."
         },
         {
             "Name": "Odín",
@@ -9356,7 +9440,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Odín adquiere poder cuando escolta a un guerrero caído hacia el Valhala. Siempre que cualquier dios muera en el campo de batalla, Odín obtiene una bonificación de velocidad de movimiento y poder. Este efecto se puede acumular hasta 5 veces."
         },
         {
             "Name": "Olorun",
@@ -9383,7 +9468,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Al alcanzar 150 de Poder mágico de los objetos, Olorun consigue 15% de probabilidad de golpe crítico y además un 1% por 10 de Poder mágico de los objetos.\nSus golpes críticos solo hacen un 50% más de daño.\nAsimismo, su ataque básico tiene un 5% más de progresión con sus ataques básicos."
         },
         {
             "Name": "Osiris",
@@ -9410,7 +9496,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 23.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cada vez que Osiris usa una habilidad pierde un fragmento de su cuerpo, obteniendo mitigación de daño físico. Tras perder 8 fragmentos, entra en su forma espiritual. Sus ataques no generan una penalización de movimiento, y puede atravesar enemigos y sus obstáculos. El efecto durará hasta que acierte 6 ataques básicos."
         },
         {
             "Name": "Pele",
@@ -9437,7 +9524,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Cuando Pele baja del 50% de su PS, su llama prende y obtiene un aumento de poder físico, robo de vida y robo de vida de habilidad. Esta pasiva tiene un tiempo de reactivación de 30s."
         },
         {
             "Name": "Perséfone",
@@ -9464,7 +9552,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Cuando Perséfone muere viajará al plano de la muerte, donde puede colocar 6 semillas de cosecha que brotarán cuando reaparezca. Además, cada vez que una de sus plantas de cosecha se marchite, ganará una semilla de granada que puede vender en la fuente por 3 de oro. Perséfone puede llevar 100 semillas."
         },
         {
             "Name": "Poseidón",
@@ -9491,7 +9580,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 11.2,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "La velocidad de movimiento de Poseidón aumenta junto con el daño de sus habilidades a medida que el nivel de su marea aumenta.  Los ataques básicos acertados incrementan su medidor de marea y lanzar habilidades la disminuye."
         },
         {
             "Name": "Ra",
@@ -9518,7 +9608,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 14,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cada vez que Ra utiliza una habilidad, su velocidad de movimiento aumenta."
         },
         {
             "Name": "Raijin",
@@ -9545,7 +9636,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 3.3
+            "PhysProtPL": 3.3,
+            "Passive": "Por cada 5 habilidades lanzadas, Raijin reduce el tiempo de reactivación de las habilidades que se encuentren reactivación (Incluyendo la que acaba de lanzar) en 1s."
         },
         {
             "Name": "Rama",
@@ -9572,7 +9664,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "El Carcaj astral de Rama genera una flecha astral cada 12s. Cada golpe con ataque básico reduce el tiempo en que se genera una flecha astral en 2s. La primera vez que una flecha astral golpea a un enemigo, tiene una probabilidad de caer al suelo. Recoger la flecha astral restaura 10 de maná."
         },
         {
             "Name": "Ratatoskr",
@@ -9599,7 +9692,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Ratatoskr inicia con una poderosa bellota mágica del Árbol del mundo en su inventario. Puede mejorar su bellota usando la tienda desde cualquier parte del mapa. Cada bellota mejorada tiene diferentes propiedades."
         },
         {
             "Name": "Ravana",
@@ -9626,7 +9720,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Los ataques básicos y habilidades de Ravana que impacten con éxito en un enemigo se añadirán a la cadena de combos de Ravana. Cada vez que su cadena llega a 8, recibirá un escudo igual al 7% de su salud máxima y 3% de velocidad de movimiento. Se puede acumular hasta 3 veces."
         },
         {
             "Name": "Scylla",
@@ -9653,7 +9748,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Cada una de las habilidades de Scylla obtiene un efecto adicional al alcanzar su máximo nivel. Además, Scylla obtiene 25 puntos de Poder mágico por cada habilidad a su máximo nivel."
         },
         {
             "Name": "Serket",
@@ -9680,7 +9776,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Los ataques básicos dañinos de Serket aplican un catalizador, que consume sus venenos prolongados de Desliz tósigo y Danza de la cobra. Si el objetivo es afectado por dos o tres venenos diferentes, recibirá daño adicional."
         },
         {
             "Name": "Set",
@@ -9707,7 +9804,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Cada vez que Set daña a un enemigo, obtiene una carga de Implacable. Si Horus es el enemigo atacado, Set obtiene 2 cargas. Cada carga incrementa la velocidad de ataque de Set. Implacable se acumula hasta 10 veces durante 6s. Mientras Matarreyes está activo, Implacable no tiene un máximo de acumulaciones."
         },
         {
             "Name": "Shiva",
@@ -9734,7 +9832,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 22.4,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Shiva alterna entre los estados de dicha y destrucción al infligir daño a los dioses enemigos con ataques y habilidades. Cada estado proporciona beneficios a sí mismo y sus aliados, u obstáculos para sus enemigos. Al cambiar de estado, el tiempo de reactivación de las habilidades no definitivas de Shiva se reduce en 2s."
         },
         {
             "Name": "Skadi",
@@ -9761,7 +9860,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.4,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Kaldr tiene 2 formas: bestial y elemental. En su forma bestial, podrá atacar a los enemigos y ser atacado. En forma elemental, es inmune a los ataques y gana 1 PS cada 4s. Se le puede controlar por la Runa de la cacería, pero volverá a su estado elemental si pierde sus PS. También consigue 10% de Poder físico si Kaldr no tiene PS."
         },
         {
             "Name": "Sobek",
@@ -9788,7 +9888,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Los ataques básicos y habilidades de Sobek que impacten a un enemigo le otorgan protecciones adicionales durante un breve periodo."
         },
         {
             "Name": "Sól",
@@ -9815,7 +9916,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Sól gana calor a medida que usa sus habilidades y golpea con ataques básicos. Gana +1% de poder mágico y +1.2% de velocidad de ataque por cada 4% de calor. En 100% de calor, los ataques básicos de Sól ganan +15% de daño. El calor decrece con el tiempo."
         },
         {
             "Name": "Sun Wukong",
@@ -9842,7 +9944,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cuando Sun Wukong está por debajo de 40% de salud, obtiene +10 de Poder físico y +10 de protección, más otros 2 de Poder físico y 2 de protección dependiendo de su nivel actual. Mientras Cuerpo triunfante esté activo, si Sun Wukong tiene más de 50% de salud, mantiene el potenciamiento durante 12s."
         },
         {
             "Name": "Surtr",
@@ -9869,7 +9972,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "La carne de Surtr se rompe en fragmentos después de perder suficiente salud. Al recogerlos, Surtr gana un porcentaje de salud máx. a lo largo del tiempo y protecciones durante 3s (máx. 3 cargas). Los enemigos pueden destruir estos fragmentos al caminar sobre ellos."
         },
         {
             "Name": "Susano",
@@ -9896,7 +10000,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Cada vez que Susano inflige daño exitosamente a por lo menos un dios enemigo con una habilidad, obtiene una carga. Con 4 cargas, su siguiente habilidad dentro de 5 segundos que impacte a un enemigo infligirá una bonificación de daño."
         },
         {
             "Name": "Silvano",
@@ -9923,7 +10028,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cuando las habilidades de Silvano golpean o se despliegan, aparece una vaina de semillas. Cuando Silvano la recoge, restaura un 2.5% de su maná y reduce sus tiempos de reactivación en 0.5s. En el nivel 15, esta reducción de tiempo de reactivación aumenta a 1s."
         },
         {
             "Name": "Terra",
@@ -9950,7 +10056,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 28,
-            "PhysProtPL": 3.5
+            "PhysProtPL": 3.5,
+            "Passive": "Las habilidades de Terra crean menhires. Mientras los menhires estén activos, Terra es inmune a los lanzamientos por el aire. Además, sus ataques básicos tienen AdE, ralentizan e infligen daño adicional a los enemigos. Este daño adicional no activa efectos de objetos. Si Terra fragmenta cualquier menhir, mantendrá este potenciamiento durante 3s cuando desaparezcan todos."
         },
         {
             "Name": "Tánatos",
@@ -9977,7 +10084,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Los dioses enemigos dentro del umbral de salud en el que pueden ser ejecutados son revelados a Tánatos. Dar un golpe final cura a Tánatos según la salud máxima del objetivo y además reduce los tiempos de reactivación de sus habilidades. Las habilidades de Tánatos cuestan salud y maná al usarse."
         },
         {
             "Name": "Morrigan",
@@ -10004,7 +10112,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "El 3.er golpe en la cadena de ataques de Morrigan explotará infligiendo daño a todos los enemigos dentro del alcance y debilitándolos. Los enemigos afectados por esto recibirán daño adicional con el tiempo."
         },
         {
             "Name": "Thor",
@@ -10031,7 +10140,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 19.6,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Thor obtiene poder físico por cada dios enemigo dentro de 55 unidades a su alrededor."
         },
         {
             "Name": "Thoth",
@@ -10058,7 +10168,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 12.6,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Thoth escribe los nombres de sus oponentes caídos en su libro, anotando sus debilidades. Tras eliminar a 20 enemigos, Thoth obtiene una carga de 3 de penetración mágica. Desbloquea una nueva carga cada 4 niveles, hasta un máximo de 5 cargas al nivel 17."
         },
         {
             "Name": "Tiamat",
@@ -10085,7 +10196,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Mientras está en postura voladora, Tiamat se cura de las muertes de aliados y enemigos cercanos, menos de los súbditos. En la postura terrestre, gana hasta 5 Escamas endurecidas, mitigación de daño que se rompe después de recibir una cierta cantidad de daño. Los súbditos normales no proporcionan Escamas endurecidas."
         },
         {
             "Name": "Tsukuyomi",
@@ -10112,7 +10224,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3
+            "PhysProtPL": 3,
+            "Passive": "Tsukuyomi empuña la Shingetsu en su mano izquierda y la Mangetsu en su mano derecha. Cuando estas armas hacen daño a un enemigo, obtienen poder. <font color='#b18cd9'>La Shingetsu potenciada hace un 50% de daño de corte y restaura maná.</font> <font color='#DFEAFA'>La Mangetsu potenciada hace daño adicional y restaura la salud.</font>"
         },
         {
             "Name": "Tyr",
@@ -10139,7 +10252,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Los efectos de aturdimiento, provocación, miedo, embriaguez e hipnotizar no tendrán efecto por más de 1s sobre Tyr."
         },
         {
             "Name": "Ullr",
@@ -10166,7 +10280,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Cuando Ullr usa una habilidad en cualquiera de sus posturas, sus tiempos de reactivación en la postura opuesta son reducidos."
         },
         {
             "Name": "Vamana",
@@ -10193,7 +10308,8 @@ Latam =
             "MagProt": 32,
             "MagProtPL": 1.6,
             "PhysProt": 25.2,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "Un porcentaje de las protecciones físicas de Vamana se convierte en poder físico y velocidad de ataque."
         },
         {
             "Name": "Vulcano",
@@ -10220,7 +10336,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 18.2,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Siempre que Vulcano golpee exitosamente a un dios enemigo con una habilidad obtendrá bonificaciones de velocidad de movimiento y MP5 durante 5s."
         },
         {
             "Name": "Ixbalanqué",
@@ -10247,7 +10364,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.1
+            "PhysProtPL": 3.1,
+            "Passive": "A medida que Ixbalanqué inflige daño a dioses enemigos gana acumulaciones de Muerte de la noche, que incrementan su poder físico permanentemente. Por cada 1500 de daño infligido, después de mitigaciones, Ixbalanqué obtiene una acumulación, hasta 6 máx."
         },
         {
             "Name": "Xing Tian",
@@ -10274,7 +10392,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 29.4,
-            "PhysProtPL": 3.7
+            "PhysProtPL": 3.7,
+            "Passive": "Xing Tian obtiene cargas de Furia latente cada vez que golpea a un enemigo con una habilidad. Por cada carga de furia que Xing Tian tenga, obtendrá HP5. \n\nLas cargas durarán 18s."
         },
         {
             "Name": "Yemayá",
@@ -10301,7 +10420,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 26.6,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Yemayá usa omi para lanzar hechizos en lugar de maná. Empieza con 7 y puede ganar hasta 10. Regenera 1 omi (+0.01/nvl.) cada 5s y la reducción del tiempo de reactivación aumenta la regeneración de omi. Su curación solo afecta a los dioses. El maná, MP5 y las curaciones de maná se aplican a la reserva de salud de Yemayá."
         },
         {
             "Name": "Ymir",
@@ -10328,7 +10448,8 @@ Latam =
             "MagProt": 35,
             "MagProtPL": 1.6,
             "PhysProt": 32.2,
-            "PhysProtPL": 3.6
+            "PhysProtPL": 3.6,
+            "Passive": "Todas las habilidades de Ymir que afectan a los enemigos aplican una desmejora llamada Mordida congelante. Todos los ataques básicos de Ymir obtienen 100% de daño adicional contra de los enemigos afligidos por Mordida congelante.  Los enemigos afectados por Mordida congelante infligen 10% menos de daño. Dura 6s."
         },
         {
             "Name": "Yu Huang",
@@ -10355,7 +10476,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 16.8,
-            "PhysProtPL": 3.2
+            "PhysProtPL": 3.2,
+            "Passive": "Yu Huang se sintoniza con el tao y sus ataques básicos y habilidades tienen efectos adicionales. Gana una carga de tao cada 8s. También gana una carga al golpear a un enemigo si no sufre o inflige daño durante 3s. Con 6 o más cargas, Yu Huang entra en sintonía y sus ataques básicos se encadenan a un enemigo adicional."
         },
         {
             "Name": "Zeus",
@@ -10382,7 +10504,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 11.2,
-            "PhysProtPL": 2.9
+            "PhysProtPL": 2.9,
+            "Passive": "Los ataques básicos de Zeus aplican una carga a los enemigos. Los ataques básicos en contra de objetivos que tengan una carga en adelante incrementarán el daño infligido. La carga dura 5s."
         },
         {
             "Name": "Zhong Kui",
@@ -10409,7 +10532,8 @@ Latam =
             "MagProt": 30,
             "MagProtPL": 1.6,
             "PhysProt": 15.2,
-            "PhysProtPL": 2.8
+            "PhysProtPL": 2.8,
+            "Passive": "Zhong Kui captura demonios en su Bolsa demoníaca cuando algo muere dentro de 80 unidades de él, otorgándole protecciones. Cuando Evocar demonios es activado, Zhong Kui obtiene el doble de protecciones de su Bolsa demoníaca, pero perderá la mitad de los demonios acumulados. También pierde la mitad si muere."
         }
     ]
 }

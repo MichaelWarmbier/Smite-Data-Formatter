@@ -57,8 +57,8 @@ const godClass = {
   MagProt: null,
   MagProtPL: null,
   PhysProt: null,
-  PhysProtPL: null
-  
+  PhysProtPL: null,
+  Passive: null
 }
 const statClass = {
   StatName: null,
@@ -114,31 +114,13 @@ updateNum = 0;
 lastReportUpdate = updateNum;
 
 async function main() {
-  await updateJSON();
-  setTimeout(await async function() {
-    try { await stripDownJSON(); }
-    catch (e) { 
-      console.log(e);
-      logReport("ERR: Unable to save formatted files " + getTimeStamp());
-    }
-  }, 10000);
-  
-  setInterval(async function() {
-    if (lastDayUpdated != (new Date()).getDate()) {
-      await updateJSON();
-      setTimeout(async function() {
-          try { await stripDownJSON(); }
-          catch (e) { 
-            console.log(e);
-            logReport("ERR: Unable to save formatted files " + getTimeStamp());
-          }
-        }, 10000);
-      lastDayUpdated = (new Date()).getDate();
-      updateNum++;
-    }
-    
-    console.log("Application Ping! " + new Date().toJSON());
-  }, 10000);
+  //await updateJSON();
+  try { await stripDownJSON(); }
+  catch (e) { 
+    console.log(e);
+    logReport("ERR: Unable to save formatted files " + getTimeStamp());
+  }
+  console.log("DONE!")
 } main();
 
 ///////////////////////////////
@@ -236,7 +218,7 @@ async function stripDownJSON() {
   // God Classification 
   for (let langIndex = 0; langIndex < langData.Names.length; langIndex++) {
     for (let godIndex = 0; godIndex < JSONGodList[langIndex].length; godIndex++) {
-      for (let refIndex = 0; refIndex < ref.Gods.length; refIndex++) 
+      for (let refIndex = 0; refIndex < ref.Gods.length; refIndex++)
         if (JSONGodList[0][godIndex].Name == ref.Gods[refIndex]) {
           let selection = objectList[langIndex].Gods.push(JSON.parse(JSON.stringify(godClass))) - 1;
           await applyGodInfo(objectList[langIndex].Gods[selection], JSONGodList[langIndex][godIndex], godIndex);
@@ -332,6 +314,7 @@ async function applyGodInfo(obj, god, i) {
   obj.MagProtPL = god.MagicProtectionPerLevel;
   obj.PhysProt = god.PhysicalProtection;
   obj.PhysProtPL = god.PhysicalProtectionPerLevel;
+  try { obj.Passive = god.Ability_5.Description.itemDescription.description; } catch (e) {}
 }
 
 async function applyItemInfo(obj, item, i, obj_ref) {
@@ -366,5 +349,3 @@ async function getItemById(id, obj_ref) {
     if (ob_ref[idIndex].ItemId == id) 
       return obj_ref[idIndex];
 }
-
-function sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)); }
